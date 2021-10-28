@@ -41,7 +41,7 @@ Cancel changes
 
 - Lu Li, Ran Wang*, Jingyu Lin, Zhouxuan Xiao, Yuanxiu Hui, and Wei Zeng.(2019). Arbitrary Oriented Outcrop Section Measurement using 3D Point Cloud [C]. IEEE 4th International Conference on Image, Vision and Computing, Xiamen City, 2019.7.05-07. (EI/Scopus)
 
-- 王冉, 肖宙轩, 林靖愉, 崔文玲. 石香肠构造的多种地质构造背景 [J]. 大地构造与成矿学, 2018, 42(05): 777-785. (EI)
+- 王冉, <b>肖宙轩</b>, 林靖愉, 崔文玲. 石香肠构造的多种地质构造背景 [J]. 大地构造与成矿学, 2018, 42(05): 777-785. (EI)
 
 - 肖宙轩;马立成;孙娇鹏;江万;蔡洁;姚宇琰.柴达木北缘乌兰县北部榴闪岩的发现及其地质意义[C]// 2017中国地球科学联合学术年会. (会议摘要)
 
@@ -53,7 +53,13 @@ Cancel changes
 
 - 王冉, 林靖愉, 肖宙轩, 惠元秀. 米仓山旺苍县一带壶穴群特征及形成条件分析 [C]. 2018中国地理大会, 陕西 西安, 2018.8.29-30. (会议全文)
 
-### Projetcss
+### Projects
+
+- 遥感科学国家重点实验室开放基金项目（OFSLRSS202108）：火星表面石块三维形态与丰度特征研究（2021-2023），第一学生参与人
+
+- 国际月球科研站选址（ILRS2021子项目），参与
+
+- FASTA干涉阵选址（2021-），参与
 
 - 长安大学研究生科研创新实践项目(No.300103002089)“面向对象的结晶岩光学显微图像多尺度分析及特征提取” (2019/04~2019/11),负责人
 
