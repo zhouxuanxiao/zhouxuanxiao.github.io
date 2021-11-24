@@ -13,7 +13,9 @@ Cancel changes
 
 ### Publications
 
-- Xiao Z. et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]// submitted to IEEE Geoscience and Remote Sensing Letters (2021-9-28).
+- (2021). A novel approach to mapping geological section using spatial data from point clouds of outcrops.[J]// submitted to Sedimentary Geology (2021-11-19).
+- 
+- Xiao Z. et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]// IEEE Geoscience and Remote Sensing Letters (Under Review).
 
 - Xiao Z. et al.(2021). A Workflow of 3D Rock Extraction and Shape Analysis Using Mars Rover Imagery[C]// 2021 National Planetary Science Conference.
 
