@@ -1,4 +1,4 @@
-### 🌱Zhouxuan Xiao
+### 🌱Zhouxuan Xiao（肖宙轩）
 
 - 👋 Hi, I’m @zhouxuanxiao, a Ph.D. candidate from Sun Yat-sen University, China.
 
@@ -6,7 +6,10 @@
 
 - 💞️ a student member of AGU, IEEE, ISPRS and CPGIS, and also a prefered member of IEEE Geoscience and Remote Sensing Society. 
 
-- 📫 *WOS ResearcherID: X-6158-2019 *ORCID: https://orcid.org/0000-0002-4088-4790
+- 📫 WOS ResearcherID: X-6158-2019 
+- 📫 Researchgate: https://www.researchgate.net/profile/Zhouxuan-Xiao
+- 📫 Google Scholar: https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN
+- 📫 ORCID: https://orcid.org/0000-0002-4088-4790
 
 ### Publications
 
