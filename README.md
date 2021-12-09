@@ -1,6 +1,6 @@
 ### 🌱Zhouxuan Xiao（肖宙轩）
 
-- 👋 Hi, I’m @zhouxuanxiao, a Ph.D. candidate from Sun Yat-sen University, China.
+- 👋 Hi, I’m @zhouxuanxiao, a Ph.D. candidate from Sun Yat-sen University, China. （H-index: 3  @2021-12）
 
 - 👀 Interested in 3D information extraction and analysis, especially planetary remote sensing and mapping.
 
