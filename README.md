@@ -1,10 +1,10 @@
 ### 🌱Zhouxuan Xiao（肖宙轩）
 
-- 👋 Hi, I’m @zhouxuanxiao, a Ph.D. candidate from Sun Yat-sen University, China. （H-index: 3  @2021-12）
+- 👋 Hi, I’m @zhouxuanxiao, a Ph.D. candidate from School of Geospatial Engineering and Science, Sun Yat-sen University, China. （H-index: 3  @2021-12）
 
 - 👀 Interested in 3D information extraction and analysis, especially planetary remote sensing and mapping.
 
-- 💞️ a student member of AGU, IEEE, ISPRS and CPGIS, and also a prefered member of IEEE Geoscience and Remote Sensing Society. 
+- 💞️ Student member of AGU, CPGIS, IEEE, and the ISPRS Student Consortium, also a prefered member of IEEE Geoscience and Remote Sensing Society. 
 
 - 📫 WOS ResearcherID: X-6158-2019 
 - 📫 Researchgate: https://www.researchgate.net/profile/Zhouxuan-Xiao
@@ -13,7 +13,7 @@
 
 ### Publications
 
-- (2021). A novel approach to mapping geological section using spatial data from point clouds of outcrops.[J]// submitted to JSG (2021-12-7）.
+- A novel approach to mapping geological section using spatial data from point clouds of outcrops.[J]// submitted to JSG (2021-12-7）.
 
 - Xiao Z. et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]// IEEE Geoscience and Remote Sensing Letters (Under Review).
 
