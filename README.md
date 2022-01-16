@@ -13,9 +13,9 @@
 
 ### Publications
 
-- A novel approach to mapping geological section using spatial data from point clouds of outcrops.[J]// submitted to JSG (2021-12-7）.
+- A novel approach to mapping geological section using spatial data from point clouds of outcrops.[J]// submitted to Journal of Structurla Geology (Ubnder Review）.
 
-- Xiao Z. et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]// IEEE Geoscience and Remote Sensing Letters (Under Review).
+- Xiao Z. et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]// IEEE Geoscience and Remote Sensing Letters (Minor Revision-ing).
 
 - Xiao Z. et al.(2021). A Workflow of 3D Rock Extraction and Shape Analysis Using Mars Rover Imagery[C]// 2021 National Planetary Science Conference.
 
