@@ -6,14 +6,14 @@
 
 - 💞️ Student member of AGU, CPGIS, IEEE, and the ISPRS Student Consortium, also a prefered member of IEEE Geoscience and Remote Sensing Society. 
 
-- 📫 WOS ResearcherID: X-6158-2019 (H-index: 4)
-- 📫 Researchgate: https://www.researchgate.net/profile/Zhouxuan-Xiao (RG Score: 13.52)
-- 📫 Google Scholar: https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN
-- 📫 ORCID: https://orcid.org/0000-0002-4088-4790
+- 📫 **WOS ResearcherID**: X-6158-2019 (H-index: 4)
+- 📫 **ResearchGate**: https://www.researchgate.net/profile/Zhouxuan-Xiao (RG Score: 13.52)
+- 📫 **Google Scholar**: https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN
+- 📫 **ORCID**: https://orcid.org/0000-0002-4088-4790
 
 ### Publications （学术论文）
 
-- A novel approach to mapping geological section using spatial data from point clouds of outcrops[J]. Journal of Structurla Geology.(Under Review)
+- **Xiao Z.**(2021).A novel approach to mapping geological section using spatial data from point clouds of outcrops[J]. Journal of Structurla Geology.(Under Review)
 
 - **Xiao Z.** et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]. IEEE Geoscience and Remote Sensing Letters. (Minor Revision)
 
@@ -23,9 +23,9 @@
 
 - Hui, Y. , Wang, R. , Li, L. , Lin, J. , **Xiao, Z.** , & Xin, Y. (2021). The timing of barleik formation and its implication for the devonian tectonic evolution of western junggar, NW china[J]. Open Geosciences, 13(1), 188-196.
 
-- Ma L , Jiang W , **Xiao Z** , et al.(2020). Discussion on the depositional timing of the Zhabusagaxiu formation in the eastern Qaidam Basin, China[J].Journal of Geomechanics
+- Ma L. , Jiang W. , **Xiao Z.** , et al.(2020). Discussion on the depositional timing of the Zhabusagaxiu formation in the eastern Qaidam Basin, China[J].Journal of Geomechanics
 
-- **Xiao Z **, Wang R , J Lin, et al.(2020). Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China[C].
+- **Xiao Z.** , Wang R. , Lin J., et al.(2020). Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China[C].
 
 - **Zhouxuan Xiao**, Licheng Ma*, Ran Wang, Wan Jiang, Jie Cai, Yuyan Yao, Jingyu Lin, Lu Li. (2020). Grenville–age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite[J]. Geosciences Journal. 
 
