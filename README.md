@@ -15,9 +15,9 @@
 
 - A novel approach to mapping geological section using spatial data from point clouds of outcrops[J]. Journal of Structurla Geology.(Under Review)
 
-- Xiao Z. et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]. IEEE Geoscience and Remote Sensing Letters. (Minor Revision)
+- <u>Xiao Z.</u> et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]. IEEE Geoscience and Remote Sensing Letters. (Minor Revision)
 
-- Xiao Z. et al.(2021). A Workflow of 3D Rock Extraction and Shape Analysis Using Mars Rover Imagery[C]. 2021 National Planetary Science Conference.
+- <u>Xiao Z.</u> et al.(2021). A Workflow of 3D Rock Extraction and Shape Analysis Using Mars Rover Imagery[C]. 2021 National Planetary Science Conference.
 
 - Wang, R. , Lin, J. , Li, L. , Xiao, Z. , & Xin, Y. (2021). A revised orientation-based correction method for sfm-mvs point clouds of outcrops using ground control planes with marks[J]. Journal of Structural Geology, 143, 104266.
 
