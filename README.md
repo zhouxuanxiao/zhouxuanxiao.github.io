@@ -7,7 +7,7 @@
 - 💞️ Student member of AGU, CPGIS, IEEE, and the ISPRS Student Consortium, also a prefered member of IEEE Geoscience and Remote Sensing Society. 
 
 - 📫 **WOS ResearcherID**: X-6158-2019 (H-index: 4)
-- 📫 **ResearchGate**: <u>https://www.researchgate.net/profile/Zhouxuan-Xiao</u> (RG Score: 13.52)
+- 📫 **ResearchGate**: <u>https://www.researchgate.net/profile/Zhouxuan-Xiao</u> (RG Score: 13.68)
 - 📫 **Google Scholar**: <u>https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN</u>
 - 📫 **ORCID**: <u>https://orcid.org/0000-0002-4088-4790</u>
 
@@ -15,7 +15,7 @@
 
 - **Xiao Z.**(2021).A novel approach to mapping geological section using spatial data from point clouds of outcrops[J]. Journal of Structurla Geology.(Under Review)
 
-- **Xiao Z.** et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]. IEEE Geoscience and Remote Sensing Letters. (Minor Revision)
+- **Xiao Z.** et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]. IEEE Geoscience and Remote Sensing Letters. (Finish Minor Revision)
 
 - **Xiao Z.** et al.(2021). A Workflow of 3D Rock Extraction and Shape Analysis Using Mars Rover Imagery[C]. 2021 National Planetary Science Conference.
 
