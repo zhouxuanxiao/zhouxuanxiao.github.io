@@ -13,9 +13,9 @@
 
 ### Publications （学术论文）
 
-- **Xiao Z.**(2021).A novel approach to mapping geological section using spatial data from point clouds of outcrops[J]. Journal of Structurla Geology.(Under Review)
+- **Xiao Z.**(2022).A novel approach to mapping geological section using spatial data from point clouds of outcrops[J]. Journal of Structurla Geology.(Under Review)
 
-- **Xiao Z.** et al.(2021). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]. IEEE Geoscience and Remote Sensing Letters. (Finish Minor Revision)
+- **Xiao Z.** et al.(2022). High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery[J]. IEEE Geoscience and Remote Sensing Letters. (Finish Minor Revision)
 
 - **Xiao Z.** et al.(2021). A Workflow of 3D Rock Extraction and Shape Analysis Using Mars Rover Imagery[C]. 2021 National Planetary Science Conference.
 
