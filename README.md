@@ -16,7 +16,7 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 
 ### Certificates (资格证书)
 - 雅思6.5分（2020.1-2022.1）
-- AGU、IEEE和CPGIS学生会、IEEE GRSS会员
+- AGU、IEEE和CPGIS学生会员、IEEE GRSS会员
 - 摄影测量员三级证书/ PTIT地理信息技术应用员（高级）/计算机二级C语言
 
 
