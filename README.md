@@ -1,8 +1,9 @@
-a Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, has main research interests in 3D information processing and related algorithms. He is a student member of AGU, CPGIS, IEEE, and the ISPRS Student Consortium, also a preferred member of IEEE Geoscience and Remote Sensing Society.
-📫 WOS ResearcherID: X-6158-2019 (H-index: 4)
-📫 ResearchGate: https://www.researchgate.net/profile/Zhouxuan-Xiao (RG Score: 13.69)
-📫 Google Scholar: https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN
-📫 ORCID: https://orcid.org/0000-0002-4088-4790
+A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, has main research interests in 3D information processing and related algorithms. He is a student member of AGU, CPGIS, IEEE, and the ISPRS Student Consortium, also a preferred member of IEEE Geoscience and Remote Sensing Society.
+
+- 📫 WOS ResearcherID: X-6158-2019 (H-index: 4)
+- 📫 ResearchGate: <u>https://www.researchgate.net/profile/Zhouxuan-Xiao</u> (RG Score: 13.69)
+- 📫 Google Scholar: <u>https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN</u>
+- 📫 ORCID: <u>https://orcid.org/0000-0002-4088-4790</u>
 
 ### Awards/Scholarships （所获荣誉)
 - 博士二年级，2021-2022学年，二等学业奖学金
