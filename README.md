@@ -1,17 +1,25 @@
-### Zhouxuan Xiao（肖宙轩）
+a Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, has main research interests in 3D information processing and related algorithms. He is a student member of AGU, CPGIS, IEEE, and the ISPRS Student Consortium, also a preferred member of IEEE Geoscience and Remote Sensing Society.
+📫 WOS ResearcherID: X-6158-2019 (H-index: 4)
+📫 ResearchGate: https://www.researchgate.net/profile/Zhouxuan-Xiao (RG Score: 13.69)
+📫 Google Scholar: https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN
+📫 ORCID: https://orcid.org/0000-0002-4088-4790
 
-- 👋 Hi, I’m @zhouxuanxiao, a Ph.D. candidate from School of Geospatial Engineering and Science, Sun Yat-sen University, China.
+### Awards/Scholarships （所获荣誉)
+- 博士二年级，2021-2022学年，二等学业奖学金
+- 博士一年级，2020-2021学年，二等学业奖学金
+- 硕士三年级，2019-2020学年，优秀毕业研究生
+- 硕士二年级，2018-2019学年，国家奖学金
+- 硕士一年级，2017-2018学年，一等奖学金(优秀研究生)
+- 本科三年级，2015-2016学年，校级三好学生
+- 本科二年级，2014-2015学年，国家励志奖学金
 
-- 👀 Interested in 3D information extraction and analysis, especially planetary remote sensing and mapping.
+### Certificates (资格证书)
+- 雅思6.5分（2020.1-2022.1）
+- AGU、IEEE和CPGIS学生会、IEEE GRSS会员
+- 摄影测量员三级证书/ PTIT地理信息技术应用员（高级）/计算机二级C语言
 
-- 💞️ Student member of AGU, CPGIS, IEEE, and the ISPRS Student Consortium, also a prefered member of IEEE Geoscience and Remote Sensing Society. 
 
-- 📫 **WOS ResearcherID**: X-6158-2019 (H-index: 4)
-- 📫 **ResearchGate**: <u>https://www.researchgate.net/profile/Zhouxuan-Xiao</u> (RG Score: 13.69)
-- 📫 **Google Scholar**: <u>https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN</u>
-- 📫 **ORCID**: <u>https://orcid.org/0000-0002-4088-4790</u>
-
-### Publications （学术论文）
+### Publications (学术论文)
 
 - **Z.X. Xiao**, W.M. Zhang and Z.Y. Xiao,(2022).Automatically Monitoring on Lunar Surface Mass-wasting Events. (Preparing)
 
@@ -78,5 +86,5 @@
 
 ## 📫 Support or Contact
 
-- Copyrights@2022,Zhouxuan Xiao
+- Copyrights@2022, Zhouxuan Xiao (肖宙轩)
 - Email: **xiaozhx7@mail2.sysu.edu.cn**; **zhouxuan.xiao@foxmail.com**
