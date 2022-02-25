@@ -7,7 +7,7 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 
 ### Awards/Scholarships （所获荣誉)
 - 博士二年级，2021-2022学年，二等学业奖学金
-- 博士一年级，2020-2021学年，二等学业奖学金
+- 博士一年级，2020-2021学年，三等学业奖学金
 - 硕士三年级，2019-2020学年，优秀毕业研究生
 - 硕士二年级，2018-2019学年，国家奖学金
 - 硕士一年级，2017-2018学年，一等奖学金(优秀研究生)
