@@ -1,4 +1,4 @@
-### 🌱Zhouxuan Xiao（肖宙轩）
+### Zhouxuan Xiao（肖宙轩）
 
 - 👋 Hi, I’m @zhouxuanxiao, a Ph.D. candidate from School of Geospatial Engineering and Science, Sun Yat-sen University, China.
 
@@ -10,8 +10,6 @@
 - 📫 **ResearchGate**: <u>https://www.researchgate.net/profile/Zhouxuan-Xiao</u> (RG Score: 13.69)
 - 📫 **Google Scholar**: <u>https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN</u>
 - 📫 **ORCID**: <u>https://orcid.org/0000-0002-4088-4790</u>
-
-![Image text](https://github.com/zhouxuanxiao/zhouxuanxiao.github.io/edit/master/logo.jpg)
 
 ### Publications （学术论文）
 
