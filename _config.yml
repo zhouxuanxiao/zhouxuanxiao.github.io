@@ -1,3 +1,7 @@
-theme: jekyll-theme-minimal
 title: Zhouxuan Xiao
-description: Ph.D. Candidate
+description: 
+logo: /logo.jpg
+description: Zhouxuan Xiao's Website
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
