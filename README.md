@@ -46,6 +46,8 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 
 - Lu Li, Ran Wang*, Jingyu Lin, **Zhouxuan Xiao**, Yuanxiu Hui.(2019). A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM. Sedimentary Geology, Volume 392, 105523, doi: 10.1016/j.sedgeo.2019.105523.
 
+- Wenxing Luo, Yun Zhou, Yanguo Fang, Lu Li, **Zhouxuan Xiao**, Jingyu Lin, Peng Yang, Jiaxin Zhao. (2019). Application of Carbonatite Uranium Series Dating Method in the Calculation of the Beiya Formation Stratigraphic Uplifting Rate in Northwest Yunnan. South China Journal Of Seismology, 39. 1-5. doi: 10.13512/j.hndz.2019.03.001. 
+
 - R. Wang, J. Lin, B. Zhao, L. Li, **Z. Xiao** and J. Pilz, "Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 11, no. 12, pp. 4791-4807, Dec. 2018, doi: 10.1109/JSTARS.2018.2879493.
 
 - Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, and Baolin Zhao "Application of backpack Lidar to geological cross-section measurement", Proc. SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), doi: 10.1117/12.2295060.
