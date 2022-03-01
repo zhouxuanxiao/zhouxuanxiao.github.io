@@ -5,7 +5,7 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 - 📫 Google Scholar: <u>https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN</u>
 - 📫 ORCID: <u>https://orcid.org/0000-0002-4088-4790</u>
 
-### Awards/Scholarships （所获荣誉)
+### Awards/Scholarships
 - 博士二年级，2021-2022学年，二等学业奖学金
 - 博士一年级，2020-2021学年，三等学业奖学金
 - 硕士三年级，2019-2020学年，优秀毕业研究生
@@ -14,7 +14,7 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 - 本科三年级，2015-2016学年，校级三好学生
 - 本科二年级，2014-2015学年，国家励志奖学金
 
-### Certificates (资格证书)
+### Certificates
 - 雅思6.5分（2020.1-2022.1）
 - AGU、IEEE和CPGIS学生会员、IEEE GRSS会员
 - 摄影测量员三级证书/ PTIT地理信息技术应用员（高级）/计算机二级C语言
@@ -66,9 +66,7 @@ Lin Jingyu, Wang Ran, Hui Yuanxiu, Xin Yonghui, Li Lu, **Xiao Zhouxuan**, Liu Yu
 Wang Ran, Lin Jingyu, Li Lu, **Xiao Zhouxuan**, Hui Yuanxiu, Xin Yonghui. A Yongping Compass Loaded with Laser Stepless Scale for SfM 3D Modeling. Shaanxi Province: CN110672080B, 2020-10-23.
 
 
-
-
-### Scientific Projects (科研项目)
+### Scientific Projects
 
 - 遥感科学国家重点实验室开放基金项目（OFSLRSS202108）：火星表面石块三维形态与丰度特征研究（2021-2023），第一学生参与人
 
