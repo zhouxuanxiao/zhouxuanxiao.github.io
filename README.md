@@ -74,26 +74,26 @@ ________________________________________________________________________________
 - Lin J., Wang R., Hui Y., Xin Y., Li L., **Xiao Z.**, Liu Yuan. SfM point cloud correction method based on NED coordinate system vector rotation. CN112712559B, 2021-11-30.
 - Wang R., Lin J., Li L., **Xiao Z.**, Hui Y., Xin Y. A Yongping Compass Loaded with Laser Stepless Scale for SfM 3D Modeling.  CN110672080B, 2020-10-23.
 ________________________________________________________________________________________________________
-### Scientific Projects
+## Participated/Supervised Projects
 
 - Open Fund of State Key Laboratory of Remote Sensing Science（Grant No. OFSLRSS202108）：Three-dimensional morphology and abundance characteristics of rocks on the Martian surface, 2021.8-2023.12，Participant
 
-- 国际月球科研站选址（ILRS2021子项目）(2020-)，参与
+- Site Selection for International Lunar Research Station (ILRS2021 Sub-project), 2020-，Participant
 
-- FASTA干涉阵选址（2021-），参与
+- Site Selection of the FASTA array, 2021-，Participant
 
 - Scientific Innovation Practice Project of Postgraduates of Chang’an University (Grant. 300103002089), 2019.4-2019.11, Principal Investigator
 
--	陕西省自然基金项目:“基于点云数据的数字雕岩谷研究:以陕北毛项为例”(No.300102279205) (2019/01~2020/12), 第二学生参与人. 
+-	Shaanxi Provincial Natural Science Foundation Project (No.300102279205): "Research on Digitally Carved Rock Valley Based on Point Cloud Data: Taking Maoxiang in Northern Shaanxi as an Example" , 2019.1-2020.12, Participant
 
-- 国家重点研发计划(2016YFC0401803): 隧洞穿越活断层围岩衬砌-灾变机制及抗断技术(2017/12~2019/12), 第二学生参与人.
+- The National High Technology Research and Development Program of China (2016YFC0401803): Surrounding rock lining of tunnel crossing active fault - catastrophe mechanism and anti-fault technology, 2017.12-2019.12, Participant
 
-- 中国地质调查局项目(DD20160173) “柴达木盆地周缘油气资源调查” (2016/12~2018/12), 第一学生参与人.
+- China Geological Survey Project (DD20160173): "Investigation of oil and gas resources around the Qaidam Basin", 2016.12-2018.12,  Participant
 
-- 省部级纵向项目“河北承德热电堆工程可行性研究阶段地质专题” (No.214027170022) (2016/08~2018/09),第二学生参与人. 
+- Provincial and ministerial-level vertical project (No.214027170022): "Hebei Chengde Thermopile Engineering Feasibility Study Stage Geology Special Project" , 216.8-2018.9, Participant
 
 ________________________________________________________________________________________________________
 ## 📫 Support or Contact
 
-- Copyrights@2022, Zhouxuan Xiao (肖宙轩)
-- Email: **xiaozhx7@mail2.sysu.edu.cn**; **zhouxuan.xiao@foxmail.com**
+- Copyrights@2022, Zhouxuan Xiao
+- Email: **xiaozhx7@mail2.sysu.edu.cn**(Primary)  **zhouxuan.xiao@foxmail.com**(Secondary)
