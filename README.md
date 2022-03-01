@@ -76,21 +76,21 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________
 ## Participated/Supervised Projects
 
-- Open Fund of State Key Laboratory of Remote Sensing Science（Grant No. OFSLRSS202108）：Three-dimensional morphology and abundance characteristics of rocks on the Martian surface, 2021.8-2023.12，Participant
+- Open Fund of State Key Laboratory of Remote Sensing Science (Grant No.OFSLRSS202108): **Three-dimensional morphology and abundance characteristics of rocks on the Martian surface**, 2021.8-2023.12，Participant
 
-- Site Selection for International Lunar Research Station (ILRS2021 Sub-project), 2020-，Participant
+- Site Selection for International Lunar Research Station (ILRS), 2020-，Participant
 
 - Site Selection of the FASTA array, 2021-，Participant
 
-- Scientific Innovation Practice Project of Postgraduates of Chang’an University (Grant. 300103002089), 2019.4-2019.11, Principal Investigator
+- Scientific Innovation Practice Project of Postgraduates of Chang’an University (Grant. 300103002089): **Object-oriented multi-scale segmentation and feature analysis of crystalline rock optical images**, 2019.4-2019.11, Principal Investigator
 
--	Shaanxi Provincial Natural Science Foundation Project (No.300102279205): "Research on Digitally Carved Rock Valley Based on Point Cloud Data: Taking Maoxiang in Northern Shaanxi as an Example" , 2019.1-2020.12, Participant
+-	Shaanxi Provincial Natural Science Foundation Project (No.300102279205): **Research on Digitally Carved Rock Valley Based on Point Cloud Data: Taking Maoxiang in Northern Shaanxi as an Example**, 2019.1-2020.12, Participant
 
-- The National High Technology Research and Development Program of China (2016YFC0401803): Surrounding rock lining of tunnel crossing active fault - catastrophe mechanism and anti-fault technology, 2017.12-2019.12, Participant
+- The National High Technology Research and Development Program of China (2016YFC0401803): **Surrounding rock lining of tunnel crossing active fault - catastrophe mechanism and anti-fault technology**, 2017.12-2019.12, Participant
 
-- China Geological Survey Project (DD20160173): "Investigation of oil and gas resources around the Qaidam Basin", 2016.12-2018.12,  Participant
+- China Geological Survey Project (DD20160173): **Investigation of oil and gas resources around the Qaidam Basin**, 2016.12-2018.12,  Participant
 
-- Provincial and ministerial-level vertical project (No.214027170022): "Hebei Chengde Thermopile Engineering Feasibility Study Stage Geology Special Project" , 216.8-2018.9, Participant
+- Provincial and ministerial-level vertical project (No.214027170022): **Hebei Chengde Thermopile Engineering Feasibility Study Stage Geology Special Project**, 216.8-2018.9, Participant
 
 ________________________________________________________________________________________________________
 ## 📫 Support or Contact
