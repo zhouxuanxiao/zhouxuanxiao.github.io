@@ -6,7 +6,7 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 - B.S. thesis: "Fault Zone Investigation and Analysis" (2013.09-2017.07, archived)
 
 ## Academic Websites
-- WOS ResearcherID: *X-6158-2019*, a student member of AGU, CPGIS, IEEE, IEEE GRSS and the ISPRS Student Consortium..
+- WOS ResearcherID: *X-6158-2019*, a student member of AGU, CPGIS, IEEE, IEEE GRSS and the ISPRS Student Consortium
 - **ResearchGate**: <https://www.researchgate.net/profile/Zhouxuan-Xiao> (*RG Score: 14.99*)
 - **Google Scholar**: <https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN> (*H-index: 4*)
 - **ORCID**: <https://orcid.org/0000-0002-4088-4790>
