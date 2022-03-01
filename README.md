@@ -1,4 +1,5 @@
 **________________________________________________________________________________________________________**
+
 A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, has main research interests in 3D information processing and related algorithms. He is a student member of AGU, CPGIS, IEEE, and the ISPRS Student Consortium, also a preferred member of IEEE Geoscience and Remote Sensing Society.
 
 - 📫 WOS ResearcherID: *X-6158-2019* (*H-index: 4*)
