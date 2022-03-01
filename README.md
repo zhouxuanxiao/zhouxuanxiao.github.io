@@ -28,46 +28,46 @@ ________________________________________________________________________________
 
 - **Z.X. Xiao.**, (co-1-author).A novel approach to mapping geological section using spatial data from point clouds of outcrops. Journal of Structural Geology.(Under Review)
 
-- **Z. Xiao**, L. Zeng, Y. Li , J. Shao, C. Ma, W. Zhang, M. Peng, (2022). "High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2022.3154629.
+- **Z. Xiao**, L. Zeng, Y. Li , J. Shao, C. Ma, W. Zhang, M. Peng, (2022). "High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery," in IEEE Geoscience and Remote Sensing Letters, https://doi.org/10.1109/LGRS.2022.3154629.
 
 #### 2021
 - **Xiao Z.**, Zeng L., Li Y., et al.(2021). A Workflow of 3D Rock Extraction and Shape Analysis Using Mars Rover Imagery. 2021 National Planetary Science Conference.
 
-- Wang, R. , Lin, J. , Li, L. , **Xiao, Z.** , & Xin, Y. (2021). A revised orientation-based correction method for sfm-mvs point clouds of outcrops using ground control planes with marks. Journal of Structural Geology, 143, 104266, doi: 10.1016/j.jsg.2020.104266.
+- Wang, R. , Lin, J. , Li, L. , **Xiao, Z.** , & Xin, Y. (2021). A revised orientation-based correction method for sfm-mvs point clouds of outcrops using ground control planes with marks. Journal of Structural Geology, 143, 104266, https://doi.org/10.1016/j.jsg.2020.104266.
 
-- Hui, Y. , Wang, R. , Li, L. , Lin, J. , **Xiao, Z.** , & Xin, Y. (2021). The timing of barleik formation and its implication for the devonian tectonic evolution of western junggar, NW china. Open Geosciences, 13(1), 188-196, doi: 10.1515/geo-2020-0229.
+- Hui, Y. , Wang, R. , Li, L. , Lin, J. , **Xiao, Z.** , & Xin, Y. (2021). The timing of barleik formation and its implication for the devonian tectonic evolution of western junggar, NW china. Open Geosciences, 13(1), 188-196, https://doi.org/10.1515/geo-2020-0229.
 
 #### 2020
-- Ma L. , Jiang W. , **Xiao Z.** , et al.(2020). Discussion on the depositional timing of the Zhabusagaxiu formation in the eastern Qaidam Basin, China.Journal of Geomechanics, doi: 10.12090/j.issn.1006-6616.2020.26.06.077.
+- Ma L. , Jiang W. , **Xiao Z.** , et al.(2020). Discussion on the depositional timing of the Zhabusagaxiu formation in the eastern Qaidam Basin, China.Journal of Geomechanics, https://doi.org/10.12090/j.issn.1006-6616.2020.26.06.077.
 
 - **Xiao Z.** , Wang R. , Lin J., et al.(2020). Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China. The Third Symposium on Space Earth Science, China.
 
-- **Zhouxuan Xiao**, Licheng Ma*, Ran Wang, Wan Jiang, Jie Cai, Yuyan Yao, Jingyu Lin, Lu Li. (2020). Grenville–age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite. Geosciences Journal, 24, 249–266，doi: 10.1007/s12303-019-0033-8.
+- **Zhouxuan Xiao**, Licheng Ma*, Ran Wang, Wan Jiang, Jie Cai, Yuyan Yao, Jingyu Lin, Lu Li. (2020). Grenville–age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite. Geosciences Journal, 24, 249–266，https://doi.org/10.1007/s12303-019-0033-8.
 
 #### 2019
-- **Z. Xiao**, R. Wang, Y. Hui, J. Lin and L. Li, "Integrated Approach for Calculating the Mineral Assemblages and Oxide Percentage of Crystalline Rock based on Object-Based Image Analysis and Electron Probe Microscopic Analyzer," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 109-113, doi: 10.1109/ICIVC47709.2019.8981017.
+- **Z. Xiao**, R. Wang, Y. Hui, J. Lin and L. Li, "Integrated Approach for Calculating the Mineral Assemblages and Oxide Percentage of Crystalline Rock based on Object-Based Image Analysis and Electron Probe Microscopic Analyzer," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 109-113, https://doi.org/10.1109/ICIVC47709.2019.8981017.
 
-- Y. Hui, **Z. Xiao**, R. Wang, J. Lin and L. Li, "Feature Extraction and Analysis of Zircon Cathodoluminescence Images Based on Multiscale Segmentation," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 114-117, doi: 10.1109/ICIVC47709.2019.8980954.
+- Y. Hui, **Z. Xiao**, R. Wang, J. Lin and L. Li, "Feature Extraction and Analysis of Zircon Cathodoluminescence Images Based on Multiscale Segmentation," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 114-117, https://doi.org/10.1109/ICIVC47709.2019.8980954.
 
-- Lu Li, Ran Wang*, Jingyu Lin, **Zhouxuan Xiao**, Yuanxiu Hui.(2019). A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM. Sedimentary Geology, Volume 392, 105523, doi: 10.1016/j.sedgeo.2019.105523.
+- Lu Li, Ran Wang*, Jingyu Lin, **Zhouxuan Xiao**, Yuanxiu Hui.(2019). A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM. Sedimentary Geology, Volume 392, 105523, https://doi.org/10.1016/j.sedgeo.2019.105523.
 
-- Wenxing Luo, Yun Zhou, Yanguo Fang, Lu Li, **Zhouxuan Xiao**, Jingyu Lin, Peng Yang, Jiaxin Zhao. (2019). Application of Carbonatite Uranium Series Dating Method in the Calculation of the Beiya Formation Stratigraphic Uplifting Rate in Northwest Yunnan. South China Journal Of Seismology, 39. 1-5. doi: 10.13512/j.hndz.2019.03.001. 
+- Wenxing Luo, Yun Zhou, Yanguo Fang, Lu Li, **Zhouxuan Xiao**, Jingyu Lin, Peng Yang, Jiaxin Zhao. (2019). Application of Carbonatite Uranium Series Dating Method in the Calculation of the Beiya Formation Stratigraphic Uplifting Rate in Northwest Yunnan. South China Journal Of Seismology, 39. 1-5. https://doi.org/10.13512/j.hndz.2019.03.001. 
 
 #### 2018
-- R. Wang, J. Lin, B. Zhao, L. Li, **Z. Xiao** and J. Pilz, "Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 11, no. 12, pp. 4791-4807, Dec. 2018, doi: 10.1109/JSTARS.2018.2879493.
+- R. Wang, J. Lin, B. Zhao, L. Li, **Z. Xiao** and J. Pilz, "Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 11, no. 12, pp. 4791-4807, Dec. 2018, https://doi.org/10.1109/JSTARS.2018.2879493.
 
-- Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, and Baolin Zhao "Application of backpack Lidar to geological cross-section measurement", Proc. SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), doi: 10.1117/12.2295060.
+- Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, and Baolin Zhao "Application of backpack Lidar to geological cross-section measurement", Proc. SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), https://doi.org/10.1117/12.2295060.
 
-- J. Lin, R. Wang, L. Li and **Z. Xiao**, "A Workflow of SfM-Based Digital Outcrop Reconstruction Using Agisoft PhotoScan," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 711-715, doi: 10.1109/ICIVC47709.2019.8980982.
+- J. Lin, R. Wang, L. Li and **Z. Xiao**, "A Workflow of SfM-Based Digital Outcrop Reconstruction Using Agisoft PhotoScan," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 711-715, https://doi.org/10.1109/ICIVC47709.2019.8980982.
 
-- L. Li, R. Wang, J. Lin, **Z. Xiao**, Y. Hui and W. Zeng, "Arbitrary Oriented Outcrop Section Measurement Using 3D Point Cloud," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 193-196, doi: 10.1109/ICIVC47709.2019.8981331.
+- L. Li, R. Wang, J. Lin, **Z. Xiao**, Y. Hui and W. Zeng, "Arbitrary Oriented Outcrop Section Measurement Using 3D Point Cloud," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 193-196, https://doi.org/10.1109/ICIVC47709.2019.8981331.
 - 
 #### 2017
-- 　WANG Ran,**XIAO Zhouxuan**,LIN Jingyu.2018.The Diverse Tectonic Background of Boudinage Structures.Geotectonica et Metallogenia,42(5):777-785.doi:10.16539/j.ddgzyckx.2018.04.014
+- 　WANG Ran,**XIAO Zhouxuan**,LIN Jingyu.2018.The Diverse Tectonic Background of Boudinage Structures.Geotectonica et Metallogenia,42(5):777-785.https://doi.org/10.16539/j.ddgzyckx.2018.04.014
 
 #### 2016
 
-- **肖宙轩**, 李辉, 柴汝宽.含启动压力梯度的低渗透油藏单井产能公式. 石油化工应用, 2016, 35(9).(In Chinese), doi: 10.3969/j.issn.1673-5285.2016.09.009.
+- **肖宙轩**, 李辉, 柴汝宽.含启动压力梯度的低渗透油藏单井产能公式. 石油化工应用, 2016, 35(9).(In Chinese), https://doi.org/10.3969/j.issn.1673-5285.2016.09.009.
 
 Lin Jingyu, Wang Ran, Hui Yuanxiu, Xin Yonghui, Li Lu, **Xiao Zhouxuan**, Liu Yuan. SfM point cloud correction method based on NED coordinate system vector rotation. Shaanxi Province: CN112712559B, 2021-11-30.
 
