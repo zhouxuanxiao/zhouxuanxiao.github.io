@@ -42,37 +42,37 @@ ________________________________________________________________________________
 
 - **Xiao Z.** , Wang R. , Lin J., et al.(2020). Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China. The Third Symposium on Space Earth Science, China.
 
-- **Zhouxuan Xiao**, Licheng Ma*, Ran Wang, Wan Jiang, Jie Cai, Yuyan Yao, Jingyu Lin, Lu Li. (2020). Grenville–age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite. Geosciences Journal, 24, 249–266，https://doi.org/10.1007/s12303-019-0033-8.
+- **Z. Xiao**, L. Ma, R. Wang, W. Jiang, J. Cai, Y. Yao, J. Lin, L. Li. (2020). Grenville–age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite. Geosciences Journal, 24, 249–266，https://doi.org/10.1007/s12303-019-0033-8.
 
 #### 2019
 - **Z. Xiao**, R. Wang, Y. Hui, J. Lin and L. Li, "Integrated Approach for Calculating the Mineral Assemblages and Oxide Percentage of Crystalline Rock based on Object-Based Image Analysis and Electron Probe Microscopic Analyzer," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 109-113, https://doi.org/10.1109/ICIVC47709.2019.8981017.
 
 - Y. Hui, **Z. Xiao**, R. Wang, J. Lin and L. Li, "Feature Extraction and Analysis of Zircon Cathodoluminescence Images Based on Multiscale Segmentation," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 114-117, https://doi.org/10.1109/ICIVC47709.2019.8980954.
 
-- Lu Li, Ran Wang*, Jingyu Lin, **Zhouxuan Xiao**, Yuanxiu Hui.(2019). A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM. Sedimentary Geology, Volume 392, 105523, https://doi.org/10.1016/j.sedgeo.2019.105523.
-
-- Wenxing Luo, Yun Zhou, Yanguo Fang, Lu Li, **Zhouxuan Xiao**, Jingyu Lin, Peng Yang, Jiaxin Zhao. (2019). Application of Carbonatite Uranium Series Dating Method in the Calculation of the Beiya Formation Stratigraphic Uplifting Rate in Northwest Yunnan. South China Journal Of Seismology, 39. 1-5. https://doi.org/10.13512/j.hndz.2019.03.001. 
-
-#### 2018
-- R. Wang, J. Lin, B. Zhao, L. Li, **Z. Xiao** and J. Pilz, "Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 11, no. 12, pp. 4791-4807, Dec. 2018, https://doi.org/10.1109/JSTARS.2018.2879493.
-
-- Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, and Baolin Zhao "Application of backpack Lidar to geological cross-section measurement", Proc. SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), https://doi.org/10.1117/12.2295060.
+- L. Li, R. Wang*, J. Lin, **Z. Xiao**, Y. Hui.(2019). A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM. Sedimentary Geology, Volume 392, 105523, https://doi.org/10.1016/j.sedgeo.2019.105523.
 
 - J. Lin, R. Wang, L. Li and **Z. Xiao**, "A Workflow of SfM-Based Digital Outcrop Reconstruction Using Agisoft PhotoScan," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 711-715, https://doi.org/10.1109/ICIVC47709.2019.8980982.
 
 - L. Li, R. Wang, J. Lin, **Z. Xiao**, Y. Hui and W. Zeng, "Arbitrary Oriented Outcrop Section Measurement Using 3D Point Cloud," 2019 IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 193-196, https://doi.org/10.1109/ICIVC47709.2019.8981331.
-- 
+
+- W. Luo, Y. Zhou, Y. Fang, L. Li, **Z. Xiao**, J. Lin, P. Yang, J. Zhao. (2019). Application of Carbonatite Uranium Series Dating Method in the Calculation of the Beiya Formation Stratigraphic Uplifting Rate in Northwest Yunnan. South China Journal Of Seismology, 39. 1-5. https://doi.org/10.13512/j.hndz.2019.03.001. 
+
+#### 2018
+- R. Wang, J. Lin, B. Zhao, L. Li, **Z. Xiao** and J. Pilz, "Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 11, no. 12, pp. 4791-4807, Dec. 2018, https://doi.org/10.1109/JSTARS.2018.2879493.
+
+- R. Wang,**Z. Xiao**,J. Lin et al.,2018.The Diverse Tectonic Background of Boudinage Structures.Geotectonica et Metallogenia,42(5):777 785.https://doi.org/10.16539/j.ddgzyckx.2018.04.014
+
 #### 2017
-- 　WANG Ran,**XIAO Zhouxuan**,LIN Jingyu.2018.The Diverse Tectonic Background of Boudinage Structures.Geotectonica et Metallogenia,42(5):777-785.https://doi.org/10.16539/j.ddgzyckx.2018.04.014
+- J. Lin, R. Wang, **Z. Xiao**, L. Li, W. Yao, W. Han, and B.n Zhao "Application of backpack Lidar to geological cross-section measurement", Proc. SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), https://doi.org/10.1117/12.2295060.
 
 #### 2016
 
-- **肖宙轩**, 李辉, 柴汝宽.含启动压力梯度的低渗透油藏单井产能公式. 石油化工应用, 2016, 35(9).(In Chinese), https://doi.org/10.3969/j.issn.1673-5285.2016.09.009.
+- **Xiao Z.**, Li H., Chai R. Well productivity formula in low permeability reservoir with threshold pressure gradient. Petrochemical Application, 2016, 35(9), https://doi.org/10.3969/j.issn.1673-5285.2016.09.009.
 
-Lin Jingyu, Wang Ran, Hui Yuanxiu, Xin Yonghui, Li Lu, **Xiao Zhouxuan**, Liu Yuan. SfM point cloud correction method based on NED coordinate system vector rotation. Shaanxi Province: CN112712559B, 2021-11-30.
-
-Wang Ran, Lin Jingyu, Li Lu, **Xiao Zhouxuan**, Hui Yuanxiu, Xin Yonghui. A Yongping Compass Loaded with Laser Stepless Scale for SfM 3D Modeling. Shaanxi Province: CN110672080B, 2020-10-23.
-
+________________________________________________________________________________________________________
+## Published Patents
+- Lin J., Wang R., Hui Y., Xin Y., Li L., **Xiao Z.**, Liu Yuan. SfM point cloud correction method based on NED coordinate system vector rotation. CN112712559B, 2021-11-30.
+- Wang R., Lin J., Li L., **Xiao Z.**, Hui Y., Xin Y. A Yongping Compass Loaded with Laser Stepless Scale for SfM 3D Modeling.  CN110672080B, 2020-10-23.
 ________________________________________________________________________________________________________
 ### Scientific Projects
 
