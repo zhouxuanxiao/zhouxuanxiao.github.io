@@ -96,5 +96,5 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________
 ## 📫 Support or Contact
-- Copyrights@2022, "*Zhouxuan Xiao*"
+- Copyrights@2022, *Zhouxuan Xiao*
 - Email: **xiaozhx7@mail2.sysu.edu.cn**(Primary)  **zhouxuan.xiao@foxmail.com**(Secondary)
