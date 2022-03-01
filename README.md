@@ -1,10 +1,11 @@
+________________________________________________________________________________________________________
 A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, has main research interests in 3D information processing and related algorithms. He is a student member of AGU, CPGIS, IEEE, and the ISPRS Student Consortium, also a preferred member of IEEE Geoscience and Remote Sensing Society.
 
 - 📫 WOS ResearcherID: X-6158-2019 (H-index: 4)
 - 📫 ResearchGate: <u>https://www.researchgate.net/profile/Zhouxuan-Xiao</u> (RG Score: 14.99)
 - 📫 Google Scholar: <u>https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN</u>
 - 📫 ORCID: <u>https://orcid.org/0000-0002-4088-4790</u>
-
+________________________________________________________________________________________________________
 ### Awards/Scholarships
 - 博士二年级，2021-2022学年，二等学业奖学金
 - 博士一年级，2020-2021学年，三等学业奖学金
@@ -65,7 +66,7 @@ Lin Jingyu, Wang Ran, Hui Yuanxiu, Xin Yonghui, Li Lu, **Xiao Zhouxuan**, Liu Yu
 
 Wang Ran, Lin Jingyu, Li Lu, **Xiao Zhouxuan**, Hui Yuanxiu, Xin Yonghui. A Yongping Compass Loaded with Laser Stepless Scale for SfM 3D Modeling. Shaanxi Province: CN110672080B, 2020-10-23.
 
-
+________________________________________________________________________________________________________
 ### Scientific Projects
 
 - 遥感科学国家重点实验室开放基金项目（OFSLRSS202108）：火星表面石块三维形态与丰度特征研究（2021-2023），第一学生参与人
@@ -84,7 +85,7 @@ Wang Ran, Lin Jingyu, Li Lu, **Xiao Zhouxuan**, Hui Yuanxiu, Xin Yonghui. A Yong
 
 - 省部级纵向项目“河北承德热电堆工程可行性研究阶段地质专题” (No.214027170022) (2016/08~2018/09),第二学生参与人. 
 
-
+________________________________________________________________________________________________________
 ## 📫 Support or Contact
 
 - Copyrights@2022, Zhouxuan Xiao (肖宙轩)
