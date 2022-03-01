@@ -1,6 +1,6 @@
 ________________________________________________________________________________________________________
 ## About Me
-A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, co-supervised by Prof. Wuming Zhang and Asso. Prof. Zhiyong Xiao. Having wide interests in planteary surface process, photogrammetry and remote sensing, and dedicating related studies around the dissertation:
+A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, co-supervised by Prof. Wuming Zhang and Asso. Prof. Zhiyong Xiao. Having wide interests in planetary surface process, photogrammetry and remote sensing, and dedicating related studies around the dissertation:
 - Ph.D. thesis: "Research on Automatic Detection and Cassification of Planetary Surface Changes" (2020.09-2024.07, ongoing)
 - M.S. thesis: "Multi-scale Segmentation and Classification of  Remote Sensing Imagery" (2017.09-2020.07, archived)
 - B.S. thesis: "Fault Zone Investigation and Analysis" (2013.09-2017.07, archived)
