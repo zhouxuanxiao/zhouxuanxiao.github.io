@@ -7,18 +7,18 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 - 📫 ORCID: <u>https://orcid.org/0000-0002-4088-4790</u>
 ________________________________________________________________________________________________________
 ### Awards/Scholarships
-- 博士二年级，2021-2022学年，二等学业奖学金
-- 博士一年级，2020-2021学年，三等学业奖学金
-- 硕士三年级，2019-2020学年，优秀毕业研究生
-- 硕士二年级，2018-2019学年，国家奖学金
-- 硕士一年级，2017-2018学年，一等奖学金(优秀研究生)
-- 本科三年级，2015-2016学年，校级三好学生
-- 本科二年级，2014-2015学年，国家励志奖学金
+- 2nd Years of Ph.D. (2021-2022)，Second-class Scholarships
+- 1st. Years of Ph.D. (2020-2021)，Third-class Scholarships
+- 3rd Years of  M.S. (2019-2020)，Outstanding Graduate Awrads
+- 2nd Years of  M.S. (2018-2019)，National Scholarships
+- 1st Years of  M.S. (2017-2018)，First-class Scholarships (Outstanding Graduates)
+- 3rd Years of  B.S. (2015-2016)，Merit Student Awards
+- 2nd Years of  B.S. (2014-2015)，National Endeavor Scholarship
 
-### Certificates
-- 雅思6.5分（2020.1-2022.1）
-- AGU、IEEE和CPGIS学生会员、IEEE GRSS会员
-- 摄影测量员三级证书/ PTIT地理信息技术应用员（高级）/计算机二级C语言
+### Holding Certificates
+- IELTS scores: 6.5 (relatively fluent)
+- Level III in Photogrammetry surveyor, PTIT Geographic Information Technology Application Operator (Advanced)
+- C, C++, Matlab and Python
 
 ________________________________________________________________________________________________________
 ### Publications (学术论文)
