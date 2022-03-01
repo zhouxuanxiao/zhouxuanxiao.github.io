@@ -1,8 +1,13 @@
 ________________________________________________________________________________________________________
 ## About Me
-A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, has main research interests in 3D information processing and related algorithms. He is a student member of AGU, CPGIS, IEEE, and the ISPRS Student Consortium, also a preferred member of IEEE Geoscience and Remote Sensing Society.
+A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, supervised by (Prof. Wuming Zhang and Asso. Prof. Zhiyong Xiao. He has wide interests in planteary surface process, photogrammetry and remote sensingis 
 
-- WOS ResearcherID: *X-6158-2019* 
+- Ph.D. thesis: "Research on Automatic Detection and Cassification of Planetary Surface Changes" (2020.09-2024.07, ongoing)
+- M.S. thesis: "Multi-scale Segmentation and Classification of  Remote Sensing Imagery using Stepless Scale Technology" (2017.09-2020.07, archived)
+- B.S. thesis: "Fault Zone Investigation and Analysis" (2013.09-2017.07, archived)
+
+## Academic Websites
+- WOS ResearcherID: *X-6158-2019*, a student member of AGU, CPGIS, IEEE, IEEE GRSS and the ISPRS Student Consortium..
 - **ResearchGate**: <https://www.researchgate.net/profile/Zhouxuan-Xiao> (*RG Score: 14.99*)
 - **Google Scholar**: <https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN> (*H-index: 4*)
 - **ORCID**: <https://orcid.org/0000-0002-4088-4790>
@@ -72,7 +77,7 @@ ________________________________________________________________________________
 - Wang R., Lin J., Li L., **Xiao Z.**, Hui Y., Xin Y. "A Compass Loaded with Laser Stepless Scale for SfM 3D Modeling". *CN110672080B*, 2020-10-23.
 
 ________________________________________________________________________________________________________
-## Participated/Supervised Projects
+## Research Projects
 - Open Fund of State Key Laboratory of Remote Sensing Science (Grant No.OFSLRSS202108): "*Three-dimensional morphology and abundance characteristics of rocks on the Martian surface*", 2021.8-2023.12，Participant
 
 - Site Selection for International Lunar Research Station (ILRS), 2020- / Site Selection of the FASTA array, 2021- ，Participant
