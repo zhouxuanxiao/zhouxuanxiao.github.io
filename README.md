@@ -58,15 +58,15 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 
 - 王冉, **肖宙轩**, 林靖愉, 崔文玲. 石香肠构造的多种地质构造背景. 大地构造与成矿学, 2018, 42(05): 777-785.(In Chinese), doi: 10.16539/j.ddgzyckx.2018.04.014.
 
-- **肖宙轩**, 马立成, 孙娇鹏, 江万, 蔡洁, 姚宇琰.柴达木北缘乌兰县北部榴闪岩的发现及其地质意义. 2017中国地球科学联合学术年会. (Abstract in Chinese)
 
 - **肖宙轩**, 李辉, 柴汝宽.含启动压力梯度的低渗透油藏单井产能公式. 石油化工应用, 2016, 35(9).(In Chinese), doi: 10.3969/j.issn.1673-5285.2016.09.009.
 
-- **肖宙轩**, 王冉*, 林靖愉, 惠元秀. 西安秦岭七十二峪基岩壶穴特征及形成条件分析. 2018中国地理学会年会, 陕西 西安, 2018.8.29-30. (Fulltext in Chinese)
+Lin Jingyu, Wang Ran, Hui Yuanxiu, Xin Yonghui, Li Lu, **Xiao Zhouxuan**, Liu Yuan. SfM point cloud correction method based on NED coordinate system vector rotation. Shaanxi Province: CN112712559B, 2021-11-30.
 
-- 林靖愉, 王冉*, **肖宙轩**, 惠元秀. 陕西宁强县毛坝河镇草川子山坡壶穴发育条件分析. 2018中国地理学会年会, 陕西 西安, 2018.8.29-30. (Abstract in Chinese)
+Wang Ran, Lin Jingyu, Li Lu, **Xiao Zhouxuan**, Hui Yuanxiu, Xin Yonghui. A Yongping Compass Loaded with Laser Stepless Scale for SfM 3D Modeling. Shaanxi Province: CN110672080B, 2020-10-23.
 
-- 王冉, 林靖愉, **肖宙轩**, 惠元秀. 米仓山旺苍县一带壶穴群特征及形成条件分析. 2018中国地理大会, 陕西 西安, 2018.8.29-30. (Fulltext in Chinese)
+
+
 
 ### Scientific Projects (科研项目)
 
