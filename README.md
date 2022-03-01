@@ -6,22 +6,17 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 - **ResearchGate**: <https://www.researchgate.net/profile/Zhouxuan-Xiao> (*RG Score: 14.99*)
 - **Google Scholar**: <https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN> (*H-index: 4*)
 - **ORCID**: <https://orcid.org/0000-0002-4088-4790>
+- IELTS scores: 6.5 (relatively fluent); C, C++, Matlab and Python
 
 ________________________________________________________________________________________________________
 ## Awards/Scholarships
 - 2nd Years of Ph.D. (2021-2022)，Second-class Scholarships
-- 1st. Years of Ph.D. (2020-2021)，Third-class Scholarships
-(Meritorious Winner of High-precision Map Contest and Second Winner of Point Cloud Classification Contest, The 6th National LiDAR Conference)
+- 1st Years of Ph.D. (2020-2021)，Third-class Scholarships
 - 3rd Years of  M.S. (2019-2020)，Outstanding Graduate Awrads
 - 2nd Years of  M.S. (2018-2019)，National Scholarships
 - 1st Years of  M.S. (2017-2018)，First-class Scholarships (Outstanding Graduates)
 - 3rd Years of  B.S. (2015-2016)，Merit Student Awards
 - 2nd Years of  B.S. (2014-2015)，National Endeavor Scholarship
-
-## Holding Certificates
-- IELTS scores: 6.5 (relatively fluent)
-- Level III in Photogrammetry surveyor, PTIT Geographic Information Technology Application Operator (Advanced)
-- C, C++, Matlab and Python
 
 ________________________________________________________________________________________________________
 ## Peer-reviewed Papers
@@ -80,11 +75,9 @@ ________________________________________________________________________________
 ## Participated/Supervised Projects
 - Open Fund of State Key Laboratory of Remote Sensing Science (Grant No.OFSLRSS202108): "*Three-dimensional morphology and abundance characteristics of rocks on the Martian surface*", 2021.8-2023.12，Participant
 
-- Site Selection for International Lunar Research Station (ILRS), 2020-，Participant
+- Site Selection for International Lunar Research Station (ILRS), 2020- / Site Selection of the FASTA array, 2021- ，Participant
 
-- Site Selection of the FASTA array, 2021-，Participant
-
-- Scientific Innovation Practice Project of Postgraduates of Chang’an University (Grant. 300103002089): "Object-oriented multi-scale segmentation and feature analysis of crystalline rock optical images", 2019.4-2019.11, Principal Investigator
+- Scientific Innovation Practice Project of Postgraduates of Chang’an University (Grant No.300103002089): "Object-oriented multi-scale segmentation and feature analysis of crystalline rock optical images", 2019.4-2019.11, Principal Investigator
 
 -	Shaanxi Provincial Natural Science Foundation Project (No.300102279205): "*Research on Digitally Carved Rock Valley Based on Point Cloud Data: Taking Maoxiang in Northern Shaanxi as an Example*", 2019.1-2020.12, Participant
 
