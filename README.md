@@ -8,6 +8,7 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 
 ________________________________________________________________________________________________________
 ### Awards/Scholarships
+
 - 2nd Years of Ph.D. (2021-2022)，Second-class Scholarships
 - 1st. Years of Ph.D. (2020-2021)，Third-class Scholarships
 (Meritorious Winner of High-precision Map Contest and Second Winner of Point Cloud Classification Contest, The 6th National LiDAR Conference)
@@ -18,6 +19,7 @@ ________________________________________________________________________________
 - 2nd Years of  B.S. (2014-2015)，National Endeavor Scholarship
 
 ### Holding Certificates
+
 - IELTS scores: 6.5 (relatively fluent)
 - Level III in Photogrammetry surveyor, PTIT Geographic Information Technology Application Operator (Advanced)
 - C, C++, Matlab and Python
@@ -72,6 +74,7 @@ ________________________________________________________________________________
 
 ________________________________________________________________________________________________________
 ## Published Patents
+
 - Lin J., Wang R., Hui Y., Xin Y., Li L., **Xiao Z.**, Liu Yuan. "SfM point cloud correction method based on NED coordinate system vector rotation". *CN112712559B*, 2021-11-30.
 - Wang R., Lin J., Li L., **Xiao Z.**, Hui Y., Xin Y. "A Compass Loaded with Laser Stepless Scale for SfM 3D Modeling". *CN110672080B*, 2020-10-23.
 
