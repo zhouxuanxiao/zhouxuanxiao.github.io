@@ -7,8 +7,8 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 
 ## Academic Websites
 - WOS ResearcherID: *X-6158-2019*, a student member of AGU, CPGIS, IEEE, IEEE GRSS and the ISPRS Student Consortium
-- **ResearchGate**: <https://www.researchgate.net/profile/Zhouxuan-Xiao> (*RG Score: 15.1*)
-- **Google Scholar**: <https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN> (*H-index: 4*)
+- **ResearchGate**: <https://www.researchgate.net/profile/Zhouxuan-Xiao> (*RG Score: 15.15*)
+- **Google Scholar**: <https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN> (*32ccitations, H-index: 4*)
 - **ORCID**: <https://orcid.org/0000-0002-4088-4790>
 - IELTS scores: 6.5 (relatively fluent); C, C++, Matlab and Python
 
@@ -25,11 +25,11 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________
 ## Peer-reviewed Papers
 ### 2022 
-- **Z.X. Xiao**, W.M. Zhang*, Z.Y. Xiao*."Automatically Monitoring on Lunar Surface Mass-wasting Events", 2022-3-1 (Preparing)
+- **Z.X. Xiao**, W.M. Zhang*, Z.Y. Xiao*."Automatically Monitoring on Lunar Surface Mass-wasting Events", 2022-3-15 (Preparing)
 
 - **Z.X. Xiao.**, (co-1-author). "A novel approach to mapping geological section using spatial data from point clouds of outcrops". *Journal of Structural Geology*, 2022-2-27 (Under Review)
 
-- **Z. Xiao**, L. Zeng, Y. Li , J. Shao, C. Ma, W. Zhang, M. Peng. "High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery," in *IEEE Geoscience and Remote Sensing Letters*, 2022, <https://doi.org/10.1109/LGRS.2022.3154629>.
+- **Z. Xiao**, L. Zeng, Y. Li , J. Shao, C. Ma, W. Zhang, M. Peng. "High-Precision Measurement of 3D Rock Morphology on Mars Using Stereo Rover Imagery," in *IEEE Geoscience and Remote Sensing Letters*, 2022, Vol.19, <https://doi.org/10.1109/LGRS.2022.3154629>.
 
 ### 2021
 - **Xiao Z.**, Zeng L., Li Y., et al., "A Workflow of 3D Rock Extraction and Shape Analysis Using Mars Rover Imagery. *2021 National Planetary Science Conference*.
