@@ -7,7 +7,7 @@ A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-s
 
 ## Academic Websites
 - WOS ResearcherID: *X-6158-2019*, a student member of AGU, CPGIS, IEEE, IEEE GRSS and the ISPRS Student Consortium
-- **ResearchGate**: <https://www.researchgate.net/profile/Zhouxuan-Xiao> (*RG Score: 15.15*)
+- **ResearchGate**: <https://www.researchgate.net/profile/Zhouxuan-Xiao> (*RG Score: 15.18*)
 - **Google Scholar**: <https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN> (*32citations, H-index: 4*)
 - **ORCID**: <https://orcid.org/0000-0002-4088-4790>
 - IELTS scores: 6.5 (relatively fluent); C, C++, Matlab and Python
