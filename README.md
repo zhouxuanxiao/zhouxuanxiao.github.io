@@ -1,22 +1,19 @@
 ________________________________________________________________________________________________________
 ## About Me
-A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, co-supervised by Prof. Wuming Zhang and Asso. Prof. Zhiyong Xiao. Having wide interests in planetary surface process, photogrammetry and remote sensing, and dedicating related studies around the dissertation:
-- Ph.D. thesis: "Research on Automatic Detection and Classification of Planetary Surface Changes" (2020.09-2024.07, ongoing)
-- M.S. thesis: "Multi-scale Segmentation and Classification of  Remote Sensing Imagery" (2017.09-2020.07, archived)
-- B.S. thesis: "Fault Zone Investigation and Analysis" (2013.09-2017.07, archived)
-
-[curriculum vitae](XiaoZhouxuan_CV_2022v1.pdf)
-
-## Academic Websites
-- WOS ResearcherID: *X-6158-2019*, a student member of AGU, CPGIS, IEEE, IEEE GRSS and the ISPRS Student Consortium
-- **ResearchGate**: <https://www.researchgate.net/profile/Zhouxuan-Xiao> (*RG Score: 15.18*)
-- **Google Scholar**: <https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN> (*32citations, H-index: 4*)
-- **ORCID**: <https://orcid.org/0000-0002-4088-4790>
-- IELTS scores: 6.5 (relatively fluent); C, C++, Matlab and Python
-
+Zhouxuan Xiao
+Ph.D. Candidate
+School of Geospatial Engineering and Science
+Sun Yat-Sen University
+Email: xiaozhx7@mail2.sysu.edu.cn
+- [**ResearchGate**](https://www.researchgate.net/profile/Zhouxuan-Xiao)
+- [**Google Scholar**](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)
+- [**ORCID**](https://orcid.org/0000-0002-4088-4790)
+- 
+I am currently a Ph.D. student at [School of Geospatial Engineering and Science, Sun Yat-sen University] (http://sges.sysu.edu.cn/), co-supervised by Prof. Wuming Zhang and Asso. Prof. Zhiyong Xiao. 
+My research interests include planetary surface process, photogrammetry and remote sensing. More information can be found in my [CV](XiaoZhouxuan_CV_2022v1.pdf)
 ________________________________________________________________________________________________________
-## Awards/Scholarships
-- 2nd Years of Ph.D. (2021-2022)，Second-class Scholarships
+## News
+- Feb 24,2022      One paper is accepted by [IEEE GRSL] (https://doi.org/10.1109/LGRS.2022.3154629)
 - 1st Years of Ph.D. (2020-2021)，Third-class Scholarships
 - 3rd Years of  M.S. (2019-2020)，Outstanding Graduate Awrads
 - 2nd Years of  M.S. (2018-2019)，National Scholarships
@@ -25,7 +22,7 @@ ________________________________________________________________________________
 - 2nd Years of  B.S. (2014-2015)，National Endeavor Scholarship
 
 ________________________________________________________________________________________________________
-## Peer-reviewed Papers
+## Selected Publications
 ### 2022 
 - **Z.X. Xiao**, W.M. Zhang*, Z.Y. Xiao*."Automatically Monitoring on Lunar Surface Mass-wasting Events", 2022-3-15 (Preparing)
 
