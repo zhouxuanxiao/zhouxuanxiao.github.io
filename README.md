@@ -11,6 +11,7 @@ Email: xiaozhx7@mail2.sysu.edu.cn<br>
 
 I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. Wuming Zhang and Asso. Prof. Zhiyong Xiao.<br>
 My research interests include planetary surface process, photogrammetry and remote sensing. More information can be found in my **[CV](XiaoZhouxuan_CV_2022v1.pdf)**.
+
 ________________________________________________________________________________________________________
 ## News
 - *Feb 24,2022*      One paper is accepted by **[IEEE GRSL](https://doi.org/10.1109/LGRS.2022.3154629)**
@@ -21,6 +22,7 @@ ________________________________________________________________________________
 ## Selected Publications
 
 - *Papers on peer-review journals*:<br>
+
 [9] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li*, Jie Shao, Chaohua Ma, Wuming Zhang*, Man Peng. “High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19, <https://doi.org/10.1109/LGRS.2022.3154629>.<br>
 
 [8] **Zhouxuan Xiao**, Licheng Ma, Wan Jiang, Ran Wang, Yuyan Yao, Jie Cai, Jingyu Lin, Lu Li. Grenville-age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite. Geosciences Journal, 2020, 24, 249–266, <https://doi.org/10.1007/s12303-019-0033-8>.<br>
@@ -38,6 +40,7 @@ ________________________________________________________________________________
 [1] **Zhouxuan Xiao**, Hui Li, Rukuan Chai. “Well productivity formula in low permeability reservoir with threshold pressure gradient”. Petrochemical Application, 2016, 35(9), <https://doi.org/10.3969/j.issn.1673-5285.2016.09.009>.<br>
 
 - *Papers on academic conferences*:<br>
+
 [6] **Zhouxuan Xiao**, Ran Wang, Jingyu Lin, Wuming Zhang. “Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China”. The Third Symposium on Space Earth Science, China, 2020.<br>
 
 [5] **Zhouxuan Xiao**, Ran Wang, Yuanxiu Hui, Jingyu Lin, Lu Li. “Integrated Approach for Calculating the Mineral Assemblages and Oxide Percentage of Crystalline Rock based on Object-Based Image Analysis and Electron Probe Microscopic Analyzer”. IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 109-113, <https://doi.org/10.1109/ICIVC47709.2019.8981017>.<br>
