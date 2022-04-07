@@ -1,10 +1,10 @@
 ________________________________________________________________________________________________________
 ## About Me
-- Zhouxuan Xiao
-- Ph.D. Candidate
-- School of Geospatial Engineering and Science
-- Sun Yat-Sen University
-- Email: xiaozhx7@mail2.sysu.edu.cn
+Zhouxuan Xiao<br>
+Ph.D. Candidate<br>
+School of Geospatial Engineering and Science<br>
+Sun Yat-Sen University<br>
+Email: xiaozhx7@mail2.sysu.edu.cn<br>
 
 - **[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
 - **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
