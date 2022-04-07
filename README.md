@@ -14,9 +14,11 @@ My research interests include planetary surface process, photogrammetry and remo
 
 ________________________________________________________________________________________________________
 ## News
-- *Feb 24,2022*---One paper is accepted by **[IEEE GRSL](https://doi.org/10.1109/LGRS.2022.3154629)**
-- *Dec 27,2022*---One paper is submitted to Journal of Structrual Geology
-- *Oct 1,2019*---One paper is accepted by **[Geosciences Journal](https://doi.org/10.1007/s12303-019-0033-89)**
+- *Feb 24, 2022*------One paper is accepted by **[IEEE GRSL](https://doi.org/10.1109/LGRS.2022.3154629)**
+- *Dec 27, 2022*------One paper is submitted to Journal of Structrual Geology
+- *Oct 1, 2019*------One paper is accepted by **[Geosciences Journal](https://doi.org/10.1007/s12303-019-0033-89)**
+- *April 1, 2019*------Four papers are accepted by **[IEEE ICIVC 2019]**
+- *Sep 25, 2016*------[My first paper published!](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)
 
 ________________________________________________________________________________________________________
 ## Selected Publications
