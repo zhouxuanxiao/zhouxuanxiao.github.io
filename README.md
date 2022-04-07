@@ -1,9 +1,11 @@
 ________________________________________________________________________________________________________
-## About Me [download this](XiaoZhouxuan_CV_2022v1.pdf)
+## About Me
 A Ph.D. student from the School of Geospatial Engineering and Science, Sun Yat-sen University, China, co-supervised by Prof. Wuming Zhang and Asso. Prof. Zhiyong Xiao. Having wide interests in planetary surface process, photogrammetry and remote sensing, and dedicating related studies around the dissertation:
 - Ph.D. thesis: "Research on Automatic Detection and Classification of Planetary Surface Changes" (2020.09-2024.07, ongoing)
 - M.S. thesis: "Multi-scale Segmentation and Classification of  Remote Sensing Imagery" (2017.09-2020.07, archived)
 - B.S. thesis: "Fault Zone Investigation and Analysis" (2013.09-2017.07, archived)
+
+[curriculum vitae](XiaoZhouxuan_CV_2022v1.pdf)
 
 ## Academic Websites
 - WOS ResearcherID: *X-6158-2019*, a student member of AGU, CPGIS, IEEE, IEEE GRSS and the ISPRS Student Consortium
