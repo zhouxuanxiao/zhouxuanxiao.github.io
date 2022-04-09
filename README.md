@@ -56,5 +56,4 @@ ________________________________________________________________________________
 [1] Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “Application of backpack Lidar to geological cross-section measurement”. Proceeding of SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), <https://doi.org/10.1117/12.2295060>.<br>
 
 ________________________________________________________________________________________________________
-### Copyright@Zhouxuan Xiao
 *Last updated: April 9 2022*
