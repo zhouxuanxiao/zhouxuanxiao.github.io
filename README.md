@@ -54,3 +54,6 @@ ________________________________________________________________________________
 [2] Lu Li, Ran Wang, Jingyu Lin, **Zhouxuan Xiao**. Yuanxiu Hui, Wei Zeng, “Arbitrary Oriented Outcrop Section Measurement Using 3D Point Cloud”. IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 193-196, <https://doi.org/10.1109/ICIVC47709.2019.8981331>.<br>
 
 [1] Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “Application of backpack Lidar to geological cross-section measurement”. Proceeding of SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), <https://doi.org/10.1117/12.2295060>.<br>
+
+________________________________________________________________________________________________________
+## Copyright@Zhouxuan Xiao, April 9 2022
