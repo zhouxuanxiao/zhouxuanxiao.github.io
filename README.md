@@ -14,6 +14,7 @@ My research interests include planetary surface process, photogrammetry and remo
 
 ________________________________________________________________________________________________________
 ## News
+- *May 31, 2022*------One paper is submitted to **Geophysical Research Letters**
 - *Feb 24, 2022*------One paper is accepted by **[IEEE GRSL](https://doi.org/10.1109/LGRS.2022.3154629)**
 - *Dec 27, 2021*------One paper is submitted to Journal of Structrual Geology
 - *Oct 1, 2019*------One paper is accepted by **[Geosciences Journal](https://doi.org/10.1007/s12303-019-0033-8)**
@@ -24,6 +25,8 @@ ________________________________________________________________________________
 ## Selected Publications
 
 - *Papers on peer-review journals*:<br>
+
+[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**. “Non-detected changes of dark spots on Mercury in 30 Earth month”. Geophysical Research Letters, 2022, submitted.
 
 [9] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li*, Jie Shao, Chaohua Ma, Wuming Zhang*, Man Peng. “High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19, <https://doi.org/10.1109/LGRS.2022.3154629>.<br>
 
