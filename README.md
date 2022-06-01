@@ -9,9 +9,10 @@ Email: xiaozhx7@mail2.sysu.edu.cn<br>
 - **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
 - **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
 
-I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. Wuming Zhang and Asso. Prof. Zhiyong Xiao.<br> (**36 citations, H-index: 4**)
-My research interests include planetary surface process, photogrammetry and remote sensing. More information can be found in my **[CV](XiaoZhouxuan_CV_2022v1.pdf)**.
+I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. Wuming Zhang and Asso. Prof. Zhiyong Xiao.<br> 
 
+My research interests include planetary surface process, photogrammetry and remote sensing. More information can be found in my **[CV](XiaoZhouxuan_CV_2022v1.pdf)**.
+(**36 citations, H-index: 4**)
 ________________________________________________________________________________________________________
 ## News
 - *May 31, 2022*------One paper is submitted to **Geophysical Research Letters**
