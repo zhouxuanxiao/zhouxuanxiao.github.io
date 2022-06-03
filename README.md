@@ -16,8 +16,8 @@ My research interests include planetary surface process, photogrammetry and remo
 ________________________________________________________________________________________________________
 ## News
 - *May 31, 2022*------One paper is submitted to **Geophysical Research Letters**
-- *Feb 24, 2022*------One paper is accepted by **[IEEE GRSL](https://doi.org/10.1109/LGRS.2022.3154629)**
-- *Dec 27, 2021*------One paper is submitted to Journal of Structrual Geology
+- *Feb 24, 2022*------One paper is accepted by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)**
+- *Dec 27, 2021*------One paper is submitted to **Journal of Structrual Geology**
 - *Oct 1, 2019*------One paper is accepted by **[Geosciences Journal](https://doi.org/10.1007/s12303-019-0033-8)**
 - *April 1, 2019*------Four papers are accepted by **[IEEE ICIVC 2019]**
 - *Sep 25, 2016*------[My first paper published!](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)
@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 [10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Non-detected changes of dark spots on Mercury in 30 Earth month”. Geophysical Research Letters, 2022, submitted.
 
-[9] **Zhouxuan Xiao**（co-author）. “A novel approach to mapping geological section using spatial data from point clouds of outcrops”. Journal of Structural Geology, 2022, submitted.
+[9] **Zhouxuan Xiao**(co-author). “A novel approach to mapping geological section using spatial data from point clouds of outcrops”. Journal of Structural Geology, 2022, submitted.
 
 [8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19, <https://doi.org/10.1109/LGRS.2022.3154629>.<br>
 
@@ -62,4 +62,4 @@ ________________________________________________________________________________
 [1] Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “Application of backpack Lidar to geological cross-section measurement”. Proceeding of SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), <https://doi.org/10.1117/12.2295060>.<br>
 
 ________________________________________________________________________________________________________
-*Last updated: April 9 2022*
+*Last updated: Jun 1 2022*
