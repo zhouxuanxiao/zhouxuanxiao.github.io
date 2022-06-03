@@ -27,7 +27,9 @@ ________________________________________________________________________________
 
 - *Papers on peer-review journals*:<br>
 
-[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Non-detected changes of dark spots on Mercury in 30 Earth month”. Geophysical Research Letters, 2022, submitted.
+[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Non-detected changes of dark spots on Mercury in 30 Earth month”. Geophysical Research Letters, 2022, submitted.
+
+[9] **Zhouxuan Xiao**（co-author）. “A novel approach to mapping geological section using spatial data from point clouds of outcrops”. Journal of Structural Geology, 2022, submitted.
 
 [8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19, <https://doi.org/10.1109/LGRS.2022.3154629>.<br>
 
