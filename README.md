@@ -7,14 +7,14 @@ Email: xiaozhx7@mail2.sysu.edu.cn<br>
 - **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
 - **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
 
-I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. Wuming Zhang and Prof. Zhiyong Xiao.<br> 
+I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. **[Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) and Prof. **[Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80).<br> 
 
 My research interests include planetary surface process, photogrammetry and remote sensing. More information can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**.
 (**36 citations, H-index: 4**)
 
 ________________________________________________________________________________________________________
 ## News
-- *May 31, 2022*------One paper is submitted to **Geophysical Research Letters**
+- *June 9, 2022*------One paper is submitted to **Nature Communications**
 - *Feb 24, 2022*------One paper is accepted by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)**
 - *Dec 27, 2021*------One paper is submitted to **Journal of Structrual Geology**
 - *Oct 1, 2019*------One paper is accepted by **[Geosciences Journal](https://doi.org/10.1007/s12303-019-0033-8)**
@@ -26,9 +26,9 @@ ________________________________________________________________________________
 
 - *Papers on peer-review journals*:<br>
 
-[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Non-detected changes of dark spots on Mercury in 30 Earth month”. Geophysical Research Letters, 2022, submitted.
+[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Non-detected changes of dark spots on Mercury in 30 Earth month”. Nature Communications, 2022, submitted.
 
-[9] **Zhouxuan Xiao**(co-author). “A novel approach to mapping geological section using spatial data from point clouds of outcrops”. Journal of Structural Geology, 2022, submitted.
+[9] Yonghui Xin, Rang Wang, **Zhouxuan Xiao** et al., “A novel approach to mapping geological section using spatial data from point clouds of outcrops”. Journal of Structural Geology, 2022, under review.
 
 [8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19, <https://doi.org/10.1109/LGRS.2022.3154629>.<br>
 
@@ -61,4 +61,4 @@ ________________________________________________________________________________
 [1] Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “Application of backpack Lidar to geological cross-section measurement”. Proceeding of SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), <https://doi.org/10.1117/12.2295060>.<br>
 
 ________________________________________________________________________________________________________
-*Last updated: Jun 1 2022*
+*Last updated: Jun 12 2022*
