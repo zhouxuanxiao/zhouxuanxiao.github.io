@@ -10,7 +10,7 @@ Email: xiaozhx7@mail2.sysu.edu.cn<br>
 I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) and Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80).<br> 
 
 My research interests include planetary surface process, photogrammetry and remote sensing. More information can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**.
-(**39 citations, H-index: 4**)
+(**40 citations, H-index: 4**)
 
 ________________________________________________________________________________________________________
 ## Recent News
@@ -58,4 +58,4 @@ ________________________________________________________________________________
 [1] Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “Application of backpack Lidar to geological cross-section measurement”. Proceeding of SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), <https://doi.org/10.1117/12.2295060>.<br>
 
 ________________________________________________________________________________________________________
-*Last updated: Jun 15 2022*
+*Last updated: Jun 18 2022*
