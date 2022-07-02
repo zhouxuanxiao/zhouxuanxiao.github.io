@@ -10,20 +10,20 @@ Email: xiaozhx7@mail2.sysu.edu.cn<br>
 I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) and Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80).<br> 
 
 My research interests include planetary surface process, photogrammetry and remote sensing. More information can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**.
-(**40 citations, H-index: 4**)
+(**41 citations, H-index: 4**)
 
 ________________________________________________________________________________________________________
 ## Recent News
-- *June 9, 2022*------One paper is submitted to **Nature Communications**
-- *Feb 24, 2022*------One paper is accepted by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)**
-- *Dec 27, 2021*------One paper is submitted to **Journal of Structrual Geology**
+- *June 9, 2022*------One paper is submitted to **Nature Communications** (under review)
+- *Feb 24, 2022*------One paper is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)**
+- *Dec 27, 2021*------One paper is submitted to **Journal of Structrual Geology** (under review)
 
 ________________________________________________________________________________________________________
 ## Selected Publications
 
 - *Papers on peer-review journals*:<br>
 
-[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Non-detected changes of dark spots on Mercury in 30 Earth month”. **Nature Communications**, 2022, submitted.
+[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Non-detected changes of dark spots on Mercury in 30 Earth month”. **Nature Communications**, 2022, under review.
 
 [9] Yonghui Xin, Rang Wang, **Zhouxuan Xiao** et al., “A novel approach to mapping geological section using spatial data from point clouds of outcrops”. **Journal of Structural Geology**, 2022, under review.
 
@@ -58,4 +58,4 @@ ________________________________________________________________________________
 [1] Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “Application of backpack Lidar to geological cross-section measurement”. Proceeding of SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), <https://doi.org/10.1117/12.2295060>.<br>
 
 ________________________________________________________________________________________________________
-*Last updated: Jun 18 2022*
+*Last updated: Jul 1 2022*
