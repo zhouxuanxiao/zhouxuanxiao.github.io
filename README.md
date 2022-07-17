@@ -7,7 +7,7 @@ Email: xiaozhx7@mail2.sysu.edu.cn<br>
 - **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
 - **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
 
-I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) and Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80), and will be joint-supervised by Prof. [Lorenzo Bruzzone])(https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) during 2022-2013<br> 
+I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) and Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80), and will be joint-supervised by Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) during 2022-2023<br> 
 
 More information can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**(**42 citations, H-index: 4**).
 
