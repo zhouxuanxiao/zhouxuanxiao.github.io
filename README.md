@@ -12,7 +12,7 @@ Email: xiaozhx7@mail2.sysu.edu.cn
 
 ________________________________________________________________________________________________________
 ## Recent News
-- *July 12, 2022*-----Got the **China Scholarship Council (CSC)** support (RSLab, University of Trento)
+- *July 12, 2022*-----Congrats! Got the **China Scholarship Council (CSC)** scholarship (RSLab, University of Trento)
 - *June 9, 2022*------One paper is submitted to **Nature Communications** (under review)
 - *Feb 24, 2022*------One paper is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)**
 - *Dec 27, 2021*------One paper is submitted to **Journal of Structrual Geology** (under review)
