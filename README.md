@@ -9,11 +9,11 @@ Email: xiaozhx7@mail2.sysu.edu.cn<br>
 
 I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) and Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80).<br> 
 
-My research interests include planetary surface process, photogrammetry and remote sensing. More information can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**.
-(**41 citations, H-index: 4**)
+More information can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**(**42 citations, H-index: 4**).
 
 ________________________________________________________________________________________________________
 ## Recent News
+- *July 12, 2022*-----Got the China Scholarship Council (CSC) support (Remote Sensing Laboratory, University of Trento, Italy)
 - *June 9, 2022*------One paper is submitted to **Nature Communications** (under review)
 - *Feb 24, 2022*------One paper is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)**
 - *Dec 27, 2021*------One paper is submitted to **Journal of Structrual Geology** (under review)
