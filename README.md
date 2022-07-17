@@ -1,7 +1,7 @@
 ________________________________________________________________________________________________________
 ## About Me
 
-I am currently a Ph.D. student at School of Geospatial Engineering and Science, Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) and Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80), and will be joint-supervised by Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento, Italy) during 2022-2023.<br> 
+I am currently a Ph.D. student at Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) (School of Geospatial Engineering and Science) and Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80) (School of Atmospheric Sciences), and will be joint-supervised by Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento, Italy) during 2022-2023.<br> 
 
 - **[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
 - **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
