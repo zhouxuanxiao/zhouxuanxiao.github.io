@@ -11,7 +11,7 @@ I am currently a Ph.D. student at Sun Yat-sen University, co-supervised by Prof.
 
 ________________________________________________________________________________________________________
 ## Recent Five News
-- *Sep 8, 2022*------One paper is under review **Nature Communications Earth & Enviornment** (after major revisio)
+- *Sep 8, 2022*------One paper is under review **Nature Communications Earth & Enviornment** (after major revision)
 - *July 12, 2022*-----Congrats! Got the **China Scholarship Council (CSC)** scholarship (RSLab, University of Trento)
 - *June 9, 2022*------One paper is submitted to **Nature Communications** (under review)
 - *Feb 24, 2022*------One paper is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)**
