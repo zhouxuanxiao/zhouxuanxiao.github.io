@@ -4,13 +4,14 @@ ________________________________________________________________________________
 I am currently a Ph.D. student at Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) (School of Geospatial Engineering and Science) and Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80) (School of Atmospheric Sciences), and will be joint-supervised by Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento, Italy) during 2022-2023.<br> 
 
 - **[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
-- **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
+- **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)** (h-index: 5)
 - **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
 
 <a href="https://info.flagcounter.com/0nAe"><img src="https://s01.flagcounter.com/map/0nAe/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_Vistors+are+from/flags_0/" alt="Flag Counter" border="0"></a>
 
 ________________________________________________________________________________________________________
-## Recent News
+## Recent Five News
+- *Sep 8, 2022*------One paper is under review **Nature Communications Earth & Enviornment** (after major revisio)
 - *July 12, 2022*-----Congrats! Got the **China Scholarship Council (CSC)** scholarship (RSLab, University of Trento)
 - *June 9, 2022*------One paper is submitted to **Nature Communications** (under review)
 - *Feb 24, 2022*------One paper is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)**
@@ -21,9 +22,9 @@ ________________________________________________________________________________
 
 - *Papers on peer-review journals*:<br>
 
-[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Non-detected changes of dark spots on Mercury in 30 Earth month”. **Nature Communications**, 2022, under review.
+[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Dark spots on Mercury show no signs of weathering during 30 Earth months”. **Nature Communications Earth & Enviornmen**, 2022, under review after major revision.
 
-[9] Yonghui Xin, Rang Wang, **Zhouxuan Xiao** et al., “A novel approach to mapping geological section using spatial data from point clouds of outcrops”. **Journal of Structural Geology**, 2022, under review.
+[9] Yonghui Xin, Rang Wang, **Zhouxuan Xiao** et al., “A novel approach to mapping geological section using spatial data from point clouds of outcrops”. **Remote Sensing**, 2022, undergoing review.
 
 [8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery”. **IEEE Geoscience and Remote Sensing Letters**, 2022, Vol.19, <https://doi.org/10.1109/LGRS.2022.3154629>.<br>
 
@@ -56,4 +57,4 @@ ________________________________________________________________________________
 [1] Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “Application of backpack Lidar to geological cross-section measurement”. Proceeding of SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), <https://doi.org/10.1117/12.2295060>.<br>
 
 ________________________________________________________________________________________________________
-*Last updated: Jul 17 2022*
+*Last updated: Sep 11 2022*
