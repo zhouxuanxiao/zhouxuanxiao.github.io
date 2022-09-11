@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 - *Papers on peer-review journals*:<br>
 
-[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Dark spots on Mercury show no signs of weathering during 30 Earth months”. **Nature Communications Earth & Enviornmen**, 2022, under review after major revision.
+[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Dark spots on Mercury show no signs of weathering during 30 Earth months”. **Nature Communications Earth & Enviornment**, 2022, under review after major revision.
 
 [9] Yonghui Xin, Rang Wang, **Zhouxuan Xiao** et al., “A novel approach to mapping geological section using spatial data from point clouds of outcrops”. **Remote Sensing**, 2022, undergoing review.
 
