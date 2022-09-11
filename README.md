@@ -4,9 +4,10 @@ ________________________________________________________________________________
 I am currently a Ph.D. student at Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) (School of Geospatial Engineering and Science), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80) (School of Atmospheric Sciences) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento). More info can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**.<br> 
 
 - **[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
-- **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)** (h-index: 5)
+- **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
 - **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
 
+*Visitors:*
 <a href="https://info.flagcounter.com/0nAe"><img src="https://s01.flagcounter.com/map/0nAe/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_Vistors+are+from/flags_0/" alt="Flag Counter" border="0"></a>
 
 ________________________________________________________________________________________________________
