@@ -14,9 +14,9 @@ ________________________________________________________________________________
 ## Recent News in 2022
 - *Oct 26, 2022*------One paper regarding Mars rock formal analysis is submitted to **Earth and Planetary Science Letters** (under review)
 - *Oct 19, 2022*------One paper regarding terrain reconstruction of slot canyons  is under review by **Drones** (pending decision)
-- *Sep 22, 2022*------One paper regarding dark spots on Mercury is under review by **Communications Earth & Enviornment**
-- *June 9, 2022*------One paper regarding dark spots on Mercury is submitted to **Nature Communications** (tranfered to Communications Earth & Enviornment)
-- *Feb 24, 2022*------One paper regarding Mars 3D rock extraction is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)** (welcome to cite this work)
+- *Sep 22, 2022*------One paper regarding dark spots on Mercury is under review by **Communications Earth & Environment**
+- *June 9, 2022*------One paper regarding dark spots on Mercury is submitted to **Nature Communications** (tranferred to Communications Earth & Environment)
+- *Feb 24, 2022*------One paper regarding Mars 3D rock extraction is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)** (welcome to cite this work!)
 
 ________________________________________________________________________________________________________
 ## Selected Publications
@@ -27,7 +27,7 @@ ________________________________________________________________________________
 
 [10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry”. **Drones**, 2022, pending decision.
 
-[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Dark spots on Mercury show no signs of weathering during 30 Earth months”. **Nature Communications Earth & Enviornment**, 2022, under consideration.
+[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Dark spots on Mercury show no signs of weathering during 30 Earth months”. **Nature Communications Earth & Environment**, 2022, under consideration.
 
 [8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery”. **IEEE Geoscience and Remote Sensing Letters**, 2022, Vol.19, <https://doi.org/10.1109/LGRS.2022.3154629>.<br>
 
