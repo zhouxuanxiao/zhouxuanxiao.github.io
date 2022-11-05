@@ -12,7 +12,8 @@ I am currently a Ph.D. student at Sun Yat-sen University (now visit the Universi
 
 ________________________________________________________________________________________________________
 ## Recent News in 2022
-- *Oct 26, 2022*------One paper regarding Mars rock formal analysis is submitted to **Earth and Planetary Science Letters** (under review)
+- *Nov 4, 2022*------One paper regarding dark spots on Mercury is accepted by **Communications Earth & Environment**!!!
+- *Nov 2, 2022*------One paper regarding Mars rock formal analysis is submitted to **JGR-Planets** (under review)
 - *Oct 19, 2022*------One paper regarding terrain reconstruction of slot canyons  is under review by **Drones** (pending decision)
 - *Sep 22, 2022*------One paper regarding dark spots on Mercury is under review by **Communications Earth & Environment**
 - *June 9, 2022*------One paper regarding dark spots on Mercury is submitted to **Nature Communications** (tranferred to Communications Earth & Environment)
@@ -23,11 +24,11 @@ ________________________________________________________________________________
 
 - *Papers on peer-review journals*:<br>
 
-[11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhong Landing Region”. **Earth and Planetary Science Letters**, 2022, under review.
+[11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhong Landing Region”. **JGR-Plantes**, 2022, under review.
 
-[10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry”. **Drones**, 2022, pending decision.
+[10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry”. **Drones**, 2022, resubmission.
 
-[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Dark spots on Mercury show no signs of weathering during 30 Earth months”. **Nature Communications Earth & Environment**, 2022, under consideration.
+[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Dark spots on Mercury show no signs of weathering during 30 Earth months”. **Nature Communications Earth & Environment**, 2022, accepted and waiting for final revision.
 
 [8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery”. **IEEE Geoscience and Remote Sensing Letters**, 2022, Vol.19, <https://doi.org/10.1109/LGRS.2022.3154629>.<br>
 
@@ -60,4 +61,4 @@ ________________________________________________________________________________
 [1] Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “Application of backpack Lidar to geological cross-section measurement”. Proceeding of SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), <https://doi.org/10.1117/12.2295060>.<br>
 
 ________________________________________________________________________________________________________
-*Last updated: Oct 29 2022*
+*Last updated: Nov 4 2022*
