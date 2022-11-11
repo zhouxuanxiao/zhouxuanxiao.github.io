@@ -7,9 +7,6 @@ I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](
 - **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
 - **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
 
-*Who Visit this Website:*<br>
-<a href="https://info.flagcounter.com/0nAe"><img src="https://s01.flagcounter.com/map/0nAe/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_Vistors+are+from/flags_0/" alt="Flag Counter" border="0"></a>
-
 ________________________________________________________________________________________________________
 ## Recent News in 2022
 - *Nov 4, 2022*------One paper regarding dark spots on Mercury is accepted by **Communications Earth & Environment**!!!
@@ -66,5 +63,8 @@ ________________________________________________________________________________
 
 [1] 王冉, 林靖愉, 李路, **肖宙轩**, 惠元秀, 辛永辉. “一种用于SfM三维建模的加载激光无级比例尺的永平指南针”. 中国发明专利, <https://patents.google.com/patent/CN110672080A/zh>.<br>
 
+*Who Visit this Website:*<br>
+<a href="https://info.flagcounter.com/0nAe"><img src="https://s01.flagcounter.com/map/0nAe/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_Vistors+are+from/flags_0/" alt="Flag Counter" border="0"></a>
+
 ________________________________________________________________________________________________________
-*Last updated: Nov 4 2022*
+*Last updated: Nov 11 2022*
