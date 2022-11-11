@@ -9,7 +9,7 @@ I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](
 - 📧: *zhouxuan.xiao@studenti.unitn.it* or *xiaozhx7@mail2.sysu.edu.cn*<br>
 
 ________________________________________________________________________________________________________
-## Recent News in 2022
+## Recent News
 - *Nov 4, 2022*------One paper regarding dark spots on Mercury is accepted by **Communications Earth & Environment**!!!
 - *Nov 2, 2022*------One paper regarding Mars rock formal analysis is submitted to **JGR-Planets** (under review)
 - *Oct 19, 2022*------One paper regarding terrain reconstruction of slot canyons  is under review by **Drones** (pending decision)
@@ -18,7 +18,7 @@ ________________________________________________________________________________
 - *Feb 24, 2022*------One paper regarding Mars 3D rock extraction is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)** (welcome to cite this work!)<br>
 
 ________________________________________________________________________________________________________
-## Selected Publications
+## Publication List
 
 - **Papers on peer-review journals**:<br>
 
