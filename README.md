@@ -62,8 +62,8 @@ ________________________________________________________________________________
 [2] 林靖愉, 王冉, 惠元秀, 辛永辉, 李路, **肖宙轩**, 刘源. “基于NED坐标系向量旋转的SfM点云校正方法”. 中国发明专利, <https://patents.google.com/patent/CN112712559B/zh>.<br>
 
 [1] 王冉, 林靖愉, 李路, **肖宙轩**, 惠元秀, 辛永辉. “一种用于SfM三维建模的加载激光无级比例尺的永平指南针”. 中国发明专利, <https://patents.google.com/patent/CN110672080A/zh>.<br>
+*Last updated: Nov 11 2022*<br>
 
 ________________________________________________________________________________________________________
 
-*Last updated: Nov 11 2022*<br>
 <a href="https://info.flagcounter.com/0nAe"><img src="https://s01.flagcounter.com/map/0nAe/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_Vistors+are+from/flags_0/" alt="Flag Counter" border="0"></a>
