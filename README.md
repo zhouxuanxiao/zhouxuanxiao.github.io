@@ -1,7 +1,7 @@
 ________________________________________________________________________________________________________
 ## About Me
 
-I am currently a Ph.D. student at Sun Yat-sen University (now visit the University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) (School of Geospatial Engineering and Science), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80) (School of Atmospheric Sciences) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento). More info can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**.<br> 
+I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](https://rslab.disi.unitn.it/people/#ZhouxuanXiao), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) (School of Geospatial Engineering and Science), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80) (School of Atmospheric Sciences) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento). More info can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**.<br> 
 
 - **[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
 - **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
@@ -36,7 +36,7 @@ ________________________________________________________________________________
 
 [6] Ran Wang, Jingyu Lin, Lu Li, **Zhouxuan Xiao**, Yonghui Xin. “A revised orientation-based correction method for SfM-MVS point clouds of outcrops using ground control planes with marks”. **Journal of Structural Geology**, 2021, 143, 104266, <https://doi.org/10.1016/j.jsg.2020.104266>.<br>
 
-[5] Yuanxiu Hui, Rang Wang, Lu Li, Jingyu Lin, **Zhouxuan Xiao**, Yonghui Xin. “The timing of barleik formation and its implication for the devonian tectonic evolution of western junggar, NW china”. **Open Geosciences**, 2021, 13(1), 188-196, https://doi.org/10.1515/geo-2020-0229.<br>
+[5] Yuanxiu Hui, Rang Wang, Lu Li, Jingyu Lin, **Zhouxuan Xiao**, Yonghui Xin. “The timing of barleik formation and its implication for the devonian tectonic evolution of western junggar, NW china”. **Open Geosciences**, 2021, 13(1), 188-196, <https://doi.org/10.1515/geo-2020-0229>.<br>
 
 [4] Licheng Ma, Wan Jiang, **Zhouxuan Xiao**, Zongxing Li, Bo Peng, Junjie Hu, Min Dong. “Discussion on the depositional timing of the Zhabusagaxiu formation in the eastern Qaidam Basin”. **Journal of Geomechanics**, 2020, 26(6):961-972. <https://doi.org/10.12090/j.issn.1006-6616.2020.26.06.077>.<br>
 
