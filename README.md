@@ -48,7 +48,7 @@ ________________________________________________________________________________
 
 - **Papers on academic conferences**:<br>
 
-[6] **Zhouxuan Xiao**, Ran Wang, Jingyu Lin, Wuming Zhang. “Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China”. The Third Symposium on Space Earth Science, China, 2020.<br>
+[6] **Zhouxuan Xiao**, Ran Wang, Jingyu Lin, Wuming Zhang. “Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China”. The Third Symposium on Space Earth Science, China, 2020, <https://www.researchgate.net/publication/346322683_Outcrop-scale_Yardang_Geometric_Analysis_using_SfM-MVS_Point_Clouds_in_Hami_Area_NW_China>. <br>
 
 [5] **Zhouxuan Xiao**, Ran Wang, Yuanxiu Hui, Jingyu Lin, Lu Li. “Integrated Approach for Calculating the Mineral Assemblages and Oxide Percentage of Crystalline Rock based on Object-Based Image Analysis and Electron Probe Microscopic Analyzer”. IEEE 4th International Conference on Image, Vision and Computing (ICIVC), 2019, pp. 109-113, <https://doi.org/10.1109/ICIVC47709.2019.8981017>.<br>
 
