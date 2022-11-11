@@ -6,7 +6,7 @@ I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](
 - **[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
 - **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
 - **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
-
+- **MyEmail**:*zhouxuan.xiao@studenti.unitn.it*,*xiaozhx7@mail2.sysu.edu.cn*.<br>
 ________________________________________________________________________________________________________
 ## Recent News in 2022
 - *Nov 4, 2022*------One paper regarding dark spots on Mercury is accepted by **Communications Earth & Environment**!!!
@@ -14,8 +14,7 @@ ________________________________________________________________________________
 - *Oct 19, 2022*------One paper regarding terrain reconstruction of slot canyons  is under review by **Drones** (pending decision)
 - *Sep 22, 2022*------One paper regarding dark spots on Mercury is under review by **Communications Earth & Environment**
 - *June 9, 2022*------One paper regarding dark spots on Mercury is submitted to **Nature Communications** (tranferred to Communications Earth & Environment)
-- *Feb 24, 2022*------One paper regarding Mars 3D rock extraction is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)** (welcome to cite this work!)
-
+- *Feb 24, 2022*------One paper regarding Mars 3D rock extraction is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)** (welcome to cite this work!)<br>
 ________________________________________________________________________________________________________
 ## Selected Publications
 
@@ -64,7 +63,6 @@ ________________________________________________________________________________
 [1] 王冉, 林靖愉, 李路, **肖宙轩**, 惠元秀, 辛永辉. “一种用于SfM三维建模的加载激光无级比例尺的永平指南针”. 中国发明专利, <https://patents.google.com/patent/CN110672080A/zh>.<br>
 
 *Last updated: Nov 11 2022*<br>
-
 ________________________________________________________________________________________________________
 
 <a href="https://info.flagcounter.com/0nAe"><img src="https://s01.flagcounter.com/map/0nAe/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_Vistors+are+from/flags_0/" alt="Flag Counter" border="0"></a>
