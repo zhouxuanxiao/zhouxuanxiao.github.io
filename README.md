@@ -3,9 +3,9 @@ ________________________________________________________________________________
 
 I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](https://rslab.disi.unitn.it/people/#ZhouxuanXiao), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) (School of Geospatial Engineering and Science), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80) (School of Atmospheric Sciences) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento). More info can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**.<br> 
 
-- **![image](https://user-images.githubusercontent.com/33999470/201350752-e2584ab8-86a6-4e57-a582-f96bc83142c4.png)[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
-- **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
-- **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
+- **R[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
+- **G[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
+- **O[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
 - **📫**: *zhouxuan.xiao@studenti.unitn.it* or *xiaozhx7@mail2.sysu.edu.cn*<br>
 ________________________________________________________________________________________________________
 ## Recent News in 2022
