@@ -10,17 +10,21 @@ I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](
 
 ________________________________________________________________________________________________________
 ## Recent News
-- *Nov 4, 2022*------One paper regarding dark spots on Mercury is accepted by **Communications Earth & Environment**!!!
+- *Nov 13, 2022*------One paper regarding MarsRockCNN is submitted to **ISPRS Journal of Photogrammetry and Remote Sensing**.
+- *Nov 4, 2022*------Congrats! One paper regarding dark spots on Mercury is accepted by **Communications Earth & Environment**!!!
 - *Nov 2, 2022*------One paper regarding Mars rock formal analysis is submitted to **JGR-Planets** (under review)
 - *Oct 19, 2022*------One paper regarding terrain reconstruction of slot canyons  is under review by **Drones** (pending decision)
 - *Sep 22, 2022*------One paper regarding dark spots on Mercury is under review by **Communications Earth & Environment**
 - *June 9, 2022*------One paper regarding dark spots on Mercury is submitted to **Nature Communications** (tranferred to Communications Earth & Environment)
-- *Feb 24, 2022*------One paper regarding Mars 3D rock extraction is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)** (welcome to cite this work!)<br>
+- *Feb 24, 2022*------Congrats! One paper regarding Mars 3D rock extraction is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)** (welcome to cite this work!)<br>
 
 ________________________________________________________________________________________________________
 ## Publication List
 
 - **Papers on peer-review journals**:<br>
+
+[12] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task 
+Network with Depth-aware Spatial Attention Mechanism”. **ISPRS Journal of Photogrammetry and Remote Sensing**, 2022, submitted.
 
 [11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhong Landing Region”. **JGR-Plantes**, 2022, under review.
 
@@ -64,7 +68,7 @@ ________________________________________________________________________________
 
 [1] 王冉, 林靖愉, 李路, **肖宙轩**, 惠元秀, 辛永辉. “一种用于SfM三维建模的加载激光无级比例尺的永平指南针”. 中国发明专利, <https://patents.google.com/patent/CN110672080A/zh>.<br>
 
-*Last updated: Nov 11 2022*<br>
+*Last updated: Nov 13 2022*<br>
 
 ________________________________________________________________________________________________________
 
