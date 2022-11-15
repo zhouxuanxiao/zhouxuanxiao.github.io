@@ -12,13 +12,13 @@ ________________________________________________________________________________
 
 - Papers on peer-review journals:<br>
 
-[12] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “[*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*]”. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, under review.<br>
+[12] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*”. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, under review.<br>
 
-[11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “[*Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhong Landing Region*]”. JGR-Plantes, 2022, under review.<br>
+[11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “*Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhong Landing Region*”. JGR-Plantes, 2022, under review.<br>
 
-[10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “[*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry*]”. Drones, 2022, under review.<br>
+[10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry]”. Drones, 2022, under review.<br>
 
-[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[*Dark spots on Mercury show no signs of weathering during 30 Earth months*]”. Nature Communications Earth & Environment, 2022, in press.<br>
+[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “*Dark spots on Mercury show no signs of weathering during 30 Earth months*”. Nature Communications Earth & Environment, 2022, in press.<br>
 
 [8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “[*High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery*](https://doi.org/10.1109/LGRS.2022.3154629)”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19, 1-5.<br>
 
