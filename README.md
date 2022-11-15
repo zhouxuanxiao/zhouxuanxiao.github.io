@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 [2] Ran Wang, Jingyu Lin, Bo Zhao, Lu Li, **Zhouxuan Xiao**, Jürgen Pilz. “[*Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China*](https://doi.org/10.1109/JSTARS.2018.2879493)”. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018, vol. 11, no. 12, pp. 4791-4807.<br>
 
-[1] **Zhouxuan Xiao**, Hui Li, Rukuan Chai. “[*Well productivity formula in low permeability reservoir with threshold pressure gradient*](ttps://doi.org/10.3969/j.issn.1673-5285.2016.09.009)”. Petrochemical Application, 2016, 35(9).<br>
+[1] **Zhouxuan Xiao**, Hui Li, Rukuan Chai. “[*Well productivity formula in low permeability reservoir with threshold pressure gradient*](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)”. Petrochemical Application, 2016, 35(9).<br>
 
 - Papers on academic conferences:<br>
 
