@@ -1,20 +1,18 @@
 ________________________________________________________________________________________________________
-## About Me
 
 I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](https://rslab.disi.unitn.it/people/#ZhouxuanXiao), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) (School of Geospatial Engineering and Science), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80) (School of Atmospheric Sciences) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento). More info can be found in my **[CV](XiaoZhouxuan_CV_2022v2.pdf)**.<br> 
 
 - **[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
 - **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
 - **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
-- 📧: *<zhouxuan.xiao@studenti.unitn.it>* or *<xiaozhx7@mail2.sysu.edu.cn>*<br>
+- *<zhouxuan.xiao@studenti.unitn.it>* or *<xiaozhx7@mail2.sysu.edu.cn>*<br>
 
 ________________________________________________________________________________________________________
 ## Publication List
 
 - Papers on peer-review journals:<br>
 
-[12] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task 
-Network with Depth-aware Spatial Attention Mechanism”. **ISPRS Journal of Photogrammetry and Remote Sensing**, 2022, submitted.
+[12] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*”. **ISPRS Journal of Photogrammetry and Remote Sensing**, 2022, submitted.
 
 [11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhong Landing Region”. **JGR-Plantes**, 2022, under review.
 
