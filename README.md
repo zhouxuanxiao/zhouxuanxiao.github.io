@@ -6,17 +6,7 @@ I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](
 - **[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
 - **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
 - **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
-- 📧: *zhouxuan.xiao@studenti.unitn.it* or *xiaozhx7@mail2.sysu.edu.cn*<br>
-
-________________________________________________________________________________________________________
-## Recent News
-- *Nov 13, 2022*------One paper regarding MarsRockCNN is submitted to **ISPRS Journal of Photogrammetry and Remote Sensing**.
-- *Nov 4, 2022*------Congrats! One paper regarding dark spots on Mercury is accepted by **Communications Earth & Environment**!!!
-- *Nov 2, 2022*------One paper regarding Mars rock formal analysis is submitted to **JGR-Planets** (under review)
-- *Oct 19, 2022*------One paper regarding terrain reconstruction of slot canyons  is under review by **Drones** (pending decision)
-- *Sep 22, 2022*------One paper regarding dark spots on Mercury is under review by **Communications Earth & Environment**
-- *June 9, 2022*------One paper regarding dark spots on Mercury is submitted to **Nature Communications** (tranferred to Communications Earth & Environment)
-- *Feb 24, 2022*------Congrats! One paper regarding Mars 3D rock extraction is published by **[IEEE Geoscience and Remote Sensing Letters](https://doi.org/10.1109/LGRS.2022.3154629)** (welcome to cite this work!)<br>
+- 📧: *<zhouxuan.xiao@studenti.unitn.it>* or *<xiaozhx7@mail2.sysu.edu.cn>*<br>
 
 ________________________________________________________________________________________________________
 ## Publication List
@@ -30,7 +20,7 @@ Network with Depth-aware Spatial Attention Mechanism”. **ISPRS Journal of Phot
 
 [10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry”. **Drones**, 2022, resubmission.
 
-[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Dark spots on Mercury show no signs of weathering during 30 Earth months”. **Nature Communications Earth & Environment**, 2022, accepted and waiting for final revision.
+[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “Dark spots on Mercury show no signs of weathering during 30 Earth months”. **Nature Communications Earth & Environment**, 2022, i press.
 
 [8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery”. **IEEE Geoscience and Remote Sensing Letters**, 2022, Vol.19, <https://doi.org/10.1109/LGRS.2022.3154629>.<br>
 
