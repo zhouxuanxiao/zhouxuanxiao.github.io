@@ -21,7 +21,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________
 ## Publication List
 
-- *Papers on peer-review journals*:<br>
+- Papers on peer-review journals:<br>
 
 [12] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task 
 Network with Depth-aware Spatial Attention Mechanism”. **ISPRS Journal of Photogrammetry and Remote Sensing**, 2022, submitted.
@@ -48,7 +48,7 @@ Network with Depth-aware Spatial Attention Mechanism”. **ISPRS Journal of Phot
 
 [1] **Zhouxuan Xiao**, Hui Li, Rukuan Chai. “Well productivity formula in low permeability reservoir with threshold pressure gradient”. **Petrochemical Application**, 2016, 35(9), <https://doi.org/10.3969/j.issn.1673-5285.2016.09.009>.<br>
 
-- *Papers on academic conferences*:<br>
+- Papers on academic conferences:<br>
 
 [6] **Zhouxuan Xiao**, Ran Wang, Jingyu Lin, Wuming Zhang. “Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China”. The Third Symposium on Space Earth Science, China, 2020, <https://www.researchgate.net/publication/346322683_Outcrop-scale_Yardang_Geometric_Analysis_using_SfM-MVS_Point_Clouds_in_Hami_Area_NW_China>. <br>
 
@@ -62,7 +62,7 @@ Network with Depth-aware Spatial Attention Mechanism”. **ISPRS Journal of Phot
 
 [1] Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “Application of backpack Lidar to geological cross-section measurement”. Proceeding of SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017), <https://doi.org/10.1117/12.2295060>.<br>
 
-- *Patents*:<br>
+- Patents:<br>
 
 [2] 林靖愉, 王冉, 惠元秀, 辛永辉, 李路, **肖宙轩**, 刘源. “基于NED坐标系向量旋转的SfM点云校正方法”. 中国发明专利, <https://patents.google.com/patent/CN112712559B/zh>.<br>
 
