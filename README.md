@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 [10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry]”. Drones, 2022, under review.<br>
 
-[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “*Dark spots on Mercury show no signs of weathering during 30 Earth months*”. Nature Communications Earth & Environment, 2022, in press.<br>
+[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[*Dark spots on Mercury show no signs of weathering during 30 Earth months*](https://doi.org/10.1038/s43247-022-00634-z)". Nature Communications Earth & Environment, 2022.<br>
 
 [8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “[*High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery*](https://doi.org/10.1109/LGRS.2022.3154629)”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19, 1-5.<br>
 
@@ -56,7 +56,7 @@ ________________________________________________________________________________
 
 [1] 王冉, 林靖愉, 李路, **肖宙轩**, 惠元秀, 辛永辉. “[*一种用于SfM三维建模的加载激光无级比例尺的永平指南针*](https://patents.google.com/patent/CN110672080A/zh)”. 中国发明专利, 2019.<br>
 
-*Last updated: Nov 15 2022*<br>
+*Last updated: Nov 29 2022*<br>
 
 ________________________________________________________________________________________________________
 
