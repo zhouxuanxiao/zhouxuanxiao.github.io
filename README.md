@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 [11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “*Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhong Landing Region*”. JGR-Plantes, 2022, under review.<br>
 
-[10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry*”. Drones, 2022, in revision.<br>
+[10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “[*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry*](https://www.researchgate.net/publication/366325610_High-Resolution_Terrain_Reconstruction_of_Slot_Canyon_Using_Backpack_Mobile_Laser_Scanning_and_UAV_Photogrammetry)”. Drones, 2022, in press.<br>
 
 [9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[*Dark spots on Mercury show no signs of weathering during 30 Earth months*](https://doi.org/10.1038/s43247-022-00634-z)". Communications Earth & Environment, 2022, Springer Nature.<br>
 
