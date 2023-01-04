@@ -9,13 +9,13 @@ I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](
 - *<zhouxuan.xiao@studenti.unitn.it>* or *<xiaozhx7@mail2.sysu.edu.cn>*<br>
 
 ________________________________________________________________________________________________________
-## MY PUBLICATIONS (2016-now)
+### MY PUBLICATIONS (2016-now)
 
 - Papers on peer-review journals:<br>
 
 [12] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “[*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*](https://www.editorialmanager.com/photo/default2.aspx)”. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, rejected.(SCI TOP, IF=11.774)<br>
 
-[11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “[*Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhong Landing Region*](https://jgr-planets-submit.agu.org/cgi-bin/main.plex?form_type=home)”. JGR-Plantes, 2022, under review.(SCI, IF=4.43)<br>
+[11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “[*Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhurong Landing Region*](https://jgr-planets-submit.agu.org/cgi-bin/main.plex?form_type=home)”. JGR-Plantes, 2022, under review.(SCI, IF=4.43)<br>
 
 [10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “[*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry*](https://doi.org/10.3390/drones6120429)”. Drones, 2022, 6(12), 429.(SCI, IF=5.532)<br>
 
