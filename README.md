@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 [10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “[*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry*](https://doi.org/10.3390/drones6120429)”. Drones, 2022, 6(12), 429.(SCI, IF=5.532)<br>
 
-[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[*Dark spots on Mercury show no signs of weathering during 30 Earth months*](https://doi.org/10.1038/s43247-022-00634-z)". Communications Earth & Environment, 2022, Springer Nature.(SCI, IF=7.29)<br>
+[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[*Dark spots on Mercury show no signs of weathering during 30 Earth months*](https://doi.org/10.1038/s43247-022-00634-z)". Communications Earth & Environment, 2022, 3, 299.(SCI, IF=7.29)<br>
 
 [8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “[*High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery*](https://doi.org/10.1109/LGRS.2022.3154629)”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19, 1-5.(SCI, IF=5.343)<br>
 
