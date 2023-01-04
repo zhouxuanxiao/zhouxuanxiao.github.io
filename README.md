@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 [4] **Zhouxuan Xiao**, Licheng Ma, Wan Jiang, Ran Wang, Yuyan Yao, Jie Cai, Jingyu Lin, Lu Li. “[*Grenville-age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite*](https://doi.org/10.1007/s12303-019-0033-8)”. Geosciences Journal, 2020, 24, 249–266.(SCI, IF=1.439)<br>
 
-[3] Lu Li, Ran Wang, Jingyu Lin, **Zhouxuan Xiao**, Yuanxiu Hui. “[*A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM*](https://doi.org/10.1016/j.sedgeo.2019.105523)”. Sedimentary Geology, 2019, 392, 105523.(SCI TOP, IF=3.329)<br>
+[3] Lu Li, Ran Wang, Jingyu Lin, **Zhouxuan Xiao**, Yuanxiu Hui. “[*A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM*](https://doi.org/10.1016/j.sedgeo.2019.105523)”. Sedimentary Geology, 2019, 392, 105523.(SCI, IF=3.329)<br>
 
 [2] Ran Wang, Jingyu Lin, Bo Zhao, Lu Li, **Zhouxuan Xiao**, Jürgen Pilz. “[*Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China*](https://doi.org/10.1109/JSTARS.2018.2879493)”. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018, vol. 11, no. 12, pp. 4791-4807.(SCI, IF=4.715)<br>
 
