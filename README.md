@@ -1,5 +1,5 @@
 ________________________________________________________________________________________________________
-### PLANETARY REMOTE SENSING+3D POINT CLOUD ANALYSIS
+#### PLANETARY REMOTE SENSING+3D POINT CLOUD ANALYSIS
 
 I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](https://rslab.disi.unitn.it/people/#ZhouxuanXiao), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) (School of Geospatial Engineering and Science), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342) (School of Atmospheric Sciences) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento). More info can be found in my **[CV](XiaoZhouxuan_CV_2022v3.pdf)**.<br> 
 
@@ -9,7 +9,7 @@ I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](
 - *<zhouxuan.xiao@studenti.unitn.it>* or *<xiaozhx7@mail2.sysu.edu.cn>*<br>
 
 ________________________________________________________________________________________________________
-## MY PUBLICATIONS (2016-)
+## MY PUBLICATIONS (2016-now)
 
 - Papers on peer-review journals:<br>
 
