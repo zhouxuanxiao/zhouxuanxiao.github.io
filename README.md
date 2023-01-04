@@ -1,3 +1,5 @@
+## PLANETARY REMOTE SENSING, 3D POINT CLOUD ANALYSIS
+
 ________________________________________________________________________________________________________
 
 I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](https://rslab.disi.unitn.it/people/#ZhouxuanXiao), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) (School of Geospatial Engineering and Science), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342) (School of Atmospheric Sciences) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento). More info can be found in my **[CV](XiaoZhouxuan_CV_2022v3.pdf)**.<br> 
@@ -12,9 +14,9 @@ ________________________________________________________________________________
 
 - Papers on peer-review journals:<br>
 
-[12] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*”. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, under review.<br>
+[12] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “[*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*](https://www.editorialmanager.com/photo/default2.aspx)”. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, rejected.<br>
 
-[11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “*Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhong Landing Region*”. JGR-Plantes, 2022, under review.<br>
+[11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “[*Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhong Landing Region*](https://jgr-planets-submit.agu.org/cgi-bin/main.plex?form_type=home)”. JGR-Plantes, 2022, under review.<br>
 
 [10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “[*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry*](https://doi.org/10.3390/drones6120429)”. Drones, 2022, 6(12), 429.<br>
 
