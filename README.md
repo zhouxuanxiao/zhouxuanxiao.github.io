@@ -1,41 +1,46 @@
 ________________________________________________________________________________________________________
 #### PLANETARY REMOTE SENSING & 3D POINT CLOUD ANALYSIS
 
-I am currently a Ph.D. student at Sun Yat-sen University (now visit the [RSLab](https://rslab.disi.unitn.it/people/#ZhouxuanXiao), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) (School of Geospatial Engineering and Science), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342) (School of Atmospheric Sciences) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum) (Head of Remote Sensing Laboratory, University of Trento). More info can be found in my **[CV](XiaoZhouxuan_CV_2022v3.pdf)**.<br> 
+A Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University (now visit the [RSLab](https://rslab.disi.unitn.it/people/#ZhouxuanXiao), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum).<br> 
 
-- **[ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
-- **[Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
-- **[ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
-- *<zhouxuan.xiao@studenti.unitn.it>* or *<xiaozhx7@mail2.sysu.edu.cn>*<br>
+Note: More info can be found in my **[CV.pdf](XiaoZhouxuan_CV_2023v1.pdf)**.<br> 
+
+- **[Zhouxuan's Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
+- **[Zhouxuan's ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
+- **[Zhouxuan's ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
+- **[Zhouxuan's ResearchID](https://www.webofscience.com/wos/author/rid/X-6158-2019)**<br>
+- **[Zhouxuan's SCIprofiles](https://sciprofiles.com/profile/537795)**<br>
 
 ________________________________________________________________________________________________________
 ### MY PUBLICATIONS (2016-now)
 
 - Papers on peer-review journals:<br>
 
-[12] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “[*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*](https://www.editorialmanager.com/photo/default2.aspx)”. ISPRS Journal of Photogrammetry and Remote Sensing, 2022, rejected.(SCI TOP, IF=11.774)<br>
+[13] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*”. 2023, resubmitting.(SCI)<br>
 
-[11] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “[*Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhurong Landing Region*](https://jgr-planets-submit.agu.org/cgi-bin/main.plex?form_type=home)”. JGR-Plantes, 2022, under review.(SCI, IF=4.43)<br>
+[12] Yuan Li, Linzhou Zeng, Chaohua Ma, Wuming Zhang, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “[*Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhurong Landing Region*](https://jgr-planets-submit.agu.org/cgi-bin/main.plex?form_type=home)”. JGR-Plantes, 2022, under review.(SCI, IF=4.43)<br>
 
-[10] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “[*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry*](https://doi.org/10.3390/drones6120429)”. Drones, 2022, 6(12), 429.(SCI, IF=5.532)<br>
+[11] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “[*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry*](https://doi.org/10.3390/drones6120429)”. Drones, 2022, 6(12), 429.(SCI, IF=5.532)<br>
 
-[9] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[*Dark spots on Mercury show no signs of weathering during 30 Earth months*](https://doi.org/10.1038/s43247-022-00634-z)". Communications Earth & Environment, 2022, 3, 299.(SCI, IF=7.29)<br>
+[10] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[*Dark spots on Mercury show no signs of weathering during 30 Earth months*](https://doi.org/10.1038/s43247-022-00634-z)". Communications Earth & Environment, 2022, 3, 299.(SCI, IF=7.29)<br>
 
-[8] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “[*High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery*](https://doi.org/10.1109/LGRS.2022.3154629)”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19, 1-5.(SCI, IF=5.343)<br>
+[9] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “[*High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery*](https://doi.org/10.1109/LGRS.2022.3154629)”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19, 1-5.(SCI, IF=5.343)<br>
 
-[7] Ran Wang, Jingyu Lin, Lu Li, **Zhouxuan Xiao**, Yonghui Xin. “[*A revised orientation-based correction method for SfM-MVS point clouds of outcrops using ground control planes with marks*](https://doi.org/10.1016/j.jsg.2020.104266)”. Journal of Structural Geology, 2021, 143, 104266.(SCI, IF=3.366)<br>
+[8] Ran Wang, Jingyu Lin, Lu Li, **Zhouxuan Xiao**, Yonghui Xin. “[*A revised orientation-based correction method for SfM-MVS point clouds of outcrops using ground control planes with marks*](https://doi.org/10.1016/j.jsg.2020.104266)”. Journal of Structural Geology, 2021, 143, 104266.(SCI, IF=3.366)<br>
 
-[6] Yuanxiu Hui, Rang Wang, Lu Li, Jingyu Lin, **Zhouxuan Xiao**, Yonghui Xin. “[*The timing of barleik formation and its implication for the devonian tectonic evolution of western junggar, NW china*](https://doi.org/10.1515/geo-2020-0229)”. Open Geosciences, 2021, 13(1), 188-196.(SCI, IF=1.467)<br>
+[7] Yuanxiu Hui, Rang Wang, Lu Li, Jingyu Lin, **Zhouxuan Xiao**, Yonghui Xin. “[*The timing of barleik formation and its implication for the devonian tectonic evolution of western junggar, NW china*](https://doi.org/10.1515/geo-2020-0229)”. Open Geosciences, 2021, 13(1), 188-196.(SCI, IF=1.467)<br>
 
-[5] Licheng Ma, Wan Jiang, **Zhouxuan Xiao**, Zongxing Li, Bo Peng, Junjie Hu, Min Dong. “[*Discussion on the depositional timing of the Zhabusagaxiu formation in the eastern Qaidam Basin*](https://doi.org/10.12090/j.issn.1006-6616.2020.26.06.077)”. Journal of Geomechanics, 2020, 26(6):961-972.(CSCD)<br>
+[6] Licheng Ma, Wan Jiang, **Zhouxuan Xiao**, Zongxing Li, Bo Peng, Junjie Hu, Min Dong. “[*Discussion on the depositional timing of the Zhabusagaxiu formation in the eastern Qaidam Basin*](https://doi.org/10.12090/j.issn.1006-6616.2020.26.06.077)”. Journal of Geomechanics, 2020, 26(6):961-972.(CSCD)<br>
 
-[4] **Zhouxuan Xiao**, Licheng Ma, Wan Jiang, Ran Wang, Yuyan Yao, Jie Cai, Jingyu Lin, Lu Li. “[*Grenville-age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite*](https://doi.org/10.1007/s12303-019-0033-8)”. Geosciences Journal, 2020, 24, 249–266.(SCI, IF=1.439)<br>
+[5] **Zhouxuan Xiao**, Licheng Ma, Wan Jiang, Ran Wang, Yuyan Yao, Jie Cai, Jingyu Lin, Lu Li. “[*Grenville-age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite*](https://doi.org/10.1007/s12303-019-0033-8)”. Geosciences Journal, 2020, 24, 249–266.(SCI, IF=1.439)<br>
+
+[4] Lu Li, Ran Wang, Jingyu Lin, **Zhouxuan Xiao**, Yuanxiu Hui. “[*A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM*](https://doi.org/10.1016/j.sedgeo.2019.105523)”. Sedimentary Geology, 2019, 392, 105523.(SCI, IF=3.329)<br>
 
 [3] Lu Li, Ran Wang, Jingyu Lin, **Zhouxuan Xiao**, Yuanxiu Hui. “[*A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM*](https://doi.org/10.1016/j.sedgeo.2019.105523)”. Sedimentary Geology, 2019, 392, 105523.(SCI, IF=3.329)<br>
 
-[2] Ran Wang, Jingyu Lin, Bo Zhao, Lu Li, **Zhouxuan Xiao**, Jürgen Pilz. “[*Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China*](https://doi.org/10.1109/JSTARS.2018.2879493)”. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2018, vol. 11, no. 12, pp. 4791-4807.(SCI, IF=4.715)<br>
+[2] Ran Wang, **Zhouxuan Xiao**, Jingyu, Lu Li, Wenling Cui. “[*The Diverse Tectonic Background of Boudinage Structures*](https://doi.org/10.16539/j.ddgzyckx.2018.04.014)”. Geotectonica et Metallogenia , 2018, 45(5):777-785.(EI)<br>
 
-[1] **Zhouxuan Xiao**, Hui Li, Rukuan Chai. “[*Well productivity formula in low permeability reservoir with threshold pressure gradient*](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)”. Petrochemical Application, 2016, 35(9).(my first paper)<br>
+[1] **Zhouxuan Xiao**, Hui Li, Rukuan Chai. “[*Well productivity formula in low permeability reservoir with threshold pressure gradient*](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)”. Petrochemical Application, 2016, 35(9): 41-44.(my first paper)<br>
 
 - Papers on academic conferences:<br>
 
@@ -57,7 +62,7 @@ ________________________________________________________________________________
 
 [1] 王冉, 林靖愉, 李路, **肖宙轩**, 惠元秀, 辛永辉. “[*一种用于SfM三维建模的加载激光无级比例尺的永平指南针*](https://patents.google.com/patent/CN110672080A/zh)”. 中国发明专利, 2019.<br>
 
-*Last updated: Jan 4 2023*<br>
+*Last updated: Jan 11 2023*<br>
 
 ________________________________________________________________________________________________________
 
