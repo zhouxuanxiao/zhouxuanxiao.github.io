@@ -52,7 +52,7 @@ ________________________________________________________________________________
 
 [3] Jingyu Lin, Ran Wang, Lu Li, **Zhouxuan Xiao**. “[*A Workflow of SfM-Based Digital Outcrop Reconstruction Using Agisoft PhotoScan*](https://doi.org/10.1109/ICIVC47709.2019.8980982)”. *IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2019, pp. 711-715.(EI, Oral talk)<br>
 
-[2] Lu Li, Ran Wang, Jingyu Lin, <u>**Zhouxuan Xiao**<u>. Yuanxiu Hui, Wei Zeng, “[*Arbitrary Oriented Outcrop Section Measurement Using 3D Point Cloud*](https://doi.org/10.1109/ICIVC47709.2019.8981331)”. *IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2019, pp. 193-196.(EI, Oral talk)<br>
+[2] Lu Li, Ran Wang, Jingyu Lin, <u>**Zhouxuan Xiao**</u>. Yuanxiu Hui, Wei Zeng, “[*Arbitrary Oriented Outcrop Section Measurement Using 3D Point Cloud*](https://doi.org/10.1109/ICIVC47709.2019.8981331)”. *IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2019, pp. 193-196.(EI, Oral talk)<br>
 
 [1] Jingyu Lin, Ran Wang, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “[*Application of backpack Lidar to geological cross-section measurement*](https://doi.org/10.1117/12.2295060)”. Proceeding of SPIE 10605, *LIDAR Imaging Detection and Target Recognition 2017*, 106050J (15 November 2017).(EI, Oral talk)<br>
 
