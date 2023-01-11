@@ -1,5 +1,5 @@
 ________________________________________________________________________________________________________
-#### PLANETARY REMOTE SENSING & 3D POINT CLOUD ANALYSIS
+#### 3D INFORMATION ACQUISITION & PROCESSING (imagery, point clouds and so on)
 
 A Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University (now visit the [RSLab](https://rslab.disi.unitn.it/people/#ZhouxuanXiao), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum).<br> 
 
@@ -12,9 +12,9 @@ Note: More info can be found in my **[CV.pdf](XiaoZhouxuan_CV_2023v1.pdf)**.<br>
 - **[Zhouxuan's SCIprofiles](https://sciprofiles.com/profile/537795)**<br>
 
 ________________________________________________________________________________________________________
-### MY PUBLICATIONS (welcome to read, comment and cite!)
+### PUBLICATIONS (welcome to read, comment and cite!)
 
-- ####*Journal articles*:<br>
+- *Journal articles*:<br>
 
 [13] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*”. 2023, resubmitting.(SCI)<br>
 
@@ -42,7 +42,7 @@ ________________________________________________________________________________
 
 [1] **Zhouxuan Xiao**, Hui Li, Rukuan Chai. “[*Well productivity formula in low permeability reservoir with threshold pressure gradient*](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)”. Petrochemical Application, 2016, 35(9): 41-44.(my first paper)<br>
 
-- Papers on academic conferences:<br>
+- *Conference Papers*:<br>
 
 [6] **Zhouxuan Xiao**, Ran Wang, Jingyu Lin, Wuming Zhang. “[*Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China*](https://www.researchgate.net/publication/346322683_Outcrop-scale_Yardang_Geometric_Analysis_using_SfM-MVS_Point_Clouds_in_Hami_Area_NW_China)”. The Third Symposium on Space Earth Science, China, 2020. (Poster)<br>
 
