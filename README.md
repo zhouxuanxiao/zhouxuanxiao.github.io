@@ -14,7 +14,7 @@ Note: More info can be found in my **[CV.pdf](XiaoZhouxuan_CV_2023v1.pdf)**.<br>
 ________________________________________________________________________________________________________
 ### MY PUBLICATIONS (welcome to read, comment and cite!)
 
-- #*Journal articles*#:<br>
+- ####*Journal articles*:<br>
 
 [13] Chaohua Ma, Yuan Li, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*”. 2023, resubmitting.(SCI)<br>
 
