@@ -5,7 +5,7 @@ title                    : "Zhouxuan Xiao"
 title_separator          : "-"
 name                     : &name "Zhouxuan Xiaog"
 description              : &description "Ph.D. student at Sun Yat-sen University"
-url                      : https://shuhangz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhouxuanxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhouxuanxiao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -74,7 +74,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhoxuuan Xiao"
+  name             : "Zhoxuan Xiao"
   avatar           : "Skiing_Xiao.jpg"
   bio              : "School of Geospatial Engineering and Science, Sun Yat-sen University. "
   location         : "Trento, Italy"
@@ -249,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Rome # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
