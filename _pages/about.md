@@ -8,43 +8,72 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+________________________________________________________________________________________________________
+#### 3D INFORMATION ACQUISITION & PROCESSING (imagery, point clouds and so on)
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+A Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University (now visit the [RSLab](https://rslab.disi.unitn.it/people/#ZhouxuanXiao), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum).<br> 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+*Note*: More info can be found in **[ZhouxuanXiao_CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br> 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **[Zhouxuan's Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ&hl=zh-CN)**
+- **[Zhouxuan's ORCID](https://orcid.org/0000-0002-4088-4790)**<br>
+- **[Zhouxuan's ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)**
+- **[Zhouxuan's ResearchID](https://www.webofscience.com/wos/author/rid/X-6158-2019)**<br>
+- **[Zhouxuan's SCIprofiles](https://sciprofiles.com/profile/537795)**<br>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+________________________________________________________________________________________________________
+### PUBLICATIONS (welcome to read, comment and cite!)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- *Journal articles*:<br>
 
-**Markdown generator**
+[13] Chaohua Ma, Yuan Li#, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. “*Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism*”. 2023, resubmitting.(SCI)<br>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+[12] Yuan Li#, Linzhou Zeng, Chaohua Ma, Wuming Zhang#, **Zhouxuan Xiao**, Man Peng, Aiguang Li. “[*Extraction and Analysis of Three-dimensional Morphological Features of Centimeter-scale Rocks in Zhurong Landing Region*](https://jgr-planets-submit.agu.org/cgi-bin/main.plex?form_type=home)”. *JGR-Plantes*, 2022, under review.(SCI, IF=4.43)<br>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+[11] Yonghui Xin, Ran Wang#, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “[*High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry*](https://doi.org/10.3390/drones6120429)”. *Drones*, 2022, 6(12), 429.(SCI, IF=5.532)<br>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[10] Yichen Wang, Zhiyong Xiao#, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[*Dark spots on Mercury show no signs of weathering during 30 Earth months*](https://doi.org/10.1038/s43247-022-00634-z)". *Communications Earth & Environment*, 2022, 3, 299.(SCI, IF=7.29)<br>
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+[9] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li#, Jie Shao, Chaohua Ma, Wuming Zhang#, Man Peng. “[*High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery*](https://doi.org/10.1109/LGRS.2022.3154629)”. *IEEE Geoscience and Remote Sensing Letters*, 2022, Vol.19, 1-5.(SCI, IF=5.343)<br>
+
+[8] Ran Wang#, Jingyu Lin#, Lu Li, **Zhouxuan Xiao**, Yonghui Xin. “[*A revised orientation-based correction method for SfM-MVS point clouds of outcrops using ground control planes with marks*](https://doi.org/10.1016/j.jsg.2020.104266)”. *Journal of Structural Geology*, 2021, 143, 104266.(SCI, IF=3.366)<br>
+
+[7] Yuanxiu Hui, Rang Wang#, Lu Li, Jingyu Lin, **Zhouxuan Xiao**, Yonghui Xin. “[*The timing of barleik formation and its implication for the devonian tectonic evolution of western junggar, NW china*](https://doi.org/10.1515/geo-2020-0229)”. *Open Geosciences*, 2021, 13(1), 188-196.(SCI, IF=1.467)<br>
+
+[6] Licheng Ma, Wan Jiang#, **Zhouxuan Xiao**, Zongxing Li, Bo Peng, Junjie Hu, Min Dong. “[*Discussion on the depositional timing of the Zhabusagaxiu formation in the eastern Qaidam Basin*](https://doi.org/10.12090/j.issn.1006-6616.2020.26.06.077)”. *Journal of Geomechanics*, 2020, 26(6):961-972.(CSCD)<br>
+
+[5] **Zhouxuan Xiao**, Licheng Ma#, Wan Jiang, Ran Wang, Yuyan Yao, Jie Cai, Jingyu Lin, Lu Li. “[*Grenville-age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite*](https://doi.org/10.1007/s12303-019-0033-8)”. *Geosciences Journal*, 2020, 24, 249–266.(SCI, IF=1.439)<br>
+
+[4] Lu Li, Ran Wang#, Jingyu Lin, **Zhouxuan Xiao**, Yuanxiu Hui. “[*A Novel Approach for Extraction of Ripple Mark Parameters Based on SfM*](https://doi.org/10.1016/j.sedgeo.2019.105523)”. *Sedimentary Geology*, 2019, 392, 105523.(SCI, IF=3.329)<br>
+
+[3] Ran Wang, Jingyu Lin, Bo Zhao#, Lu Li, **Zhouxuan Xiao**, Jürgen Pilz. “[*Integrated Approach for Lithological Classification Using ASTER Imagery in a Shallowly Covered Region—The Eastern Yanshan Mountain of China*](https://doi.org/10.1109/JSTARS.2018.2879493)”. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 2018, vol. 11, no. 12, pp. 4791-4807. (SCI, IF=4.715)<br>
+
+[2] Ran Wang#, **Zhouxuan Xiao**, Jingyu, Lu Li, Wenling Cui. “[*The Diverse Tectonic Background of Boudinage Structures*](https://doi.org/10.16539/j.ddgzyckx.2018.04.014)”. *Geotectonica et Metallogenia*, 2018, 45(5):777-785.(EI)<br>
+
+[1] **Zhouxuan Xiao**, Hui Li#, Rukuan Chai. “[*Well productivity formula in low permeability reservoir with threshold pressure gradient*](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)”. *Petrochemical Application*, 2016, 35(9): 41-44.(my first paper)<br>
+
+- *Conference Papers*:<br>
+
+[6] **Zhouxuan Xiao**, Ran Wang, Jingyu Lin, Wuming Zhang#. “[*Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China*](https://www.researchgate.net/publication/346322683_Outcrop-scale_Yardang_Geometric_Analysis_using_SfM-MVS_Point_Clouds_in_Hami_Area_NW_China)”. *The Third Symposium on Space Earth Science*, China, 2020. (Poster)<br>
+
+[5] **Zhouxuan Xiao**, Ran Wang#, Yuanxiu Hui, Jingyu Lin, Lu Li. “[*Integrated Approach for Calculating the Mineral Assemblages and Oxide Percentage of Crystalline Rock based on Object-Based Image Analysis and Electron Probe Microscopic Analyzer*](https://doi.org/10.1109/ICIVC47709.2019.8981017)”. *IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2019, pp. 109-113.(EI, Oral talk)<br>
+
+[4] Yuanxiu Hui, **Zhouxuan Xiao**, Ran Wang#, Jingyu Lin, Lu Li. “[*Feature Extraction and Analysis of Zircon Cathodoluminescence Images Based on Multiscale Segmentation*](https://doi.org/10.1109/ICIVC47709.2019.8980954)”. *IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2019, pp. 114-117.(EI, Oral talk)<br>
+
+[3] Jingyu Lin, Ran Wang#, Lu Li, **Zhouxuan Xiao**. “[*A Workflow of SfM-Based Digital Outcrop Reconstruction Using Agisoft PhotoScan*](https://doi.org/10.1109/ICIVC47709.2019.8980982)”. *IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2019, pp. 711-715.(EI, Oral talk)<br>
+
+[2] Lu Li, Ran Wang#, Jingyu Lin, **Zhouxuan Xiao**. Yuanxiu Hui, Wei Zeng, “[*Arbitrary Oriented Outcrop Section Measurement Using 3D Point Cloud*](https://doi.org/10.1109/ICIVC47709.2019.8981331)”. *IEEE International Conference on Image, Vision and Computing (ICIVC)*, 2019, pp. 193-196.(EI, Oral talk)<br>
+
+[1] Jingyu Lin, Ran Wang#, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “[*Application of backpack Lidar to geological cross-section measurement*](https://doi.org/10.1117/12.2295060)”. Proceeding of SPIE 10605, *LIDAR Imaging Detection and Target Recognition 2017*, 106050J (15 November 2017).(EI, Oral talk)<br>
+
+- Patents:<br>
+
+[2] 林靖愉, 王冉, 惠元秀, 辛永辉, 李路, **肖宙轩**, 刘源. “[*基于NED坐标系向量旋转的SfM点云校正方法*](https://patents.google.com/patent/CN112712559B/zh)”.*中国发明专利: CN112712559B*.2020.<br>
+
+[1] 王冉, 林靖愉, 李路, **肖宙轩**, 惠元秀, 辛永辉. “[*一种用于SfM三维建模的加载激光无级比例尺的永平指南针*](https://patents.google.com/patent/CN110672080A/zh)”. *中国发明专利: CN110672080A*, 2019.<br>
+
+*Last updated: Jan 11 2023*<br>
+
+________________________________________________________________________________________________________
+
+<a href="https://info.flagcounter.com/0nAe"><img src="https://s01.flagcounter.com/map/0nAe/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_Vistors+are+from/flags_0/" alt="Flag Counter" border="0"></a>
