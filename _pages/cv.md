@@ -11,49 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. at Chang'an University, 2013-2017
+* M.S. at Chang'an University, 2017-2020
+* Ph.D at Sun Yat-sen University, 2020-2024 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2023: Visiting Scholar
+  * RSLab, University of Trento
+  * Supervisor: Prof. Dr. Lorenzo Bruzzone
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2021: Course Assistant
+  * Sun Yat-sen University
+  * Supervisor: Prof. Dr. Wuming Zhang, Assoc. Prof. Xu Huang & Dr. Yuan Li
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* RS & GIS software
+* Programming
+  * C/C++
+  * Python
+  * Matlab
+* others
 
-Publications
+Awards & Scholarships
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2023 - Scholarship, CSC      
+* 2022 - Scholarship, 2nd place Scholarship of Sun Yat-sen University   
+* 2021 - Scholarship, 2nd place Scholarship of Sun Yat-sen University    
+* 2020 - 1st Place, High-precision Map Contest in the National LiDAR Conference  
+* 2020 - 2nd Place, Point Cloud Classification Contest in the National LiDAR Conference 
+* 2020 - Scholarship, 3rd place Scholarship of Sun Yat-sen University  
+* 2020 - Outstanding Graduates Awards of Chang’an University 
+* 2019 - Scholarship, National Scholarship for Graduate Student   
+* 2016 - Merit Student Awards of Chang’an University     
+* 2015 - Scholarship, National Endeavor Scholarship for Undergraduate Student 
