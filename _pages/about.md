@@ -18,7 +18,7 @@ More info can be found in **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br>
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
