@@ -10,11 +10,21 @@ redirect_from:
 
 ________________________________________________________________________________________________________
 
-🧩**About Me**
+👨‍🎓**About Me**
 
 A Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University (now visit the [RSLab](https://rslab.disi.unitn.it/people/#ZhouxuanXiao), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342) and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum).<br> 
 
 More info can be found in **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br> 
+
+📚**Projects**
+
+2021-present: 3D rock extraction on Mars (State Key Laboratory of Remote Sensing, Participant) 
+2020-present: Site selection for the International Lunar Research Station (CNSA, Participant) 
+2019-2020: Digitalizing rocky valley using point cloud data (Shaanxi Provincial Natural Science Foundation Project, Co-investigator) 
+2019-2020: Multi-scale analysis and feature extraction of crystalline rocks (Postgraduate research innovation practice project, principal investigator)  
+2017-2019: Surrounding rock lining of tunnel crossing active fault (National Key R&D Program, Co-investigator)
+2016-2018: Investigation of oil and gas resources around the Qaidam Basin (China Geological Survey Project, Co-investigator)
+
 
 📄**Publications**
 
@@ -22,7 +32,7 @@ More info can be found in **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br>
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-🎯**Awards**
+🏆**Awards**
 
 * 2023 - Scholarship, CSC      
 * 2022 - Scholarship, 2nd place Scholarship of Sun Yat-sen University   
