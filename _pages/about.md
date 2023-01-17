@@ -15,4 +15,18 @@ A Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University
 
 *Note*: More info can be found in **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br> 
 
+Awards & Scholarships
+======
+* 2023 - Scholarship, CSC      
+* 2022 - Scholarship, 2nd place Scholarship of Sun Yat-sen University   
+* 2021 - Scholarship, 2nd place Scholarship of Sun Yat-sen University    
+* 2020 - 1st Place, High-precision Map Contest in the National LiDAR Conference  
+* 2020 - 2nd Place, Point Cloud Classification Contest in the National LiDAR Conference 
+* 2020 - Scholarship, 3rd place Scholarship of Sun Yat-sen University  
+* 2020 - Outstanding Graduates Awards of Chang’an University 
+* 2019 - Scholarship, National Scholarship for Graduate Student   
+* 2016 - Merit Student Awards of Chang’an University     
+* 2015 - Scholarship, National Endeavor Scholarship for Undergraduate Student 
+
+
 <a href="https://info.flagcounter.com/0nAe"><img src="https://s01.flagcounter.com/map/0nAe/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_Vistors+are+from/flags_0/" alt="Flag Counter" border="0"></a>
