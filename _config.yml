@@ -13,7 +13,7 @@ name                     : &name "Zhouxuan Xiao"
 description              : &description "Ph.D. Student"
 url                      : https://zhouxuanxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhouxuanxiao/zhouxuanxiao.github.io"
+repository               : "zhouxuanxiao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,10 +84,10 @@ author:
   avatar           : "xiao.png"
   bio              : 
   location         : "Trento, Italy"
-  employer         :
+  employer         : "SYSU & RSLab"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EYDXafgAAAAJ"
-  email            :
+  email            : "xiaozhx7@mail2.sysu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Zhouxuan-Xiao"
   uri              :
   bitbucket        :
