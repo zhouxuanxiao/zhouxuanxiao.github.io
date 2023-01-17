@@ -27,12 +27,9 @@ Experience
   
 Skills
 ======
-* RS & GIS software
-* Programming
-  * C/C++
-  * Python
-  * Matlab
-* others
+* **Languages**: Chinese, English (IELTS 6.5) & little Italian
+* **Programming**: C/C++, Python, MATLAB
+* **Software**: ArcGIS, QGIS, ENVI, CloudCompare, Agisoft Metashpe, Microsoft Office and so on
 
 Awards & Scholarships
 ======
@@ -46,3 +43,21 @@ Awards & Scholarships
 * 2019 - Scholarship, National Scholarship for Graduate Student   
 * 2016 - Merit Student Awards of Chang’an University     
 * 2015 - Scholarship, National Endeavor Scholarship for Undergraduate Student 
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %} 
+    {% include archive-single-cv.html %} 
+  {% endfor %}</ul>
