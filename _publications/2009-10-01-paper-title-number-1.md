@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Well productivity formula in low permeability reservoir with threshold pressure gradient"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2016_Well productivity formula in low permeability reservoir with threshold pressure gradient
+excerpt: '-'
+date: 2016-09-25
+venue: 'Petrochemical Application'
+paperurl: 'https://doi.org/10.3969/j.issn.1673-5285.2016.09.009'
+citation: 'Zhouxuan Xiao, Hui Li, Rukuan Chai. (2016). &quot;Well productivity formula in low permeability reservoir with threshold pressure gradient.&quot; <i>Petrochemical Application</i>. 35(9).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+test.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Zhouxuan Xiao, Hui Li, Rukuan Chai. (2016). &quot;Well productivity formula in low permeability reservoir with threshold pressure gradient.&quot; <i>Petrochemical Application</i>. 35(9).
