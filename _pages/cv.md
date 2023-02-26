@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "ZhouxuanXiao_CV_2023v1"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
