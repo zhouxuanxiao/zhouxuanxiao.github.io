@@ -11,4 +11,4 @@ author_profile: true
 Who visit this website？
 ======
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5dboxm103w3&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=times_new_roman&amp;l=0" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5dboxm103w3&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=times_new_roman&amp;sx=0" async="async"></script>
