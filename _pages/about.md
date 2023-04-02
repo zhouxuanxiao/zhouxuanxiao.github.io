@@ -28,14 +28,14 @@ More info can be found on my **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br>
 * 2017-2019: Surrounding rock lining of tunnel crossing active fault (National Key R&D Program, Co-investigator)
 * 2016-2018: Investigation of oil and gas resources around the Qaidam Basin (China Geological Survey Project, Co-investigator)
 
-🌙**Memberships**
-* 2018.05-2020.05: student member, The Geographical Society of China: Beijing, CN
-* 2021.01-present: student member, International Association of Chinese Professionals in Geographic Information Sciences: Ann Arbor, MI, US
-* 2021.01-present: student member, American Geophysical Union: Washington, DC, US
-* 2021.01-present: student member, IEEE: New York, NY, US
-* 2021.01-present: student member, IEEE Geoscience and Remote Sensing Society: New York, NY, US
-* 2023.04-present: student member, China Computer Federation: Beijing, CN
+🌙**Memberships*
 * 2023.04-present: student member, IEEE Computer Society: Washington D.C., District of Columbia, US
+* 2023.04-present: student member, China Computer Federation: Beijing, CN
+* 2021.01-present: student member, IEEE Geoscience and Remote Sensing Society: New York, NY, US
+* 2021.01-present: student member, IEEE: New York, NY, US
+* 2021.01-present: student member, American Geophysical Union: Washington, DC, US
+* 2021.01-present: student member, International Association of Chinese Professionals in Geographic Information Sciences: Ann Arbor, MI, US
+* 2018.05-2020.05: student member, The Geographical Society of China: Beijing, CN
 
 🏆**Awards**
 
@@ -49,6 +49,16 @@ More info can be found on my **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br>
 * 2019 - Scholarship, National Scholarship for Graduate Student   
 * 2016 - Merit Student Awards of Chang’an University     
 * 2015 - Scholarship, National Endeavor Scholarship for Undergraduate Student 
+
+🔎**Reviews**
+* IEEE TGRS
+* IEEE GRSL
+* IEEE J-STARS
+* ISPRS Journal
+* Forests
+* Remote Sensing
+* Earth Science Informatics
+* ...
 
 📄**Publications**
 
