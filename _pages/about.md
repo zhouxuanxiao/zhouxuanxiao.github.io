@@ -10,7 +10,7 @@ redirect_from:
 
 ________________________________________________________________________________________________________
 
-👨‍🎓**About Me**
+👨‍🎓**About Me**<br>
 A Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University (now visiting the [RSLab](https://rslab.disi.unitn.it), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342), and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum).<br> 
 My research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping. More info can be found on my **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br> 
 
