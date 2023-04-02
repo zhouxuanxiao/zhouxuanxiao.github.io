@@ -28,7 +28,7 @@ More info can be found on my **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br>
 * 2017-2019: Surrounding rock lining of tunnel crossing active fault (National Key R&D Program, Co-investigator)
 * 2016-2018: Investigation of oil and gas resources around the Qaidam Basin (China Geological Survey Project, Co-investigator)
 
-🌙*Memberships*
+🌙**Memberships**
 * 2023.04-present: student member, IEEE Computer Society: Washington D.C., District of Columbia, US
 * 2023.04-present: student member, China Computer Federation: Beijing, CN
 * 2021.01-present: student member, IEEE Geoscience and Remote Sensing Society: New York, NY, US
