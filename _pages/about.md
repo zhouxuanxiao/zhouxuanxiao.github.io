@@ -20,15 +20,16 @@ More info can be found on my **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br>
 
 📚**Projects**
 
-* 2021-present: 3D rock extraction on Mars (State Key Laboratory of Remote Sensing, Participant) 
+* 2022-present: Geomorphology measurement of candidate sites for the FAST-A (Guangdong province, Co-investigator) 
+* 2021-present: 3D rock extraction on Mars (State Key Laboratory of Remote Sensing, Co-investigator) 
 * 2020-present: Site selection for the International Lunar Research Station (CNSA, Participant) 
 * 2019-2020: Digitalizing rocky valley using point cloud data (Shaanxi Provincial Natural Science Foundation Project, Co-investigator) 
-* 2019-2020: Multi-scale analysis and feature extraction of crystalline rocks (Postgraduate research innovation practice project, principal investigator)  
+* 2019-2020: Multi-scale analysis and feature extraction of crystalline rocks (Postgraduate research innovation practice project, Principal investigator)  
 * 2017-2019: Surrounding rock lining of tunnel crossing active fault (National Key R&D Program, Co-investigator)
 * 2016-2018: Investigation of oil and gas resources around the Qaidam Basin (China Geological Survey Project, Co-investigator)
 
 🌙**Memberships**
-* 2028.05-2020.05: student member, The Geographical Society of China: Beijing, CN
+* 2018.05-2020.05: student member, The Geographical Society of China: Beijing, CN
 * 2021.01-present: student member, International Association of Chinese Professionals in Geographic Information Sciences: Ann Arbor, MI, US
 * 2021.01-present: student member, American Geophysical Union: Washington, DC, US
 * 2021.01-present: student member, IEEE: New York, NY, US
@@ -38,7 +39,7 @@ More info can be found on my **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br>
 
 🏆**Awards**
 
-* 2022 - Scholarship, CSC      
+* 2022 - Scholarship, China Scholarship Council (CSC)      
 * 2022 - Scholarship, 2nd place Scholarship of Sun Yat-sen University   
 * 2021 - Scholarship, 2nd place Scholarship of Sun Yat-sen University    
 * 2020 - 1st Place, High-precision Map Contest in the National LiDAR Conference  
