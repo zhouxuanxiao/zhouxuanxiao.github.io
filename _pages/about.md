@@ -32,7 +32,7 @@ I am a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen Unive
 * 2021.01-present: student member, IEEE Geoscience and Remote Sensing Society (IEEE GRSS)
 * 2021.01-present: student member, IEEE
 * 2021.01-present: student member, American Geophysical Union (AGU)
-* 2021.01-present: student member, International Association of Chinese Professionals in Geographic Information Sciences (CPGIS)
+* 2021.01-2022.12: student member, International Association of Chinese Professionals in Geographic Information Sciences (CPGIS)
 * 2018.05-2020.05: student member, The Geographical Society of China (GSA)
 
 📚**Projects**
