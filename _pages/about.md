@@ -17,8 +17,7 @@ My research interests include 3D point cloud analysis, image processing (segment
 
 🏆**Awards**
 * 2022 - Scholarship, China Scholarship Council (CSC)      
-* 2022 - Scholarship, 2nd place Scholarship of Sun Yat-sen University   
-* 2021 - Scholarship, 2nd place Scholarship of Sun Yat-sen University    
+* 2021/2022 - Scholarship, 2nd place Scholarship of Sun Yat-sen University   
 * 2020 - 1st Place, High-precision Map Contest in the National LiDAR Conference  
 * 2020 - 2nd Place, Point Cloud Classification Contest in the National LiDAR Conference 
 * 2020 - Scholarship, 3rd place Scholarship of Sun Yat-sen University  
@@ -28,6 +27,7 @@ My research interests include 3D point cloud analysis, image processing (segment
 * 2015 - Scholarship, National Endeavor Scholarship for Undergraduate Student 
 
 🌙**Memberships**
+* 2023.04-present: student member, International Society for Photogrammetry and Remote Sensing Student Consortium (ISPRS SC)
 * 2023.04-present: student member, Association for Computing Machinery (ACM)
 * 2023.04-present: student member, IEEE Computer Society (IEEE CS)
 * 2023.04-present: student member, China Computer Federation (CCF)
