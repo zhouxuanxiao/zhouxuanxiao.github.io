@@ -17,7 +17,7 @@ I am a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen Unive
 🏆**Awards**
 * 2022/2023 - Scholarship, China Scholarship Council (CSC)  
 * 2021/2022 - Volleyball Team Champion & Basketball Team Runner-up, Zhuhai Campus, Sun Yat-sen University
-* 2020/2021/2022 - Scholarship, 2nd place Scholarship of Sun Yat-sen University   
+* 2020/2021/2022 - Scholarship, 2nd Place Scholarship of Sun Yat-sen University   
 * 2020 - 1st Place of High-precision Map Contest & 2nd Place of Point Cloud Classification Contest, National LiDAR Conference  
 * 2020 - Outstanding Graduates Awards of Chang’an University 
 * 2019 - Scholarship, National Scholarship for Graduate Student   
@@ -28,6 +28,7 @@ I am a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen Unive
 * 2023.04-present: student member, Association for Computing Machinery (ACM)
 * 2023.04-present: student member, IEEE Computer Society (IEEE CS)
 * 2023.04-present: student member, China Computer Federation (CCF)
+* 2022.05-present: student member, China Society of Image and Graphics (CSIG)
 * 2022.01-present: member, International Society for Photogrammetry and Remote Sensing Student Consortium (ISPRS SC)
 * 2021.01-present: student member, IEEE Geoscience and Remote Sensing Society (IEEE GRSS)
 * 2021.01-present: student member, IEEE
