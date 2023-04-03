@@ -16,7 +16,7 @@ A Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University
 My research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping. More info can be found on my **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br> 
 
 🏆**Awards**
-* 2022 - Scholarship, China Scholarship Council (CSC)      
+* 2022/2023 - Scholarship, China Scholarship Council (CSC)      
 * 2021/2022 - Scholarship, 2nd place Scholarship of Sun Yat-sen University   
 * 2020 - 1st Place, High-precision Map Contest in the National LiDAR Conference  
 * 2020 - 2nd Place, Point Cloud Classification Contest in the National LiDAR Conference 
