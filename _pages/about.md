@@ -25,10 +25,10 @@ I am a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen Unive
 * 2015 - Scholarship, National Endeavor Scholarship for Undergraduate Student 
 
 🌙**Memberships**
-* 2023.04-present: student member, International Society for Photogrammetry and Remote Sensing Student Consortium (ISPRS SC)
 * 2023.04-present: student member, Association for Computing Machinery (ACM)
 * 2023.04-present: student member, IEEE Computer Society (IEEE CS)
 * 2023.04-present: student member, China Computer Federation (CCF)
+* 2022.01-present: member, International Society for Photogrammetry and Remote Sensing Student Consortium (ISPRS SC)
 * 2021.01-present: student member, IEEE Geoscience and Remote Sensing Society (IEEE GRSS)
 * 2021.01-present: student member, IEEE
 * 2021.01-present: student member, American Geophysical Union (AGU)
