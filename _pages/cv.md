@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E. at Chang'an University, 2013-2017
-* M.S. at Chang'an University, 2017-2020
 * Ph.D at Sun Yat-sen University, 2020-2024 (expected)
+* M.S. at Chang'an University, 2017-2020
+* B.E. at Chang'an University, 2013-2017
 
 Experience
 ======
