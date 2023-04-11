@@ -14,16 +14,6 @@ ________________________________________________________________________________
 
 I am a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University (now visiting the [RSLab](https://rslab.disi.unitn.it), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342), and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum). My research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping. More info can be found on my **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br> 
 
-🏆**Awards**
-* 2022/2023 - Scholarship, China Scholarship Council (CSC)  
-* 2021/2022 - Volleyball Team Champion & Basketball Team Runner-up, Zhuhai Campus, Sun Yat-sen University
-* 2020/2021/2022 - Scholarship, 2nd Place Scholarship of Sun Yat-sen University   
-* 2020 - 1st Place of High-precision Map Contest & 2nd Place of Point Cloud Classification Contest, National LiDAR Conference  
-* 2020 - Outstanding Graduates Awards of Chang’an University 
-* 2019 - Scholarship, National Scholarship for Graduate Student   
-* 2016 - Merit Student Awards of Chang’an University     
-* 2015 - Scholarship, National Endeavor Scholarship for Undergraduate Student 
-
 🌙**Memberships**
 * 2023.04-present: student member, Association for Computing Machinery (ACM)
 * 2023.04-present: student member, IEEE Computer Society (IEEE CS)
