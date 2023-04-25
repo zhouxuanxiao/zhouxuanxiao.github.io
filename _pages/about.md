@@ -21,10 +21,9 @@ I am a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen Unive
 * 2022.05-present: student member, China Society of Image and Graphics (CSIG)
 * 2022.01-present: member, International Society for Photogrammetry and Remote Sensing Student Consortium (ISPRS SC)
 * 2021.01-present: student member, IEEE Geoscience and Remote Sensing Society (IEEE GRSS)
-* 2021.01-present: student member, IEEE
 * 2021.01-present: student member, American Geophysical Union (AGU)
-* 2020.10-2022.12: student member, International Association of Chinese Professionals in Geographic Information Sciences (CPGIS)
-* 2018.05-2020.05: student member, The Geographical Society of China (GSA)
+* 2020.10-present: student member, International Association of Chinese Professionals in Geographic Information Sciences (CPGIS)
+* 2018.05-present: student member, The Geographical Society of China (GSA)
 
 📚**Projects**
 * 2022-present: Geomorphology measurement of candidate sites for the FAST-A (Guangdong province, Co-investigator) 
@@ -36,13 +35,9 @@ I am a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen Unive
 * 2016-2018: Investigation of oil and gas resources around the Qaidam Basin (China Geological Survey Project, Co-investigator)
 
 🔎**Reviews**
-* IEEE TGRS
-* IEEE GRSL
-* IEEE J-STARS
-* ISPRS Journal
-* Forests
-* Remote Sensing
-* Earth Science Informatics
+* IEEE TGRS/GRSL/J-STARS
+* ISPRS Journal P&RS
+* Forests/Remote Sensing
 * ...
 
 📄**Publications**
