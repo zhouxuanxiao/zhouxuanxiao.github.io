@@ -14,6 +14,12 @@ ________________________________________________________________________________
 
 I am a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University (now visiting the [RSLab](https://rslab.disi.unitn.it), University of Trento, Italy), co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377), Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342), and Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/en/Persona/PER0004714/Curriculum). My research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping. More info can be found on my **[CV](ZhouxuanXiao_CV_2023v1.pdf)**.<br> 
 
+📄**Publications**
+
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 📚**Projects**
 * 2022-present: Geomorphology measurement of candidate sites for the FAST-A (Guangdong province, Co-investigator) 
 * 2021-present: 3D rock extraction on Mars (State Key Laboratory of Remote Sensing, Co-investigator) 
@@ -28,9 +34,3 @@ I am a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen Unive
 * ISPRS Journal P&RS
 * Forests/Remote Sensing
 * ...
-
-📄**Publications**
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
