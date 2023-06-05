@@ -11,7 +11,7 @@ author_profile: true
 Research Datasets
 ======
 
-* [MarsRock3D: DEM, rock point clouds, and 3D morphological features of Martian rocks in the landing region of Zhurong rover](https://doi.org/10.5281/zenodo.7707898)
+* [MarsRock3D: DEM, rock point clouds, and 3D morphological features of Martian rocks in the landing region of Zhurong rover](https://doi.org/10.5281/zenodo.7620416)
 
 Rocks on the Martian surface and their three-dimensional (3D) morphology record the geological evolution of Mars and its interaction history with outer space. China's Zhurong Mars rover has traveled on Mars for nearly 2 kilometers and obtained a wealth of data, enabling the fine-scale measurement and morphological analysis of 3D Martian rocks. With 178 high-resolution Zhurong NaTeCams stereo images acquired in rings covering large circular areas, we extracted 6,185 3D rocks from centimeter-scale to meter-scale distributed along the traverse of the Zhurong rover using an automatic approach. This dataset includes the digital elevation model (DEM), extracted rocks in point clouds, and the 3D morphological features of rocks derived from the Zhurong NaTeCams images, obtained in six areas along the traverse of the Zhurong rover.
 
