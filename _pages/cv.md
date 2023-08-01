@@ -28,6 +28,7 @@ redirect_from:
 
 🌙Memberships
 ======
+* 2023.08-present: student member, International Society for Optics and Photonics (SPIE)
 * 2023.04-present: student member, Association for Computing Machinery (ACM)
 * 2023.04-present: student member, IEEE Computer Society (IEEE CS)
 * 2023.04-present: student member, China Computer Federation (CCF)
