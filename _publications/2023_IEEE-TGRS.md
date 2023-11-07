@@ -1,5 +1,5 @@
 ---
-title: "High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery"
+title: "Automated Rock Detection from Mars Rover Image Via Y-Shape Dual-Task Network with Depth-Aware Spatial Attention Mechanism"
 collection: publications
 permalink: /publication/2023_IEEE-TGRS
 excerpt: 'https://doi.org/10.1109/TGRS.2023.xxxxxxx'
