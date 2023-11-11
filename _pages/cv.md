@@ -11,29 +11,25 @@ redirect_from:
 
 📖Education
 ======
-* Sun Yat-sen University<br>
-PH.D. CANDIDATE IN CARTOGRAPHY AND GIS（Sep. 2020 - Present）<br>
-•Supervisor: Prof. Dr. Wuming Zhang and Prof. Dr. Zhiyong Xiao<br>
-•Research Topic: Automatic Detection and Classification of Lunar Surface Changes<br>
-•Skills: ISIS3, ASP, ArcGIS, ENVI, Blender, python, C++<br>
+* Sun Yat-sen University, Ph.D. in Cartography & Geographic Information System（Sep. 2020 - Present）<br>
+Supervisor: Prof. Dr. Wuming Zhang and Prof. Dr. Zhiyong Xiao<br>
+Research Topic: Automatic Detection and Classification of Lunar Surface Changes<br>
+Skills: ISIS3, ASP, ArcGIS, ENVI, Blender, python, C++<br>
 
-* University of Trento<br>
-VISITING SCHOLAR IN INFORMATION ENGINEERING AND COMPUTER SCIENCE（Oct. 2022 – Oct. 2023）<br>
+* University of Trento, Visiting in Infomarion Engineering & Computer Science（Oct. 2022 – Oct. 2023）<br>
 Supervisor: Prof. Dr. Lorenzo Bruzzone<br>
-•Research Topic: Remote Sensing Images Change Detection<br>
-•Skills: Linux, python, Matlab, deep learning<br>
+Research Topic: Remote Sensing Images Change Detection<br>
+Skills: Linux, python, Matlab, deep learning<br>
 
-* Chang’an University<br>
-M.S. IN GEOLOGY（Sep. 2017 – Jul. 2020）<br>
-•Supervisor: Assoc. Prof. Dr. Ran Wang<br>
-•Research Topic: Multi-scale Segmentation and Classification of Remote Sensing Imagery<br>
-•Skills: eCognition developer, QGIS, Matlab, C<br>
+* Chang’an University, M.S in Geology（Sep. 2017 – Jul. 2020）<br>
+Supervisor: Assoc. Prof. Dr. Ran Wang<br>
+Research Topic: Multi-scale Segmentation and Classification of Remote Sensing Imagery<br>
+Skills: eCognition developer, QGIS, Matlab, C<br>
 
-* Chang’an University<br>
-B.S. IN RESOURCE EXPLORATION ENGINEERING （Sep. 2013 – Jul. 2017）<br>
-•Supervisor: Assoc. Prof. Dr. Ran Wang<br>
-•Research Topic: Fault Zone Investigation and Analysis<br>
-•Skills: MS Office, CorelDraw, C<br>
+* Chang’an University, B.E. in Resource Exploration Engineering （Sep. 2013 – Jul. 2017）<br>
+Supervisor: Assoc. Prof. Dr. Ran Wang<br>
+Research Topic: Fault Zone Investigation and Analysis<br>
+Skills: MS Office, CorelDraw, C<br>
 
 
 🏆Awards & Scholarships
