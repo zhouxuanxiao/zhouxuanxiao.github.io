@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Peer-reviewed publications"
+title: "Peer-reviewed Publications (2016-2023)"
 permalink: /publications/
 author_profile: true
 ---
