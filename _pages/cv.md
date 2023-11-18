@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-📖Education
-======
+📖**Education**
 * Sun Yat-sen University, Ph.D. in Cartography & Geographic Information System（Sep. 2020 - Present）<br>
 Supervisor: Prof. Dr. Wuming Zhang and Prof. Dr. Zhiyong Xiao<br>
 Research Topic: Automatic Detection and Classification of Lunar Surface Changes<br>
@@ -31,8 +30,7 @@ Supervisor: Assoc. Prof. Dr. Ran Wang<br>
 Research Topic: Fault Zone Investigation and Analysis<br>
 Skills: MS Office, CorelDraw, C<br>
 
-🏆Awards & Scholarships
-======
+🏆**Awards & Scholarships**
 * 2023 - Scholarship, 3rd place Scholarship of Sun Yat-sen University
 * 2022 - Scholarship, CSC
 * 2022 - Scholarship, 2nd place Scholarship of Sun Yat-sen University
@@ -57,13 +55,11 @@ Skills: MS Office, CorelDraw, C<br>
 * 2016-2018: Investigation of oil and gas resources around the Qaidam Basin (China Geological Survey Project, Co-investigator)
 
 📕**Publications**
-======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 💬**Talks**
-======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
