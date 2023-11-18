@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 👨‍🎓**About Me**
 
-Zhouxuan is a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) and Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342). His research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping. More info can be found on my **[CV](ZhouxuanXiao_CV_2023v3.pdf)**.<br> 
+<p style="text-align:justify; text-justify:inter-ideograph;">Zhouxuan is a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University, co-supervised by Prof. [Wuming Zhang](https://sges.sysu.edu.cn/teacher/377) and Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342). His research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping. More info can be found on my **[CV](ZhouxuanXiao_CV_2023v3.pdf)**.</p><br> 
 
 📄**Publications**
 
