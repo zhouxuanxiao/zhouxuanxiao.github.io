@@ -30,9 +30,9 @@ More info can be found on Zhouxuan's **[CV](ZhouxuanXiao_CV_2023v3.pdf)**.<br>
 * 2019.12: One co-authored paper was pubulished in [*Sedimentary Geology*](https://doi.org/10.1016/j.sedgeo.2019.105523)!
 * 2019.07: Four co-authored papers were pubulished in [*IEEE ICIVC 2019*](https://ieeexplore.ieee.org/xpl/conhome/8966539/proceeding)!
 * 2019.03: One paper pubulished was pubulished in [*Acta Geologica Sinica - English Edition*](https://doi.org/10.1111/1755-6724.13786)!
-* 2018.12: One co-authored paper was pubulished in [*IEEE J-STARS*](https://doi.org/10.1117/12.2295060)!
+* 2018.12: One co-authored paper was pubulished in [*IEEE J-STARS*](https://doi.org/10.1109/JSTARS.2018.2879493)!
 * 2018.04: One co-authored paper was pubulished in [*Geotectonica et Metallogenia*](https://doi.org/10.16539/j.ddgzyckx.2018.04.014)!
-* 2017.11: One co-authored paper was pubulished in [*SPIE*](https://doi.org/10.1109/JSTARS.2018.2879493)!
+* 2017.11: One co-authored paper was pubulished in [*SPIE*](https://doi.org/10.1117/12.2295060)!
 * 2016.09: My first scientific paper was published in [*Petrochemical Application*](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)!
 
 🤓**Skills & Hobbies**
