@@ -16,13 +16,13 @@ ________________________________________________________________________________
 
 More info can be found on Zhouxuan's **[CV](ZhouxuanXiao_CV_2023v3.pdf)**.<br> 
 
-🌙**News**
-* 2023.11: One co-authored paper was submitted to *Remote Sensing* (under 1st-round review)
-* 2023.11: One co-authored paper was submitted to *IEEE Transactions on Geoscience and Remote Sensing* (under 3rd-round review)
+🌙**Recent News**
+* 2023.11: One co-authored paper was submitted to *Remote Sensing* (under review)
+* 2023.11: One co-authored paper was submitted to *IEEE Transactions on Geoscience & RS* (under review)
 * 2023.07: One co-authored paper was pubulished in [*Journal of Geophysical Research: Planets*](https://doi.org/10.1029/2022JE007656)!
 * 2022.12: One co-authored paper was pubulished in [*Drones*](https://doi.org/10.3390/drones6120429)!
-* 2022.11: One co-authored paper was pubulished in Nature [*Communications Earth & Environment*](https://doi.org/10.1038/s43247-022-00634-z)!
-* 2022.11: One paper pubulished was pubulished in [*IEEE Geoscience and Remote Sensing Letters*](https://doi.org/10.1109/LGRS.2022.3154629)!
+* 2022.11: One co-authored paper was pubulished in [*Communications Earth & Environment*](https://doi.org/10.1038/s43247-022-00634-z)!
+* 2022.11: One paper pubulished was pubulished in [*IEEE Geoscience & RS Letters*](https://doi.org/10.1109/LGRS.2022.3154629)!
 * 2021.07: One co-authored paper was pubulished in ["Open Geosciences"](https://doi.org/10.1515/geo-2020-0229)!
 * 2020.12: One co-authored paper was pubulished in [*Journal of Structural Geology*](https://doi.org/10.1016/j.jsg.2020.104266)!
 * 2020.12: One co-authoredpaper was pubulished in [*Journal of Geomechanics*](https://doi.org/10.12090/j.issn.1006-6616.2020.26.06.077)!
@@ -41,7 +41,7 @@ More info can be found on Zhouxuan's **[CV](ZhouxuanXiao_CV_2023v3.pdf)**.<br>
 * Software: ArcGIS, QGIS, ENVI, CloudCompare, Agisoft Metashpe, Microsoft Office and so on
 * Sports: Basketball, Badminton, Riding, Running, Volleyball, Table Tennis, Tennis/Football (little)
 
-🔎**Review**
+🔎**Reviews**
 * IEEE TGRS/GRSL/J-STARS & ISPRS P&RS
 * Remote Sensing/Drones
 * ...
