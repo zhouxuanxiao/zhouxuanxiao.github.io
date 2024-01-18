@@ -17,8 +17,8 @@ ________________________________________________________________________________
 More info can be found on Zhouxuan's **[CV](ZhouxuanXiao_CV_2023v3.pdf)**.<br> 
 
 🌙**Recent News**
-* 2023.11: One co-authored paper is under review in *Remote Sensing*
-* 2023.11: One co-authored paper is under review in *IEEE Transactions on Geoscience & RS*
+* 2024.01: One co-authored paper is waiting for acceptance in *IEEE Transactions on Geoscience & RS*
+* 2024.01: One co-authored paper is accepted by [*Remote Sensing*](https://www.mdpi.com/journal/remotesensing)
 * 2023.07: One co-authored paper was pubulished in [*Journal of Geophysical Research: Planets*](https://doi.org/10.1029/2022JE007656)!
 * 2022.12: One co-authored paper was pubulished in [*Drones*](https://doi.org/10.3390/drones6120429)!
 * 2022.11: One co-authored paper was pubulished in [*Communications Earth & Environment*](https://doi.org/10.1038/s43247-022-00634-z)!
