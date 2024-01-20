@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-Research Datasets (2022-2023)
+Research Datasets
 ======
 
 [*MarsRock3D*: DEM, rock point clouds, and 3D morphological features of Martian rocks in the landing region of Zhurong rover](https://doi.org/10.5281/zenodo.7620416)<br>
