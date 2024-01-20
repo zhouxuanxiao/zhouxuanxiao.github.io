@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Curriculum Vitae
+======
+
 📖**Education**
 * Sun Yat-sen University, Ph.D. in Cartography & Geographic Information System（Sep. 2020 - Present）<br>
 Supervisor: Prof. Dr. Wuming Zhang and Prof. Dr. Zhiyong Xiao<br>
