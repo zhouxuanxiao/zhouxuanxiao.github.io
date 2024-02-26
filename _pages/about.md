@@ -17,8 +17,9 @@ ________________________________________________________________________________
 More info can be found on Zhouxuan's **[CV](ZhouxuanXiao_CV_2024v1.pdf)**.<br> 
 
 🌙**Recent News**
-* 2024.01: One co-authored paper is under final-decision in *IEEE TGRS*
-* 2024.01: One co-authored paper was published in [*Remote Sensing*](https://www.mdpi.com/2072-4292/16/2/411)
+
+* 2024.01: One co-authored paper is accepted by [*IEEE TGRS*](https://mc.manuscriptcentral.com/tgrs)!
+* 2024.01: One co-authored paper was published in [*Remote Sensing*](https://doi.org/10.3390/rs16020411)!
 * 2023.07: One co-authored paper was pubulished in [*Journal of Geophysical Research: Planets*](https://doi.org/10.1029/2022JE007656)!
 * 2022.12: One co-authored paper was pubulished in [*Drones*](https://doi.org/10.3390/drones6120429)!
 * 2022.11: One co-authored paper was pubulished in [*Communications Earth & Environment*](https://doi.org/10.1038/s43247-022-00634-z)!
@@ -36,12 +37,14 @@ More info can be found on Zhouxuan's **[CV](ZhouxuanXiao_CV_2024v1.pdf)**.<br>
 * 2016.09: My first scientific paper was published in [*Petrochemical Application*](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)!
 
 🤓**Skills & Hobbies**
+
 * Languages: Chinese(Native), English(IELTS 6.5)& little Italian
 * Programming: Python, C/C++, MATLAB
 * Software: ArcGIS, QGIS, ENVI, CloudCompare, Agisoft Metashpe, Microsoft Office and so on
 * Sports: Basketball, Badminton, Riding, Running, Volleyball, Table Tennis, Tennis/Football (little)
 
 🔎**Reviews**
+
 * IEEE TGRS
 * Drones
 * Remote Sensing
