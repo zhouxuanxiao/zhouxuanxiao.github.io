@@ -3,7 +3,7 @@ title: "Automated Rock Detection from Mars Rover Image Via Y-Shape Dual-Task Net
 collection: publications
 permalink: /publication/2024_IEEE-TGRS
 excerpt: 'https://doi.org/10.1109/TGRS.2024.3371684'
-date: 2024-02-28
+date: 2024-02-29
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'https://doi.org/10.1109/TGRS.2024.3371684'
 citation: 'Chaohua Ma, Yuan Li, Junying Lv, <u>Zhouxuan Xiao</u>, Wuming Zhang, Linshan Mo. (2024). &quot;Automated Rock Detection from Mars Rover Image Via Y-Shape Dual-Task Network with Depth-Aware Spatial Attention Mechanism.&quot; <i>IEEE Transactions on Geoscience and Remote Sensing</i>.Vol.62, 1-18.'
