@@ -14,16 +14,20 @@ ________________________________________________________________________________
 
 <p style="text-align:justify; text-justify:inter-ideograph;">Zhouxuan is a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University, co-supervised by Prof. Wuming Zhang and Prof. Zhiyong Xiao. His research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping.</p>
 
-More info can be found on Zhouxuan's **[CV](ZhouxuanXiao_CV_2024v1.pdf)**.<br> 
+More info can be found on Zhouxuan's **[CV](ZhouxuanXiao_CV_2024v1.pdf)**.
+
+Note: 
+I am looking for a potential chance for a PostDoc in the field of Planetary Remote Sensing/Geology starting in early 2025, if there are any vacancies, welcome to contact me or send me the link. Kind thanks!
+<br> 
 
 🌙**Recent News**
 
-* 2024.02: One co-authored paper will be published in [*IEEE TGRS*](https://doi.org/10.1109/TGRS.2024.3371684)!
+* 2024.02: One co-authored paper was published in [*IEEE TGRS*](https://doi.org/10.1109/TGRS.2024.3371684)!
 * 2024.01: One co-authored paper was published in [*Remote Sensing*](https://doi.org/10.3390/rs16020411)!
-* 2023.07: One co-authored paper was pubulished in [*Journal of Geophysical Research: Planets*](https://doi.org/10.1029/2022JE007656)!
+* 2023.07: One co-authored paper was pubulished in [*JGR-Planets*](https://doi.org/10.1029/2022JE007656)!
 * 2022.12: One co-authored paper was pubulished in [*Drones*](https://doi.org/10.3390/drones6120429)!
 * 2022.11: One co-authored paper was pubulished in [*Communications Earth & Environment*](https://doi.org/10.1038/s43247-022-00634-z)!
-* 2022.11: One paper was pubulished in [*IEEE Geoscience & Remote Sensing Letters*](https://doi.org/10.1109/LGRS.2022.3154629)!
+* 2022.11: One paper was pubulished in [*IEEE GRSL*](https://doi.org/10.1109/LGRS.2022.3154629)!
 * 2021.02: One co-authored paper was pubulished in [*Open Geosciences*](https://doi.org/10.1515/geo-2020-0229)!
 * 2020.12: One co-authored paper was pubulished on [*Journal of Structural Geology*](https://doi.org/10.1016/j.jsg.2020.104266)!
 * 2020.12: One co-authored paper was pubulished in [*Journal of Geomechanics*](https://doi.org/10.12090/j.issn.1006-6616.2020.26.06.077)!
