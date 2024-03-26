@@ -14,11 +14,7 @@ ________________________________________________________________________________
 
 <p style="text-align:justify; text-justify:inter-ideograph;">Zhouxuan is a Ph.D. candidate in Photogrammetry and Remote Sensing at Sun Yat-sen University, co-supervised by Prof. Wuming Zhang and Prof. Zhiyong Xiao. His research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping.</p>
 
-More info can be found on Zhouxuan's **[CV](ZhouxuanXiao_CV_2024v1.pdf)**.
-
-Note: 
-I am looking for a potential chance for a PostDoc in the field of Planetary Remote Sensing/Geology starting in early 2025, if there are any vacancies, welcome to contact me or send me the link. Kind thanks!
-<br> 
+More info can be found on Zhouxuan's **[CV](ZhouxuanXiao_CV_2024v1.pdf)**.<br> 
 
 🌙**Recent News**
 
