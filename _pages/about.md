@@ -13,11 +13,11 @@ ________________________________________________________________________________
 👨‍🎓**About Me**
 
 Name: Zhouxuan Xiao<br> 
-Posistion: Ph.D. Candidate<br> 
+Position: Ph.D. Candidate<br> 
 Affiliation: CGN | SYSU | UniTN | CHD<br> 
-Supervisor (now): Prof. Wuming Zhang & Prof. Zhiyong Xiao<br> 
-Supervisor (before): Prof. Ran Wang & Prof.Lorenzo Bruzzone & Ass. Prof. Yuan Li<br> 
-Research Interest: 3D point cloud analysis, image processing and planetary mapping<br> 
+Supervisors (now): Prof. Wuming Zhang & Prof. Zhiyong Xiao<br> 
+Supervisors (before): Prof. Ran Wang & Prof.Lorenzo Bruzzone & Ass. Prof. Yuan Li<br> 
+Research Interests: 3D point cloud analysis, image processing and planetary mapping<br> 
 
 *More info can be found on my **[CV](ZhouxuanXiao_CV_2024v1.pdf)**<br> 
 
