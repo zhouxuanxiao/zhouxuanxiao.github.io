@@ -12,12 +12,12 @@ ________________________________________________________________________________
 
 👨‍🎓**About Me**
 
-Name: Zhouxuan Xiao<br> 
+Name: **Zhouxuan Xiao**<br> 
 Position: Ph.D. Candidate<br> 
 Affiliation: CGN | SYSU | UniTN | CHD<br> 
-Supervisors (now): Prof. Wuming Zhang & Prof. Zhiyong Xiao<br> 
-Supervisors (before): Prof. Ran Wang & Prof.Lorenzo Bruzzone & Ass. Prof. Yuan Li<br> 
-Research Interests: 3D point cloud analysis, image processing and planetary mapping<br> 
+Supervisors (now): Prof. [Wuming Zhang](http://sges.sysu.edu.cn/teacher/377) & Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/pearl/teacher/80)<br> 
+Supervisors (before): Prof. [Ran Wang](https://js.chd.edu.cn/dqkxyzyxy/wr_en/list.psp) & Prof.[Lorenzo Bruzzone](https://webapps.unitn.it/du/it/Persona/PER0004714/Curriculum) & Ass. Prof. [Yuan Li](https://sges.sysu.edu.cn/teacher/686)<br> 
+Research Interests: **3D point cloud analysis, image processing and planetary mapping**<br> 
 
 *More info can be found on my **[CV](ZhouxuanXiao_CV_2024v1.pdf)**<br> 
 
