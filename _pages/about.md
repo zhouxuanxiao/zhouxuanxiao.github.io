@@ -11,13 +11,10 @@ redirect_from:
 ________________________________________________________________________________________________________
 
 **Biography**
-Name: **Zhouxuan Xiao**<br> 
-Position: Ph.D. Candidate<br> 
-Affiliation: CGN | SYSU | UniTN | CHD<br> 
-Supervisors (now): Prof. [Wuming Zhang](http://sges.sysu.edu.cn/teacher/377) & Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342)<br> 
-Supervisors (before): Prof. [Ran Wang](https://js.chd.edu.cn/dqkxyzyxy/wr/list.psp) & Prof.[Lorenzo Bruzzone](https://webapps.unitn.it/du/it/Persona/PER0004714/Curriculum) & Ass. Prof. [Yuan Li](https://sges.sysu.edu.cn/teacher/686)<br> 
-Research Interests: **2D/3D, image processing and planetary remote sensinf**<br> 
-*More info can be found on my **[CV](ZhouxuanXiao_CV_2024v1.pdf)**
+* **Zhouxuan Xiao** (Ph.D. Candidate, CGN|SYSU|UniTN|CHD)<br> 
+* Supervisors: Prof. [Wuming Zhang](http://sges.sysu.edu.cn/teacher/377) & Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342)//Prof. [Ran Wang](https://js.chd.edu.cn/dqkxyzyxy/wr/list.psp) & Prof.[Lorenzo Bruzzone](https://webapps.unitn.it/du/it/Persona/PER0004714/Curriculum) & Ass. Prof. [Yuan Li](https://sges.sysu.edu.cn/teacher/686)<br> 
+* Research Interests: **2D/3D, image processing and planetary remote sensing**<br> 
+* More info can be found on **[CV](ZhouxuanXiao_CV_2024v1.pdf)**
 
 **Recent News**
 * 2024.02: One paper was published in [IEEE TGRS](https://doi.org/10.1109/TGRS.2024.3371684)
