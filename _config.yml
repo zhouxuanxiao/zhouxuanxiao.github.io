@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "zxxiao_engineer"
+title                    : "Zhouxuan Xiao (肖宙轩)"
 title_separator          : ""
 name                     : &name "Zhouxuan Xiao (肖宙轩)"
 description              : &description "Ph.D. Candidate"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhouxuan Xiao (肖宙轩)"
+  name             : "zxxiao_engineer"
   avatar           : "xiao.png"
   bio              : "zhouxuan.xiao@foxmail.com"
   location         : "Zhuhai, China"
