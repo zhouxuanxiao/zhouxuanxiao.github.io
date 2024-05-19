@@ -11,18 +11,15 @@ redirect_from:
 ________________________________________________________________________________________________________
 
 **Biography**
-
 Name: **Zhouxuan Xiao**<br> 
 Position: Ph.D. Candidate<br> 
 Affiliation: CGN | SYSU | UniTN | CHD<br> 
 Supervisors (now): Prof. [Wuming Zhang](http://sges.sysu.edu.cn/teacher/377) & Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342)<br> 
 Supervisors (before): Prof. [Ran Wang](https://js.chd.edu.cn/dqkxyzyxy/wr/list.psp) & Prof.[Lorenzo Bruzzone](https://webapps.unitn.it/du/it/Persona/PER0004714/Curriculum) & Ass. Prof. [Yuan Li](https://sges.sysu.edu.cn/teacher/686)<br> 
-Research Interests: **3D point cloud analysis, image processing and planetary mapping**<br> 
-
-*More info can be found on my **[CV](ZhouxuanXiao_CV_2024v1.pdf)**<br> 
+Research Interests: **2D/3D, image processing and planetary remote sensinf**<br> 
+*More info can be found on my **[CV](ZhouxuanXiao_CV_2024v1.pdf)**
 
 **Recent News**
-
 * 2024.02: One paper was published in [IEEE TGRS](https://doi.org/10.1109/TGRS.2024.3371684)
 * 2024.01: One paper was published in [Remote Sensing](https://doi.org/10.3390/rs16020411)
 * 2023.07: One paper was pubulished in [JGR-Planets](https://doi.org/10.1029/2022JE007656)
@@ -42,14 +39,12 @@ Research Interests: **3D point cloud analysis, image processing and planetary ma
 * 2016.09: First paper was published in [Petrochemical Application](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)
 
 **Skills & Hobbies**
-
 * Languages: Chinese(Native) & English(normal) & Italian(little)
 * Programming: Python, C/C++, MATLAB, Fortran
 * Softwares: ArcGIS, Blender, QGIS, ENVI, CC, Metashpe, ...
 * Sports: Basketball, Badminton, Running, ...
 
 **Reviews**
-
 * IEEE TGRS
 * Drones
 * Remote Sensing
