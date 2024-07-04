@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 **🙋🏻‍♂️Biography**
 
-  <div style="text-align: justify;">Zhouxuan Xiao (Graduate Student Member, IEEE) received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively. He is currently pursuing a Ph.D. in the School of Geospatial Engineering and Science at Sun Yat-sen University, Zhuhai, China. His research interests include Image processing and 2D/3D Planetary mapping</div>
+  <div style="text-align: justify;">Zhouxuan Xiao (Graduate Student Member, IEEE) received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively. He is currently pursuing a Ph.D. in the School of Geospatial Engineering and Science at Sun Yat-sen University, Zhuhai, China. His research interests include Image processing and 2D/3D planetary mapping</div>
 <br>
 **📚Publications**
 
@@ -28,7 +28,7 @@ Papers on peer-review journals:
 
 [11] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[Dark spots on Mercury show no signs of weathering during 30 Earth months](https://doi.org/10.1038/s43247-022-00634-z.)”. Communications Earth & Environment, 2022, Springer Nature  
 
-[10] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li*, Jie Shao, Chaohua Ma, Wuming Zhang*, Man Peng. “[High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery](https://doi.org/10.1109/LGRS.2022.3154629.)”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19  
+[10] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “[High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery](https://doi.org/10.1109/LGRS.2022.3154629.)”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19  
 
 [9] **Zhouxuan Xiao**, Licheng Ma, Wan Jiang, Ran Wang, Yuyan Yao, Jie Cai, Jingyu Lin, Lu Li. “[Grenville-age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite](https://doi.org/10.1007/s12303-019-0033-8)”. Geosciences Journal, 2020, 24, 249–266  
 
