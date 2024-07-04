@@ -14,7 +14,6 @@ ________________________________________________________________________________
 
   <div style="text-align: justify;">Zhouxuan Xiao (Graduate Student Member, IEEE) received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively. He is currently pursuing a Ph.D. in the School of Geospatial Engineering and Science at Sun Yat-sen University, Zhuhai, China. His research interests include Image processing and 2D/3D Planetary mapping</div>
 <br>
-
 **📚Publications**
 
 Papers on peer-review journals:  
