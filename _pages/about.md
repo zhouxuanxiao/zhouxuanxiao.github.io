@@ -12,9 +12,17 @@ ________________________________________________________________________________
 
 **🙋🏻‍♂️Biography**
 
-<div style="text-align: justify; text-justify: inter-word;">
-Zhouxuan Xiao (Graduate Student Member, IEEE) received the B.E. and M.S. degree from Chang'an University, Xi'an, China, in 2017 and 2020, respectively. He is currently pursuing the Ph.D. degree in the School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China, and now visiting the Remote Sensing Laboratory, University of Trento, Trento, Italy. His research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping. Supervisors: Prof. <a href="http://sges.sysu.edu.cn/teacher/377">Wuming Zhang</a>, Prof. <a href="https://atmos.sysu.edu.cn/teacher/2342">Zhiyong Xiao</a>, Prof. <a href="https://webapps.unitn.it/du/it/Persona/PER0004714/Curriculum">Lorenzo Bruzzone</a>.
-</div>
+Zhouxuan Xiao (Graduate Student Member, IEEE) received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively. He is currently pursuing a Ph.D. in the School of Geospatial Engineering and Science at Sun Yat-sen University, Zhuhai, China, and visited the Remote Sensing Laboratory at the University of Trento, Trento, Italy during 2022-2023.
+
+His research interests include:
+- Image processing (segmentation, classification & change detection)
+- 2D/3D Planetary mapping
+
+Supervisors:
+- Prof. [Wuming Zhang](http://sges.sysu.edu.cn/teacher/377)
+- Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342)
+- Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/it/Persona/PER0004714/Curriculum)
+
 
 **📚Publications**
 
@@ -22,17 +30,11 @@ Full lists can be found on [Google Scholar](https://scholar.google.com/citations
 
 <small>
 <ul style="list-style-type: none; padding-left: 0;">
-{% assign count = 1 %}
 {% for post in site.publications reversed %}
-  <li>
-    [<sup>{{ count }}</sup>]
-    <strong>{{ post.title | split: '. ' | first }}.</strong> {{ post.authors }}. ({{ post.year }}). "{{ post.journal }}". {{ post.volume }}: {{ post.pages }}.
-  </li>
-  {% assign count = count | plus: 1 %}
+  {% include archive-single-cv.html %}
 {% endfor %}
 </ul>
 </small>
-
 
 🏆**Awards & Scholarships**
 
@@ -49,14 +51,3 @@ Full lists can be found on [Google Scholar](https://scholar.google.com/citations
 * 2019 - Scholarship, National Scholarship for Graduate Student
 * 2016 - Merit Student Awards of Chang’an University
 * 2015 - Scholarship, National Endeavor Scholarship for Undergraduate Student
-
-
-📚**Projects**
-
-* 2022-present:&nbsp;Geomorphology measurement of candidate sites for the FAST-A (Guangdong province, Co-investigator) 
-* 2021-present:&nbsp;3D rock extraction on Mars (State Key Laboratory of Remote Sensing, Co-investigator) 
-* 2020-present:&nbsp;Site selection for the International Lunar Research Station (CNSA, Participant) 
-* 2019-2020:&nbsp;Digitalizing rocky valley using point cloud data (Shaanxi Provincial Natural Science Foundation Project, Co-investigator) 
-* 2019-2020:&nbsp;Multi-scale analysis and feature extraction of crystalline rocks (Postgraduate research innovation practice project, Principal investigator)  
-* 2017-2019:&nbsp;Surrounding rock lining of tunnel crossing active fault (National Key R&D Program, Co-investigator)
-* 2016-2018:&nbsp;Investigation of oil and gas resources around the Qaidam Basin (China Geological Survey Project, Co-investigator)
