@@ -19,9 +19,13 @@ Supervisors: Prof. [Wuming Zhang](http://sges.sysu.edu.cn/teacher/377) & Prof. [
 
 Full lists can be found on [Google Scholar](https://scholar.google.com/citations?user=EYDXafgAAAAJ) or [ResearchGate](https://www.researchgate.net/profile/Zhouxuan-Xiao)
 
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<small>
+<ul style="list-style-type: none; padding-left: 0;">
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+</small>
 
 🏆**Awards & Scholarships**
 
