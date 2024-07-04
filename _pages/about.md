@@ -12,8 +12,9 @@ ________________________________________________________________________________
 
 **🙋🏻‍♂️Biography**
 
-Zhouxuan Xiao (Graduate Student Member, IEEE) received the B.E. and M.S. degree from the Chang'an University, Xi'an, China, in 2017 and 2020, respectively. He is currently pursuing the Ph.D. degree in the School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China, and now visiting the Remote Sensing Laboratory, University of Trento, Trento, Italy. His research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping. 
-Supervisors: Prof. [Wuming Zhang](http://sges.sysu.edu.cn/teacher/377) & Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342) & Prof.[Lorenzo Bruzzone](https://webapps.unitn.it/du/it/Persona/PER0004714/Curriculum)
+<div style="text-align: justify; text-justify: inter-word;">
+Zhouxuan Xiao (Graduate Student Member, IEEE) received the B.E. and M.S. degree from Chang'an University, Xi'an, China, in 2017 and 2020, respectively. He is currently pursuing the Ph.D. degree in the School of Geospatial Engineering and Science, Sun Yat-sen University, Zhuhai, China, and now visiting the Remote Sensing Laboratory, University of Trento, Trento, Italy. His research interests include 3D point cloud analysis, image processing (segmentation, classification & change detection), and planetary mapping. Supervisors: Prof. <a href="http://sges.sysu.edu.cn/teacher/377">Wuming Zhang</a>, Prof. <a href="https://atmos.sysu.edu.cn/teacher/2342">Zhiyong Xiao</a>, Prof. <a href="https://webapps.unitn.it/du/it/Persona/PER0004714/Curriculum">Lorenzo Bruzzone</a>.
+</div>
 
 **📚Publications**
 
