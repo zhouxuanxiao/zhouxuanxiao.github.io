@@ -22,11 +22,17 @@ Full lists can be found on [Google Scholar](https://scholar.google.com/citations
 
 <small>
 <ul style="list-style-type: none; padding-left: 0;">
+{% assign count = 1 %}
 {% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
+  <li>
+    [<sup>{{ count }}</sup>]
+    <strong>{{ post.title | split: '. ' | first }}.</strong> {{ post.authors }}. ({{ post.year }}). "{{ post.journal }}". {{ post.volume }}: {{ post.pages }}.
+  </li>
+  {% assign count = count | plus: 1 %}
 {% endfor %}
 </ul>
 </small>
+
 
 🏆**Awards & Scholarships**
 
