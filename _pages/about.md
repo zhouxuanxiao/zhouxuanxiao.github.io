@@ -13,16 +13,9 @@ ________________________________________________________________________________
 **🙋🏻‍♂️Biography**
 
 Zhouxuan Xiao (Graduate Student Member, IEEE) received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively. He is currently pursuing a Ph.D. in the School of Geospatial Engineering and Science at Sun Yat-sen University, Zhuhai, China, and visited the Remote Sensing Laboratory at the University of Trento, Trento, Italy during 2022-2023.
-
 His research interests include:
 - Image processing (segmentation, classification & change detection)
 - 2D/3D Planetary mapping
-
-Supervisors:
-- Prof. [Wuming Zhang](http://sges.sysu.edu.cn/teacher/377)
-- Prof. [Zhiyong Xiao](https://atmos.sysu.edu.cn/teacher/2342)
-- Prof. [Lorenzo Bruzzone](https://webapps.unitn.it/du/it/Persona/PER0004714/Curriculum)
-
 
 **📚Publications**
 
