@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhouxuan Xiao (肖宙轩)"
+title                    : "Dr. Zhouxuan Xiao"
 title_separator          : 
-name                     : &name "Zhouxuan Xiao (肖宙轩)"
-description              : &description "Ph.D. Candidate"
+name                     : &name "Dr. Zhouxuan Xiao"
+description              : 
 url                      : "https://zhouxuanxiao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhouxuanxiao.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhouxuan Xiao"
+  name             : "Dr. Zhouxuan Xiao"
   avatar           : "xiao.png"
-  bio              : "Imaging the Future"
+  bio              : "Engineer, CNPEC"
   location         : "GBA, China"
   employer         : 
   pubmed           : 
