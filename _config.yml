@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Zhouxuan Xiao"
 title_separator          : 
 name                     : &name "Dr. Zhouxuan Xiao"
-description              : 
+description              : &description "PhD"
 url                      : "https://zhouxuanxiao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhouxuanxiao.github.io"
