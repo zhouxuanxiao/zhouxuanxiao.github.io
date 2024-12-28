@@ -1,4 +1,4 @@
----
+  ---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 **🙋🏻‍♂️Biography**
 
-  <div style="text-align: justify;">Zhouxuan Xiao (Graduate Student Member, IEEE) received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively. He will soon get a Ph.D. degree in the School of Geospatial Engineering and Science at Sun Yat-sen University, Zhuhai, China. His current research interests include Image processing and 2D/3D planetary mapping</div>
+  <div style="text-align: justify;">Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree in the School of Geospatial Engineering and Science at Sun Yat-sen University, Zhuhai, China. He will join as a Engineer from January 2025 in the China Nuclear Power Engineering Corporation, Shenzhen, China.</div>
 <br>
 **📚Publications**
 
