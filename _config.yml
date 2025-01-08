@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Zhouxuan Xiao"
   avatar           : "xiao.png"
-  bio              : "Geophysical Engineer, CNPDC"
-  location         : "Shenzhen, China"
+  bio              : 
+  location         : 
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EYDXafgAAAAJ"
