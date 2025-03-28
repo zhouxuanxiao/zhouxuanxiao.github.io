@@ -18,6 +18,8 @@ ________________________________________________________________________________
 
 Papers on peer-review journals:  
 
+[16] Yuan Li, Xusheng Zhang, Junying Lv, Wuming Zhang, **Zhouxuan Xiao**, Ziyi Xiong. Geo-spatial Information Science, 2025  
+
 [15] Chaohua Ma, Yuan Li, Junying Lv, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo. “[Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism](https://doi.org/10.1109/TGRS.2024.3371684)”. IEEE Transactions on Geoscience and Remote Sensing, 2024  
 
 [14] Yuanhe Yu, **Zhouxuan Xiao**, Lorenzo Bruzzone, Huan Deng. "[Mapping and analyzing the spatiotemporal patterns and drivers of multiple ecosystem services: A case study in the Yangtze and Yellow River Basins](https://doi.org/10.3390/rs16020411)". Remote Sensing, 2024  
@@ -49,6 +51,8 @@ Papers on peer-review journals:
 [1] **Zhouxuan Xiao**, Hui Li, Rukuan Chai. “[Well productivity formula in low permeability reservoir with threshold pressure gradient](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)”. Petrochemical Application, 2016, 35(9)  
 
 Papers on academic conferences:
+
+[6] Yuan Li, Wuming Zhang, **Zhouxuan Xiao**, Chaohua Ma, Linzhou Zeng. “[Three-dimensional Morphological Analysis of Martian Rocks Using Zhurong Rover NaTeCam Images](https://meetingorganizer.copernicus.org/EGU25/EGU25-5847.html)”. EGU General Assembly 2025  
 
 [6] **Zhouxuan Xiao**, Ran Wang, Jingyu Lin, Wuming Zhang. “Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China”. The Third Symposium on Space Earth Science, China, 2020  
 
