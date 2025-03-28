@@ -52,7 +52,7 @@ Papers on peer-review journals:
 
 Papers on academic conferences:
 
-[6] Yuan Li, Wuming Zhang, **Zhouxuan Xiao**, Chaohua Ma, Linzhou Zeng. “[Three-dimensional Morphological Analysis of Martian Rocks Using Zhurong Rover NaTeCam Images](https://meetingorganizer.copernicus.org/EGU25/EGU25-5847.html)”. EGU General Assembly 2025  
+[7] Yuan Li, Wuming Zhang, **Zhouxuan Xiao**, Chaohua Ma, Linzhou Zeng. “[Three-dimensional Morphological Analysis of Martian Rocks Using Zhurong Rover NaTeCam Images](https://meetingorganizer.copernicus.org/EGU25/EGU25-5847.html)”. EGU General Assembly 2025  
 
 [6] **Zhouxuan Xiao**, Ran Wang, Jingyu Lin, Wuming Zhang. “Outcrop-scale Yardang Geometric Analysis using SfM-MVS Point Clouds in Hami Area, NW China”. The Third Symposium on Space Earth Science, China, 2020  
 
