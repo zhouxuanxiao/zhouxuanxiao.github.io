@@ -18,9 +18,9 @@ ________________________________________________________________________________
 
 Papers on peer-review journals:  
 
-[16] Yuan Li, Xusheng Zhang, Junying Lv, Wuming Zhang, **Zhouxuan Xiao**, Ziyi Xiong. Geo-spatial Information Science, 2025  
+[16] Yuan Li, Xusheng Zhang, Junying Lv, Wuming Zhang, **Zhouxuan Xiao**, Ziyi Xiong. “[A Multi-objective Multi-Factor Integrated Method for Comprehensive Luna Base Site Selection](https://doi.org/10.1080/10095020.2025.2495682)”. Geo-spatial Information Science (GSIS), 2495682，2025
 
-[15] Chaohua Ma, Yuan Li, Junying Lv, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo. “[Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism](https://doi.org/10.1109/TGRS.2024.3371684)”. IEEE Transactions on Geoscience and Remote Sensing, 2024  
+[15] Chaohua Ma, Yuan Li, Junying Lv, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo. “[Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism](https://doi.org/10.1109/TGRS.2024.3371684)”. IEEE Transactions on Geoscience and Remote Sensing（TGRS）, 2024  
 
 [14] Yuanhe Yu, **Zhouxuan Xiao**, Lorenzo Bruzzone, Huan Deng. "[Mapping and analyzing the spatiotemporal patterns and drivers of multiple ecosystem services: A case study in the Yangtze and Yellow River Basins](https://doi.org/10.3390/rs16020411)". Remote Sensing, 2024  
 
@@ -28,9 +28,9 @@ Papers on peer-review journals:
 
 [12] Yonghui Xin, Ran Wang, Xi Wang, Xingwei Wang, **Zhouxuan Xiao**, Jingyu Lin. “[High-Resolution Terrain Reconstruction of Slot Canyon Using Backpack Mobile Laser Scanning and UAV Photogrammetry](https://doi.org/10.3390/drones6120429)”. Drones, 2022, 6(12), 429  
 
-[11] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[Dark spots on Mercury show no signs of weathering during 30 Earth months](https://doi.org/10.1038/s43247-022-00634-z)”. Communications Earth & Environment, 2022, Springer Nature  
+[11] Yichen Wang, Zhiyong Xiao, Rui Xu, **Zhouxuan Xiao**, Jun Cui. “[Dark spots on Mercury show no signs of weathering during 30 Earth months](https://doi.org/10.1038/s43247-022-00634-z)”. Communications Earth & Environment(CEE), 2022, Springer Nature  
 
-[10] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “[High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery](https://doi.org/10.1109/LGRS.2022.3154629)”. IEEE Geoscience and Remote Sensing Letters, 2022, Vol.19  
+[10] **Zhouxuan Xiao**, Linzhou Zeng, Yuan Li, Jie Shao, Chaohua Ma, Wuming Zhang, Man Peng. “[High-Precision Measurement of 3-D Rock Morphology on Mars Using Stereo Rover Imagery](https://doi.org/10.1109/LGRS.2022.3154629)”. IEEE Geoscience and Remote Sensing Letters(GRSL), 2022, Vol.19  
 
 [9] **Zhouxuan Xiao**, Licheng Ma, Wan Jiang, Ran Wang, Yuyan Yao, Jie Cai, Jingyu Lin, Lu Li. “[Grenville-age orogenic event along the northeastern margin of the Quanji massif, NW China: constraints from ~1.1 Ga migmatite](https://doi.org/10.1007/s12303-019-0033-8)”. Geosciences Journal, 2020, 24, 249–266  
 
