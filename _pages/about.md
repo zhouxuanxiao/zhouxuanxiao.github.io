@@ -16,6 +16,12 @@ ________________________________________________________________________________
 <br>
 **📚Publications**
 
+Papers UNDER REVIEW:  
+
+[2] “L. Landslides”. National Science Review (submitted on 10-Mar-2025)
+
+[1] “Smooth ejecta deposits CE6”. Communications Earth & Environment (submitted on 17-Mar-2025)
+
 Papers on peer-review journals:  
 
 [16] Yuan Li, Xusheng Zhang, Junying Lv, Wuming Zhang, **Zhouxuan Xiao**, Ziyi Xiong. “[A Multi-objective Multi-Factor Integrated Method for Comprehensive Luna Base Site Selection](https://doi.org/10.1080/10095020.2025.2495682)”. Geo-spatial Information Science (GSIS), 2495682，2025
