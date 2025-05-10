@@ -18,13 +18,13 @@ ________________________________________________________________________________
 
 Papers UNDER REVIEW:  
 
-[2] “L. Landslides”. National Science Review (submitted on 10-Mar-2025)
+[2] “L. Landslides”. National Science Review (Major Revision given on 05-May-2025)
 
-[1] “Smooth ejecta deposits CE6”. Communications Earth & Environment (submitted on 17-Mar-2025)
+[1] “Smooth ejecta deposits CE6”. Communications Earth & Environment (Undder Review, submitted on 17-Mar-2025)
 
 Papers on peer-review journals:  
 
-[16] Yuan Li, Xusheng Zhang, Junying Lv, Wuming Zhang, **Zhouxuan Xiao**, Ziyi Xiong. “[A Multi-objective Multi-Factor Integrated Method for Comprehensive Luna Base Site Selection](https://doi.org/10.1080/10095020.2025.2495682)”. Geo-spatial Information Science (GSIS), 2495682，2025
+[16] Yuan Li, Xusheng Zhang, Junying Lv, Wuming Zhang, **Zhouxuan Xiao**, Ziyi Xiong. “[A Multi-objective Multi-Factor Integrated Method for Comprehensive Luna Base Site Selection](https://doi.org/10.1080/10095020.2025.2495682)”. Geo-spatial Information Science (GSIS), 2025
 
 [15] Chaohua Ma, Yuan Li, Junying Lv, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo. “[Automated Rock Detection from Mars Rover Image via Y-shape Dual-Task Network with Depth-aware Spatial Attention Mechanism](https://doi.org/10.1109/TGRS.2024.3371684)”. IEEE Transactions on Geoscience and Remote Sensing（TGRS）, 2024  
 
