@@ -14,19 +14,21 @@ ________________________________________________________________________________
 
   <div style="text-align: justify;">Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China in 2024. His research interests include 2D/3D, Planetary Exploration and Nuclear Engineering.</div>
 <br>
-**📚Publications**
 
-Papers in preparation:  
+📚**Publications**
+
+⏱️Papers in preparation:  
+
 [1] **Zhouxuan Xiao** et al., “Identification and stability assessment of geotechnical structural surfaces at factory sites using RGB point cloud data”，2025
 
-Papers under review:  
+🥐Papers under review:  
 
 [18] Zhiyong Xiao*, **Zhouxuan Xiao**, Wuming Zhang, Shubing Ouyang, Yichen Wang, Yiren Chang, Hanxing Ouyang, Senmiao Wang, Jun Cui. “Active landslides on the Moon”. National Science Review (In Revision), 2024  
 
 [17] Zhiyong Xiao*, Yizhen Ma, Yunhua Wu, Fanglu Luo, Zhi Cao, Pan Yan, **Zhouxuan Xiao**, Bo Wu, Lifeng Zhong, Yanxue Wu, Ranye Jia, Wu Wei, Senmiao Wang, Pei Ma, Yichen Wang, Zongjun Yin, Wei Cao, Qingyun Deng, Mingchao Xiong, Zilei Chen, Suping Wu, Xiaohan Dong, Rui Xu, 
 Qing Pan, Jian-Yang Li, Jun Cui. “Late-Copernican smooth ejecta deposits sampled by Chang’e-6”. Communications Earth & Environment (Under Review), 2025
 
-Papers on peer-review journals:  
+📰Papers on peer-review journals:  
 
 [16] Yuan Li, Xusheng Zhang, Junying Lv, Wuming Zhang*, **Zhouxuan Xiao**, Ziyi Xiong. “[A Multi-objective Multi-Factor Integrated Method for Comprehensive Luna Base Site Selection](https://doi.org/10.1080/10095020.2025.2495682)”. Geo-spatial Information Science (GSIS), 2025
 
@@ -60,7 +62,7 @@ Papers on peer-review journals:
 
 [1] **Zhouxuan Xiao**, Hui Li*, Rukuan Chai. “[Well productivity formula in low permeability reservoir with threshold pressure gradient](https://doi.org/10.3969/j.issn.1673-5285.2016.09.009)”. Petrochemical Application, 2016, 35(9)  
 
-Papers on academic conferences:
+📃Papers on academic conferences:
 
 [7] Yuan Li*, Wuming Zhang, **Zhouxuan Xiao**, Chaohua Ma, Linzhou Zeng. “[Three-dimensional Morphological Analysis of Martian Rocks Using Zhurong Rover NaTeCam Images](https://meetingorganizer.copernicus.org/EGU25/EGU25-5847.html)”. EGU General Assembly 2025  
 
@@ -76,12 +78,11 @@ Papers on academic conferences:
 
 [1] Jingyu Lin, Ran Wang*, **Zhouxuan Xiao**, Lu Li, Weihua Yao, Wei Han, Baolin Zhao. “[Application of backpack Lidar to geological cross-section measurement](https://doi.org/10.1117/12.2295060)”. Proceeding of SPIE 10605, LIDAR Imaging Detection and Target Recognition 2017, 106050J (15 November 2017)  
 
-Datasets:  
+🔢Datasets:  
 
 [2] Li, Yuan*, **Xiao, Zhouxuan**, Ma, Chaohua, Zeng, Linzhou, Zhang, Wuming*, Peng, Man, & Li, Aiguang. (2023). DEM, rock point clouds, and 3D morphological features of Martian rocks in the landing region of Zhurong rover (1.0) [Data set]. [Zenodo](https://doi.org/10.5281/zenodo.7620416)  
 
 [1] Ma, Chaohua, Li, Yuan*, **Xiao, Zhouxuan**, Zhang, Wuming, Mo, Linshan, & Li, Aiguang. (2023). SimMars6K (1.0) [Data set]. [Zenodo](https://doi.org/10.5281/zenodo.7707898)  
-
 
 🏆**Awards & Scholarships**  
 * 2023 - Scholarship, 3rd place Scholarship of Sun Yat-sen University
