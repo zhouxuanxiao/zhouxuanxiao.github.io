@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 **🙋🏻‍♂️Biography**
 
-  <div style="text-align: justify;">Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China in 2024. His research interests include 2D/3D, Planetary Exploration and Nuclear Engineering.</div>
+  <div style="text-align: justify;">Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China in 2024. His research interests include 2D/3D, Planetary Exploration and Digital Engineering.</div>
 <br>
 
 📚**Publications**
