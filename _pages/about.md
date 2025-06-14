@@ -80,9 +80,9 @@ Qing Pan, Jian-Yang Li, Jun Cui. “Late-Copernican smooth ejecta deposits sampl
 
 🔢Datasets:  
 
-[2] Li, Yuan*, **Xiao, Zhouxuan**, Ma, Chaohua, Zeng, Linzhou, Zhang, Wuming*, Peng, Man, & Li, Aiguang. (2023). DEM, rock point clouds, and 3D morphological features of Martian rocks in the landing region of Zhurong rover (1.0) [Data set]. [Zenodo](https://doi.org/10.5281/zenodo.7620416)  
+[2] Yuan Li, **Zhouxuan Xiao**, Chaohua Ma, Linzhou Zeng, Wuming Zhang*, Man Peng, Aiguang Li. (2023). DEM, rock point clouds, and 3D morphological features of Martian rocks in the landing region of Zhurong rover (1.0) [Data set]. [Zenodo](https://doi.org/10.5281/zenodo.7620416)  
 
-[1] Ma, Chaohua, Li, Yuan*, **Xiao, Zhouxuan**, Zhang, Wuming, Mo, Linshan, & Li, Aiguang. (2023). SimMars6K (1.0) [Data set]. [Zenodo](https://doi.org/10.5281/zenodo.7707898)  
+[1] Chaohua Ma, Yuan Li*, **Zhouxuan Xiao**, Wuming Zhang, Linshan Mo, Aiguang Li. (2023). SimMars6K (1.0) [Data set]. [Zenodo](https://doi.org/10.5281/zenodo.7707898)  
 
 🏆**Awards & Scholarships**  
 * 2023 - Scholarship, 3rd place Scholarship of Sun Yat-sen University
