@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 🥐Papers under review:  
 
-[2] Zhiyong Xiao*, **Zhouxuan Xiao**, Wuming Zhang, Shubing Ouyang, Yichen Wang, Yiren Chang, Hanxing Ouyang, Senmiao Wang, Jun Cui. “Active landslides on the Moon”. National Science Review (NSR, In Revision), 2024  
+[2] Zhiyong Xiao*, **Zhouxuan Xiao**, Wuming Zhang, Shubing Ouyang, Yichen Wang, Yiren Chang, Hanxing Ouyang, Senmiao Wang, Jun Cui. “Active landslides on the Moon”. National Science Review (NSR, In Revision), 2025
 
 [1] Zhiyong Xiao*, Yizhen Ma, Yunhua Wu, Fanglu Luo, Zhi Cao, Pan Yan, **Zhouxuan Xiao**, Bo Wu, Lifeng Zhong, Yanxue Wu, Ranye Jia, Wu Wei, Senmiao Wang, Pei Ma, Yichen Wang, Zongjun Yin, Wei Cao, Qingyun Deng, Mingchao Xiong, Zilei Chen, Suping Wu, Xiaohan Dong, Rui Xu, 
 Qing Pan, Jian-Yang Li, Jun Cui. “Late-Copernican smooth ejecta deposits sampled by Chang’e-6”. Communications Earth & Environment (CEE, Under Review), 2025
