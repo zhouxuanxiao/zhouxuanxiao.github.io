@@ -10,20 +10,20 @@ redirect_from:
 
 ________________________________________________________________________________________________________
 ⏱️About Me    
-Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China in 2024. From 2022 to 2023, He acted as a visiting scholar at RSLab, University of Trento, Italy. His research interests include 2D/3D and Digital Engineering.<br>
-For peer-reviewed papers, please see [Publications](https://zhouxuanxiao.github.io/publications/)
+Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China in 2024. From 2022 to 2023, He acted as a visiting scholar at RSLab, University of Trento, Italy. His research interests include 2D/3D and Digital Engineering. CV is on [here](https://zhouxuanxiao.github.io/cv/)<br>
 
-🏆Awards & Scholarships  
-* 2023 - Scholarship, 3rd place Scholarship of Sun Yat-sen University<br>
-* 2022 - Scholarship, CSC<br>
-* 2022 - Scholarship, 2nd place Scholarship of Sun Yat-sen University<br>
-* 2021 - Scholarship, 2nd place Scholarship of Sun Yat-sen University<br>
-* 2021 - Award, Champion of Volleyball match in Zhuhai Campus, SYSU<br>
-* 2021 - Award, 2nd place of Basketball match in Zhuhai Campus, SYSU<br>
-* 2020 - 1st Place, High-precision Map Contest in the National LiDAR Conference<br>
-* 2020 - 2nd Place, Point Cloud Classification Contest in the National LiDAR Conference<br>
-* 2020 - Scholarship, 3rd place Scholarship of Sun Yat-sen University<br>
-* 2020 - Outstanding Graduates Awards of Chang’an University<br>
-* 2019 - Scholarship, National Scholarship for Graduate Student<br>
-* 2016 - Merit Student Awards of Chang’an University<br>
-* 2015 - Scholarship, National Endeavor Scholarship for Undergraduate Student<br>
+For peer-reviewed papers, please see [Publications](https://zhouxuanxiao.github.io/publications/)<br>
+For open-source datasets, please see [Datasets](https://zhouxuanxiao.github.io/datasets/))<br>
+
+Current Projects:   
+* 2025-present: Automated extraction of rock mass parameters using 3D point cloud data (principal investigator)
+* 2021-2023:  Rock 3Dextraction on Mars (State Key Laboratory of Remote Sensing, Participant)  
+* 2020-2022: Site selection for ILRS (CNSA, Participant)  
+* 2019-2020: Digitalizing rocky valley using point cloud data (Shaanxi Provincial Natural Science 
+Foundation Project, Co-investigator)  
+* 2019-2020: Multi-scale analysis and feature extraction of crystalline rocks (Postgraduate 
+research innovation practice project, principal investigator)   
+* 2017-2019: Surrounding rock lining of tunnel crossing active fault (National Key R&D Program, 
+Co-investigator) 
+* 2016-2018: Investigation of oil and gas resources around the Qaidam Basin (China Geological 
+Survey Project, Co-investigator) 
