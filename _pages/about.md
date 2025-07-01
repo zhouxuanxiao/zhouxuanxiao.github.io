@@ -13,7 +13,8 @@ ________________________________________________________________________________
 Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China in 2024. From 2022 to 2023, He acted as a visiting scholar at RSLab, University of Trento, Italy. His research interests include 2D/3D and Digital Engineering. CV is on [here](https://zhouxuanxiao.github.io/cv/)<br>
 
 For peer-reviewed papers, please see [Publications](https://zhouxuanxiao.github.io/publications/)<br>
-For open-source datasets, please see [Datasets](https://zhouxuanxiao.github.io/datasets/))<br>
+For open-source datasets, please see [Datasets](https://zhouxuanxiao.github.io/datasets/)<br>
+For some academic talks, please see [Talks](https://zhouxuanxiao.github.io/talks/)<br>
 
 Scientific Projects:   
 * 2025-now : Automated extraction of rock mass parameters using 3D point cloud data (Principal Investigator)
