@@ -11,4 +11,4 @@ author_profile: true
 Who visit this website？
 ======
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5dboxm103w3&amp;m=7&amp;c=00ff6c&amp;cr1=ffffff&amp;f=times_new_roman&amp;sx=0" async="async"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sd18kSy_G0Qhbv0X1-J0EXrBvwja9zHOqYG179n4Y-4"></script>
