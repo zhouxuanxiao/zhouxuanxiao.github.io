@@ -19,7 +19,8 @@ For open-source datasets, please see [Datasets](https://zhouxuanxiao.github.io/d
 For some academic talks, please see [Talks](https://zhouxuanxiao.github.io/talks/).<br>
 
 Some Scientific Projects:   
-* 2025-NOW: Hyperspectral Remote Sensing Image Processing
+* 2026-NOW: Hyperspectral Remote Sensing Image Processing
+* 2025-NOW: InSAR Processing
 * 2025-NOW: Extraction of Rock Mass Parameters using 3D Point Cloud Data (Principal Investigator)
 * 2021-2023: Rock 3D Extraction on Mars (Co-investigator)  
 * 2020-2022: Site Selection for ILRS (Co-investigator)  
