@@ -12,15 +12,18 @@
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: 100%;            /* 修改：让内容充满整个网页宽度 */
+    padding-left: 2%;           /* 可选：保留一点舒适的内边距 */
+    padding-right: 2%;
   }
 }
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    /* 修改：占满整列，去除左右边距，让内容更宽 */
+    @include span(12 of 12);
+    @include prefix(0);
+    @include suffix(0);
   }
 
   .page__inner-wrap {
@@ -55,13 +58,15 @@
     border-bottom: 1px solid $border-color;
   }
 
+  /* 修改：正文字体稍微调小 */
   p, li, dl {
-    font-size: 1em;
+    font-size: 0.9em;           /* 原来是 1em */
   }
 
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
+    text-align: justify;        /* 新增：两端对齐 */
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
