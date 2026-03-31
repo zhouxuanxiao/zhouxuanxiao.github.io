@@ -25,7 +25,7 @@ ________________________________________________________________________________
 
 [2] Fan Mao, **Zhouxuan Xiao**, et al., “Surface Deformation Monitoring of Backfill Areas in *** Using Improved SBAS-InSAR Technology”. Under Review, 2026
 
-[1] Zhiyong Xiao*, Yizhen Ma, Yunhua Wu, Fanglu Luo, Zhi Cao, Pan Yan, **Zhouxuan Xiao**, Bo Wu, Lifeng Zhong, Yanxue Wu, Ranye Jia, Wu Wei, Senmiao Wang, Pei Ma, Yichen Wang, Zongjun Yin, Wei Cao, Qingyun Deng, Mingchao Xiong, Zilei Chen, Suping Wu, Xiaohan Dong, Rui Xu, Qing Pan, Jian-Yang Li, Jun Cui. “Late-Copernican smooth ejecta deposits sampled by Chang’e-6”. Communications Earth & Environment (CEE, Under Review), 2026
+[1] Zhiyong Xiao*, Yizhen Ma, Yunhua Wu, Fanglu Luo, Zhi Cao, Pan Yan, **Zhouxuan Xiao**, Bo Wu, Lifeng Zhong et al., “Late-Copernican smooth ejecta deposits sampled by Chang’e-6”. Communications Earth & Environment (CEE, Under Review), 2026
 
 📰Papers on peer-review journals:  
 
