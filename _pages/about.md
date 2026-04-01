@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 **🙋🏻‍♂️Biography**
 
-  <div style="text-align: justify;">Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China, in 2024. From 2022 to 2023, He acted as a visiting scholar at RSLab, University of Trento, Italy. Now, he is an **RS/GIS Engineer**. His research interests include 2D/3D and Digital Engineering.</div><br>
+  <div style="text-align: justify;">Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China, in 2024. From 2022 to 2023, He acted as a visiting scholar at RSLab, University of Trento, Italy. Now, he is an RS/GIS Engineer. His research interests include 2D/3D and Digital Engineering.</div><br>
 
 📚**Publications**
 
