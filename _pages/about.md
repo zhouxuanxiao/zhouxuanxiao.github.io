@@ -12,7 +12,7 @@ ________________________________________________________________________________
 
 **🙋🏻‍♂️Biography**
 
-  <div style="text-align: justify;">Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China, in 2024. From 2022 to 2023, He acted as a visiting scholar at RSLab, University of Trento, Italy. Now, he is an RS/GIS Engineer. His research interests include 2D/3D and Digital Engineering.</div><br>
+  <div style="text-align: justify;">Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China, in 2024. From 2022 to 2023, He acted as a visiting scholar at RSLab, University of Trento, Italy. Now, he is an **RS/GIS Engineer**. His research interests include 2D/3D and Digital Engineering.</div><br>
 
 📚**Publications**
 
@@ -24,11 +24,11 @@ ________________________________________________________________________________
 
 [2] Fan Mao, **Zhouxuan Xiao**, et al., “Surface Deformation Monitoring of Backfill Areas in *** Using Improved SBAS-InSAR Technology”. Under Review, 2026
 
-[1] Zhiyong Xiao*, Yizhen Ma, Yunhua Wu, Fanglu Luo, Zhi Cao, Pan Yan, **Zhouxuan Xiao**, Bo Wu, Lifeng Zhong et al., “Late-Copernican smooth ejecta deposits sampled by Chang’e-6”. Communications Earth & Environment (CEE, Under Review), 2026
+[1] Zhiyong Xiao*, Yizhen Ma, Yunhua Wu, Fanglu Luo, Zhi Cao, Pan Yan, **Zhouxuan Xiao**, Bo Wu, Lifeng Zhong et al., “Late-Copernican smooth ejecta deposits sampled by Chang’e-6”. National Science Review (NSR, Under Review), 2026
 
 📰Papers on peer-review journals:  
 
-[17] Zhiyong Xiao*, **Zhouxuan Xiao**, Wuming Zhang, Shubing Ouyang, Yichen Wang, Yiren Chang, Hanxing Ouyang, Senmiao Wang, Jun Cui. “[Active landslides on the Moon]()https://doi.org/10.1093/nsr/nwaf384”. National Science Review (NSR), 2026
+[17] Zhiyong Xiao*, **Zhouxuan Xiao**, Wuming Zhang, Shubing Ouyang, Yichen Wang, Yiren Chang, Hanxing Ouyang, Senmiao Wang, Jun Cui. “[Active landslides on the Moon](https://doi.org/10.1093/nsr/nwaf384)”. National Science Review (NSR), 2026
 
 [16] Yuan Li, Xusheng Zhang, Junying Lv, Wuming Zhang*, **Zhouxuan Xiao**, Ziyi Xiong. “[A Multi-objective Multi-Factor Integrated Method for Comprehensive Luna Base Site Selection](https://doi.org/10.1080/10095020.2025.2495682)”. Geo-spatial Information Science(GSIS), 2025
 
