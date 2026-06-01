@@ -16,7 +16,7 @@ ________________________________________________________________________________
 
 📚**Publications**
 
-⏱️Papers under review or in preparation :  
+⏱️Papers under-review or in-preparation :  
 
 [3] Lifeng Wang, Qingyu Li, **Zhouxuan Xiao** et al., “A Rapid and Non-destructive Rice Variety Pixel-level Identification Method using Hyperspectral Imaging and Residual Network”. Remote Sensing (RS, Under Review), 2026
 
