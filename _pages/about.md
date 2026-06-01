@@ -12,17 +12,15 @@ ________________________________________________________________________________
 
 **🙋🏻‍♂️Biography**
 
-  <div style="text-align: justify;">Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University, Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University, Zhuhai, China, in 2024. From 2022 to 2023, He acted as a visiting scholar at RSLab, University of Trento, Italy. Now, he is an RS/GIS Engineer. His research interests include 2D/3D and Digital Engineering.</div><br>
+  <div style="text-align: justify;">Zhouxuan Xiao received the B.E. and M.S. degrees from Chang'an University (CHD), Xi'an, China, in 2017 and 2020, respectively, and got a Ph.D. degree from Sun Yat-sen University (SYSU), Zhuhai, China, in 2024. From 2022 to 2023, He acted as a visiting scholar at RSLab, University of Trento (UoT), Italy. Now, he is an RS/GIS Engineer. His research interests include 2D/3D and Digital Engineering.</div><br>
 
 📚**Publications**
 
-⏱️Papers in preparation:  
+⏱️Papers under review or in preparation :  
 
-[1] **Zhouxuan Xiao** et al., “Identification and stability assessment of geotechnical structural surfaces at factory sites using RGB point cloud data”，In prep, 2026
+[3] Lifeng Wang, Qingyu Li, **Zhouxuan Xiao** et al., “A Rapid and Non-destructive Rice Variety Pixel-level Identification Method using Hyperspectral Imaging and Residual Network”. Remote Sensing (RS, Under Review), 2026
 
-🥐Papers under review:  
-
-[2] Fan Mao, **Zhouxuan Xiao**, et al., “Surface Deformation Monitoring of Backfill Areas in *** Using Improved SBAS-InSAR Technology”. Under Review, 2026
+[2] Fan Mao, **Zhouxuan Xiao***, et al., “Surface Deformation Monitoring of Backfill Areas in *** Using Improved SBAS-InSAR Technology”. Under Review, 2026
 
 [1] Zhiyong Xiao*, Yizhen Ma, Yunhua Wu, Fanglu Luo, Zhi Cao, Pan Yan, **Zhouxuan Xiao**, Bo Wu, Lifeng Zhong et al., “Late-Copernican smooth ejecta deposits sampled by Chang’e-6”. National Science Review (NSR, Under Review), 2026
 
