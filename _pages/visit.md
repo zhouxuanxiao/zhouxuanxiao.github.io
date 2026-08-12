@@ -11,4 +11,4 @@ author_profile: true
 Who visit this website？
 ======
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=sd18kSy_G0Qhbv0X1-J0EXrBvwja9zHOqYG179n4Y-4"></script>
+<a href="http://s01.flagcounter.com/more/22d"><img src="https://s01.flagcounter.com/map/22d/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
