@@ -16,15 +16,15 @@ ________________________________________________________________________________
 
 📚**Publications**
 
-⏱️Papers under-review or in-preparation :  
+⏱️Papers under review or in preparation:  
 
-[3] Lifeng Wang, Qingyu Li, **Zhouxuan Xiao** et al., “A Rapid and Non-destructive Rice Variety Pixel-level Identification Method using Hyperspectral Imaging and Residual Network”. Remote Sensing (RS, Under Review), 2026
+[2] Lifeng Wang, Qingyu Li, **Zhouxuan Xiao** et al., “A Rapid and Non-destructive Rice Variety Pixel-level Identification Method using Hyperspectral Imaging and Residual Network”. (Under Review), 2026
 
-[2] Fan Mao, **Zhouxuan Xiao***, et al., “Surface Deformation Monitoring of Backfill Areas in *** Using Improved SBAS-InSAR Technology”. Under Review, 2026
-
-[1] Zhiyong Xiao*, Yizhen Ma, Yunhua Wu, Fanglu Luo, Zhi Cao, Pan Yan, **Zhouxuan Xiao**, Bo Wu, Lifeng Zhong et al., “Late-Copernican smooth ejecta deposits sampled by Chang’e-6”. National Science Review (NSR, Under Review), 2026
+[1] Zhiyong Xiao*, Yizhen Ma, Yunhua Wu, Fanglu Luo, Zhi Cao, Pan Yan, **Zhouxuan Xiao**, Bo Wu, Lifeng Zhong et al., “Late-Copernican smooth ejecta deposits sampled by Chang’e-6”. (Under Review), 2026
 
 📰Papers on peer-review journals:  
+
+[18] Fan Mao, **Zhouxuan Xiao***, Yuchen Du, Yang Han, Jiaxin Zhang, “[Surface Deformation Monitoring of Backfill Areas in Nuclear Power Plants using SBAS-InSAR Technology](https://www.researchgate.net/publication/413828865_Surface_Deformation_Monitoring_of_Backfill_Areas_in_Nuclear_Power_Plants_using_SBAS-InSAR_Technology)”. Journal of Nuclear Science and Engineering, 2026
 
 [17] Zhiyong Xiao*, **Zhouxuan Xiao**, Wuming Zhang, Shubing Ouyang, Yichen Wang, Yiren Chang, Hanxing Ouyang, Senmiao Wang, Jun Cui. “[Active landslides on the Moon](https://doi.org/10.1093/nsr/nwaf384)”. National Science Review (NSR), 2026
 
